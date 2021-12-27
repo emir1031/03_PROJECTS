@@ -1,0 +1,2 @@
+# Short Brief of the Project
+#### With KMeans and Hierarchical Clustering models, I created a model that segments customers according to the purchasing history obtained from the membership cards of a big mall.<br> Based on clustering results, I added my insights to retain existing high-spending customers and increase the number of such customers with some promotions.
