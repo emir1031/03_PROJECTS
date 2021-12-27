@@ -1,0 +1,2 @@
+# Short Brief of the Project
+#### I answered the question of whether a decent gender classifier can be built given a dataset with people’s personal preferences.<br> After an exploratory data analysis of the data, I applied 16 different ML models such as KNeighbors, Logistic, CatBoost, and based on their performances chose ExtraTree model as the core model.
