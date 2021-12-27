@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(17, 15, 15);
+    color: white;
+}
+#main {
+    margin: auto;
+    width: 80%;
+    height: 700px;    
+}
+#title {
+    font-family: "Lobster", cursive;
+    text-align: center;
+    font-size: 70px;
+}
+span {
+    color: rgb(51, 212, 100);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border-radius: 10px;
+}
+p {
+    text-align: center;
+    margin-top: 3em;
+    font-size: 23px;
+}
+li {
+    font-size: 23px;
+    line-height: 1.8;
+}
+#link {
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    font-size: 25px;
+}
+#link:hover {
+    color: white;
+}
+#main {    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(https://miro.medium.com/max/2000/1*LhHcxo1r1D-OfG-qbPCS2Q.jpeg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 110vh;
+}
+#center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+#sub {
+    width: 120px;
+    height: 43px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 18px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    padding-top: 5px;
+    color: rgb(56, 25, 92)
+}
+#sub:hover {
+    background-color: rgb(255, 136, 0);
+}
+#detect{
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.inp{
+    width: 125px;
+    text-align: center;
+}
+.v{
+    font-size: 20px;
+    padding-right: 10px;
+
+}

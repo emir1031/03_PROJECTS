@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>FRAUD DETECTION</title>
+        <link rel="stylesheet" href="{{ url_for('static',filename='styles/index.css') }}">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Lobster&display=swap" rel="stylesheet">
+    </head>
+<body>
+    <div id="main">
+        <h2 id="title">FRAUD <span>DETECTION</span></h2>
+        <div>
+            <div id="detect">Credit Card Fraud Detection </div>
+        </div>
+        <form action="{{ url_for('predict')}}" method="post">
+            <div>
+                <table>
+                    <tr>
+                        <label class="v" for=" v4"> V4</label>
+                        <input class="inp" type="float" name="V4" placeholder='Plase enter value'>
+                        <br>
+                        <br>
+                        <label class="v" for="v10">V10</label>
+                        <input class="inp" type="float" name="V10" placeholder='Plase enter value'>
+                        <br>
+                        <br>
+                        <label class="v" for="v11">V11</label>
+                        <input class="inp" type="float" name="V12" placeholder='Plase enter value'>
+                        <br>
+                        <br>
+                        <label class="v" for="v12">V12</label>
+                        <input class="inp" type="float" name="V14" placeholder='Plase enter value'>
+                        <br>
+                        <br>
+                        <label class="v" for="v14">V14</label>
+                        <input class="inp" type="float" name="V17" placeholder='Plase enter value' >
+                        <br>
+                        <br>
+                        <label class="v" for="v17">Amt</label>
+                        <input class="inp" type="float" name="Amount" placeholder='AMOUNT'>
+                        <br>
+                </table><br><br>
+                <div id="marvel">
+                    <div class="list">
+                        <button id="sub" type="submit">PREDICT</button>
+                        <p>
+                            <br><br>
+                        <h3 style="font-size:30px">{{ prediction_text }}<h3>
+                                </p>
+                    </div>
+                </div>
+                </tr>
+            </div>
+        </form>
+    </div>
+</body>
