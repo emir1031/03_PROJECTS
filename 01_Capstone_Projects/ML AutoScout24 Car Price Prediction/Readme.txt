@@ -1,0 +1,3 @@
+An original dataset taken directly from the given web page was used. 
+With Dataset, a Machine Learning model was developed to predict the price of cars based on their given characteristics.
+You can find more details in the notebook for this project, where I tried to reach the most precise result with the least number of features.
