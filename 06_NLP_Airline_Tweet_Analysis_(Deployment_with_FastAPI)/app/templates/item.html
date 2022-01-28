@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body, html {
+  height: 100%;
+  width: 100%;
+}
+
+img.emir {
+  border: 5px solid #ddd;
+  border-radius: 10px;
+  padding: 1px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: cover;
+  }
+  
+input.input-box, textarea {background-color: white; color: #61267c;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+
+.demo-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.demo-bg {
+  opacity: 0.5;
+  position: absolute;
+  left: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.demo-content {
+  position: relative;
+}
+</style>
+</head>
+<body>
+<div class="demo-wrap"></div>
+<img class="demo-bg" src="https://cdn.wallpapersafari.com/66/70/tF5WBj.jpg" alt="">
+
+
+<div class="demo-content">    
+      
+<h1 style="color:#C703A3; text-align: center; font-size:50px;">J. Society Airline Company</h1>
+<h2 style="color:darkviolet; text-align: center; font-size:40px;"> Tweet Classification Tool</h2>
+<p style="color:darkviolet; font-size:30px">Identifying Negative, Positive & Neutral Tweets</p>
+
+<img class ="emir" src="../static/us-airlines.jpeg" alt="NER Model" class="center" style="width:500px">
+
+<p></p>
+<p></p>
+
+<center>
+<form action='/result' method='post'>
+  <input class="input-box" type="text", name="tweet", minlength="6" maxlength="280" size="100", placeholder="Write your comments about J.Society Airline (up to 280 characters)">
+  <button id="sub" type="submit ">FLY AWAY</button>
+</form>
+</center>
+
+<p></p>
+<p></p>
+
+<h2 style="color:#C703A3">Your Comment Evaluation Based on Our Tweet Database</h2>
+<p style="color:#C703A3"><i>"{{ original_text }}"</i></p>
+<h2 style="color:#C703A3">Prediction = {{ prediction }}</h2>
+<h2 style="color:#C703A3">Probability = {{ Prob }}</h2>
+
+
+</div>
+</body>
+</html>
