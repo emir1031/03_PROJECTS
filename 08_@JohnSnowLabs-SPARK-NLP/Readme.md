@@ -1,1 +1,1 @@
-SPARKNLP | JohnSnowLabs
+SPARK - NLP - @JohnSnowLabs
