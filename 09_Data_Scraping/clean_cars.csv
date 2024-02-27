@@ -1,0 +1,1595 @@
+year,mileage_km,fuel_type,price_pln,brand,model,power,gearbox,drive,fuel_consumption_outside_city,fuel_consumption_in_city,body_type,color,country_of_origin,accident_free,condition
+2013,188000.0,Diesel,42900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,5.7,Kombi,Czarny,Niemcy,Tak,Używane
+2019,65000.0,Benzyna,119900.0,Audi,Q8,340.0,Automatyczna,4X4,7.2,11.1,SUV,Czarny,Austria,Nie,Używane
+2016,200400.0,Diesel,81000.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Francja,Tak,Używane
+2024,1.0,Diesel,266400.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Szary,Polska,Tak,Nowe
+2023,6000.0,Elektryczny,319900.0,Audi,Q4 Sportback,299.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Szary,Polska,Tak,Używane
+2017,94000.0,Diesel,109000.0,Audi,A5,190.0,Automatyczna,Front,3.0,4.0,Kompakt,Biały,Polska,Tak,Używane
+2012,370156.0,Diesel,75900.0,Audi,A7,313.0,Automatyczna,Front,4.947841306884481,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2012,194000.0,Diesel,92900.0,Audi,A7,313.0,Automatyczna,4X4,5.0,8.0,Kompakt,Czarny,Polska,Tak,Używane
+2012,213000.0,Benzyna,45000.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Błękitny,Polska,Nie,Używane
+2010,302354.0,Diesel,32900.0,Audi,A3,140.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Auta miejskie,Czarny,Polska,Nie,Używane
+2023,10.0,Benzyna,678300.0,Audi,RS6,630.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Polska,Tak,Nowe
+2015,186000.0,Benzyna,114000.0,Audi,A7,251.0,Automatyczna,Front,4.947841306884481,7.4,Sedan,Czarny,Niemcy,Tak,Używane
+2012,198000.0,Benzyna,49900.0,Audi,A4,170.0,Manualna,Front,4.9,7.3,Kombi,Czarny,Niemcy,Tak,Używane
+2012,178000.0,Diesel,29900.0,Audi,A3,105.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Niemcy,Nie,Używane
+2008,353000.0,Diesel,31000.0,Audi,Q7,239.0,Automatyczna,4X4,8.0,12.0,SUV,Żółty,Polska,Nie,Używane
+2009,295000.0,Diesel,37000.0,Audi,A6,240.0,Automatyczna,4X4,4.947841306884481,9.3,Kombi,Biały,Polska,Tak,Używane
+2024,1.0,Diesel,224473.0,Audi,A4,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Niebieski,Polska,Tak,Nowe
+2017,93000.0,Benzyna,117100.0,Audi,Q5,252.0,Automatyczna,4X4,4.947841306884481,8.0,Kompakt,Niebieski,Polska,Nie,Używane
+2008,124290.0,Benzyna,34900.0,Audi,A4,120.0,Manualna,Front,5.5,8.6,Sedan,Srebrny,Niemcy,Tak,Używane
+2015,250000.0,Diesel,55000.0,Audi,A4 Allroad,190.0,Automatyczna,4X4,5.0,6.0,Kombi,Szary,Polska,Nie,Używane
+2014,175715.0,Diesel,57500.0,Audi,A4,177.0,Automatyczna,4X4,4.9,6.5,Kombi,Czerwony,Szwecja,Tak,Używane
+2021,39000.0,Benzyna,269000.0,Audi,A7,340.0,Automatyczna,4X4,5.0,10.0,Sedan,Biały,Stany Zjednoczone,Nie,Używane
+2017,120000.0,Diesel,55350.0,Audi,A4,150.0,Manualna,Front,3.4,4.5,Kombi,Granatowy,Polska,Nie,Używane
+2012,363000.0,Diesel,51800.0,Audi,A6,245.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2020,119000.0,Benzyna,119800.0,Audi,A5,190.0,Automatyczna,Front,4.947841306884481,5.0,Coupe,Czerwony,Niemcy,Tak,Używane
+2018,40698.0,Benzyna,138900.0,Audi,S4,354.0,Automatyczna,4X4,5.0,9.0,Sedan,Biały,Polska,Nie,Używane
+2014,95000.0,Benzyna,68900.0,Audi,A4,224.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Szary,Stany Zjednoczone,Nie,Używane
+2019,67501.0,Diesel,176500.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2014,208900.0,Diesel,109900.0,Audi,SQ5,313.0,Automatyczna,4X4,6.0,7.0,SUV,Biały,Niemcy,Nie,Używane
+2020,78567.0,Diesel,161000.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Coupe,Szary,Niemcy,Nie,Używane
+2004,348000.0,Benzyna+LPG,23500.0,Audi,A4,190.0,Manualna,4X4,7.0,12.0,Kombi,Czarny,Niemcy,Tak,Używane
+2022,8000.0,Diesel,364000.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Tak,Używane
+2020,78567.0,Diesel,161000.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Coupe,Szary,Niemcy,Nie,Używane
+2004,348000.0,Benzyna+LPG,23500.0,Audi,A4,190.0,Manualna,4X4,7.0,12.0,Kombi,Czarny,Niemcy,Tak,Używane
+2022,8000.0,Diesel,364000.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Tak,Używane
+2017,232000.0,Diesel,140000.0,Audi,A6,272.0,Automatyczna,4X4,4.0,6.0,Sedan,Czarny,Polska,Tak,Używane
+2021,169990.0,Diesel,109900.0,Audi,A4,204.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2024,1.0,Diesel,261600.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Nowe
+2022,19200.0,Diesel,194900.0,Audi,A6,204.0,Automatyczna,Front,3.0,5.0,Sedan,Szary,Polska,Tak,Używane
+2019,110000.0,Diesel,145900.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2014,322000.0,Diesel,65000.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Brązowy,Polska,Tak,Używane
+2016,199500.0,Diesel,99000.0,Audi,A6 Allroad,218.0,Automatyczna,4X4,4.0,5.0,Kombi,Brązowy,Szwecja,Tak,Używane
+2024,1.0,Benzyna,168900.0,Audi,A4,150.0,Automatyczna,Front,4.0,7.0,Kombi,Biały,Polska,Tak,Nowe
+2023,3400.0,Diesel,249997.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Srebrny,Polska,Tak,Używane
+2019,52000.0,Benzyna,9749999.0,Audi,A3,150.0,Automatyczna,4X4,4.947841306884481,6.0,Sedan,Biały,Polska,Nie,Używane
+2019,84150.0,Benzyna,119500.0,Audi,A4,245.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Polska,Nie,Używane
+2010,345000.0,Diesel,31000.0,Audi,A4,143.0,Automatyczna,Front,5.0,7.0,Kombi,Czarny,Polska,Nie,Używane
+2011,341586.0,Diesel,45000.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Brązowy,Polska,Nie,Używane
+2021,119530.0,Diesel,180000.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+2020,95000.0,Diesel,154900.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Granatowy,Niemcy,Tak,Używane
+2005,236000.0,Benzyna,29900.0,Audi,A6,255.0,Automatyczna,4X4,8.0,15.0,Kombi,Niebieski,Szwajcaria,Tak,Używane
+2014,170110.0,Benzyna,65890.0,Audi,A4,224.0,Automatyczna,4X4,5.0,8.0,Kombi,Czarny,Polska,Tak,Używane
+2017,131000.0,Diesel,107900.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Brązowy,Polska,Tak,Używane
+2019,146000.0,Diesel,100900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,4.0,Sedan,Czarny,Polska,Tak,Używane
+2017,95000.0,Benzyna,69000.0,Audi,A5,252.0,Automatyczna,4X4,5.6,8.0,Sedan,Inny kolor,Polska,Nie,Używane
+2022,23587.0,Diesel,148000.0,Audi,A4,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Biały,Niemcy,Nie,Używane
+2021,50000.0,Diesel,269000.0,Audi,Q7,231.0,Automatyczna,4X4,5.0,8.0,SUV,Szary,Polska,Nie,Używane
+2008,412000.0,Diesel,23900.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Szary,Niemcy,Nie,Używane
+2023,16000.0,Diesel,316985.0,Audi,A7,204.0,Automatyczna,4X4,4.0,5.0,Coupe,Biały,Polska,Tak,Używane
+2018,171500.0,Diesel,69900.0,Audi,A4,150.0,Manualna,Front,3.6,4.7,Kombi,Srebrny,Belgia,Tak,Używane
+2022,4135.0,Diesel,134000.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Czarny,Polska,Nie,Używane
+2019,154000.0,Diesel,178999.0,Audi,A6,231.0,Automatyczna,4X4,5.3,6.2,Kombi,Brązowy,Szwecja,Tak,Używane
+2021,66000.0,Benzyna,193000.0,Audi,A6,340.0,Automatyczna,4X4,6.0,10.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2020,114000.0,Hybryda,153999.0,Audi,Q5,265.0,Automatyczna,4X4,5.0,7.0,SUV,Granatowy,Niemcy,Tak,Używane
+2020,114000.0,Hybryda,153999.0,Audi,Q5,265.0,Automatyczna,4X4,5.0,7.0,SUV,Granatowy,Niemcy,Tak,Używane
+2017,240000.0,Diesel,129900.0,Audi,A6,326.0,Automatyczna,4X4,5.0,7.0,Kombi,Inny kolor,Polska,Nie,Używane
+2022,19000.0,Diesel,193900.0,Audi,Q5,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Nie,Używane
+2024,1.0,Benzyna,146810.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,6.0,Auta miejskie,Czarny,Polska,Tak,Nowe
+2012,108450.0,Diesel,62900.0,Audi,A5,177.0,Manualna,Front,4.947841306884481,5.5,Coupe,Biały,Niemcy,Nie,Używane
+2020,70246.0,Benzyna,209900.0,Audi,A6,245.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Biały,Polska,Tak,Używane
+2020,70000.0,Diesel,79000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Niemcy,Nie,Używane
+2009,106000.0,Benzyna,49900.0,Audi,A5,179.0,Manualna,Front,4.947841306884481,8.4,Coupe,Szary,Polska,Nie,Używane
+2015,193000.0,Diesel,149000.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Brązowy,Polska,Tak,Używane
+2012,210000.0,Benzyna,59900.0,Audi,S5,333.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Biały,Polska,Nie,Używane
+2008,220000.0,Diesel,23800.0,Audi,A4,180.0,Manualna,Front,5.0,9.0,Kombi,Czarny,Niemcy,Tak,Używane
+2021,26763.0,Hybryda Plug-in,217850.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+1999,267000.0,Benzyna,9600.0,Audi,TT,180.0,Manualna,Front,6.0,11.0,Coupe,Szary,Niemcy,Nie,Używane
+2020,89000.0,Diesel,129900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Biały,Niemcy,Tak,Używane
+2013,135000.0,Benzyna,220000.0,Audi,RS6,560.0,Automatyczna,Front,4.947841306884481,13.4,Kombi,Biały,Niemcy,Tak,Używane
+2024,1.0,Diesel,502100.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Czarny,Polska,Tak,Nowe
+2020,161900.0,Diesel,174000.0,Audi,A6 Allroad,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Biały,Niemcy,Tak,Używane
+2009,232923.0,Diesel,10900.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2018,104000.0,Benzyna,55900.0,Audi,A1,95.0,Automatyczna,Front,3.0,5.0,Kompakt,Biały,Polska,Tak,Używane
+2008,195797.0,Diesel,23900.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,10.7,Kompakt,Czarny,Polska,Tak,Używane
+2016,84000.0,Benzyna,69900.0,Audi,A5,224.0,Automatyczna,Front,4.947841306884481,8.0,Coupe,Niebieski,Stany Zjednoczone,Nie,Używane
+2023,,Benzyna,556155.0,Audi,SQ8,507.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Nowe
+2024,1.0,Benzyna,191400.0,Audi,A4,204.0,Automatyczna,Front,4.0,7.0,Sedan,Szary,Polska,Tak,Nowe
+2008,271000.0,Diesel,49999.0,Audi,Q7,326.0,Automatyczna,4X4,8.0,14.0,SUV,Szary,Francja,Nie,Używane
+2022,8500.0,Benzyna,535050.0,Audi,RS Q8,600.0,Automatyczna,4X4,9.0,17.0,SUV,Czarny,Polska,Tak,Używane
+2018,178080.0,Diesel,150333.0,Audi,Q7,218.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2004,290000.0,Diesel,16500.0,Audi,A3,140.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Żółty,Polska,Nie,Używane
+2018,124000.0,Diesel,260000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2012,199685.0,Diesel,65900.0,Audi,Q5,163.0,Automatyczna,4X4,4.947841306884481,4.0,SUV,Szary,Belgia,Tak,Używane
+2011,164000.0,Diesel,57900.0,Audi,Q5,170.0,Automatyczna,4X4,5.0,8.0,SUV,Srebrny,Włochy,Tak,Używane
+2002,330716.0,Benzyna,14777.0,Audi,A6,220.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Polska,Tak,Używane
+2024,1.0,Benzyna,275700.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,7.0,9.0,SUV,Szary,Polska,Tak,Nowe
+2002,330716.0,Benzyna,14777.0,Audi,A6,220.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Polska,Tak,Używane
+2024,1.0,Benzyna,275700.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,7.0,9.0,SUV,Szary,Polska,Tak,Nowe
+2018,52000.0,Diesel,110000.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2018,110980.0,Diesel,276000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Inny kolor,Polska,Tak,Używane
+2023,14699.0,Diesel,399900.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Biały,Niemcy,Tak,Używane
+2024,1.0,Benzyna,126800.0,Audi,A3,110.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Biały,Polska,Tak,Nowe
+2019,50480.0,Diesel,264900.0,Audi,Q7,231.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Brązowy,Polska,Tak,Używane
+2015,270000.0,Diesel,98500.0,Audi,A6 Allroad,320.0,Automatyczna,Front,4.947841306884481,7.7,Kombi,Srebrny,Belgia,Tak,Używane
+2007,179600.0,Benzyna,15900.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Kombi,Czarny,Polska,Nie,Używane
+2023,4810.0,Benzyna,64500.0,Audi,Q3,150.0,Automatyczna,Front,5.0,6.0,SUV,Czarny,Niemcy,Nie,Używane
+2012,231000.0,Diesel,52000.0,Audi,A4,204.0,Automatyczna,Front,4.8,5.7,Kombi,Czarny,Polska,Nie,Używane
+2011,222000.0,Benzyna,85000.0,Audi,A7,310.0,Automatyczna,Front,4.947841306884481,10.0,Kompakt,Srebrny,Polska,Nie,Używane
+2015,227000.0,Diesel,52000.0,Audi,A4,150.0,Manualna,Front,3.0,4.0,Sedan,Czarny,Dania,Nie,Używane
+2022,4425.0,Elektryczny,339900.0,Audi,e-tron,408.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Beżowy,Niemcy,Tak,Używane
+2016,128000.0,Diesel,83900.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Kombi,Brązowy,Niemcy,Tak,Używane
+2022,21400.0,Diesel,323000.0,Audi,Q7,231.0,Automatyczna,4X4,5.0,8.0,SUV,Granatowy,Polska,Tak,Używane
+2020,43000.0,Benzyna,239000.0,Audi,A6,340.0,Automatyczna,4X4,5.0,10.0,Kombi,Granatowy,Polska,Nie,Używane
+2019,92827.0,Diesel,214020.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Niemcy,Tak,Używane
+2011,253372.0,Diesel,38000.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Kombi,Czarny,Polska,Nie,Używane
+2009,309488.0,Diesel,45900.0,Audi,Q5,170.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Norwegia,Tak,Używane
+2011,137721.0,Benzyna,80000.0,Audi,A8,372.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Czarny,Polska,Nie,Używane
+2004,353355.0,Benzyna+LPG,21499.0,Audi,A6,255.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2005,238000.0,Benzyna,25900.0,Audi,A3,200.0,Manualna,4X4,7.0,12.0,Kompakt,Brązowy,Polska,Nie,Używane
+2011,132000.0,Benzyna,52900.0,Audi,A5,160.0,Manualna,Front,5.8,9.6,Coupe,Czarny,Niemcy,Nie,Używane
+2009,225000.0,Benzyna,28700.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,9.6,Kabriolet,Biały,Niemcy,Nie,Używane
+2024,1.0,Benzyna,175400.0,Audi,A4,150.0,Automatyczna,Front,6.0,8.0,Sedan,Biały,Polska,Tak,Nowe
+2012,185000.0,Diesel,61000.0,Audi,A6,177.0,Automatyczna,Front,4.5,6.1,Kombi,Czarny,Szwecja,Tak,Używane
+2018,136000.0,Diesel,174900.0,Audi,A6,286.0,Automatyczna,4X4,4.0,7.0,Kombi,Czarny,Polska,Tak,Używane
+2014,83000.0,Benzyna,54900.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,10.7,Sedan,Czarny,Polska,Nie,Używane
+2016,419000.0,Diesel,67900.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Szary,Polska,Nie,Używane
+2023,16000.0,Elektryczny,184500.0,Audi,Q4 Sportback,204.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Nie,Używane
+2009,259000.0,Diesel,24999.0,Audi,A3,140.0,Automatyczna,Front,4.0,7.0,Kompakt,Inny kolor,Francja,Tak,Używane
+2007,274500.0,Benzyna,16800.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Granatowy,Polska,Nie,Używane
+2016,122636.0,Benzyna,37000.0,Audi,Q3,220.0,Automatyczna,4X4,5.0,8.0,SUV,Biały,Polska,Nie,Używane
+2014,90871.0,Diesel,37000.0,Audi,A6,326.0,Automatyczna,4X4,5.0,7.0,Sedan,Biały,Polska,Nie,Używane
+2013,272562.0,Benzyna,54500.0,Audi,A5,177.0,Automatyczna,4X4,4.947841306884481,7.2,Sedan,Czarny,Polska,Nie,Używane
+2024,1.0,Diesel,243400.0,Audi,Q5,204.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Nowe
+2019,123000.0,Diesel,159000.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2015,149000.0,Benzyna,82900.0,Audi,S7,450.0,Automatyczna,4X4,7.0,13.0,Sedan,Srebrny,Polska,Nie,Używane
+2022,21855.0,Benzyna,279000.0,Audi,RS Q3,400.0,Automatyczna,4X4,4.947841306884481,10.8,SUV,Zielony,Polska,Tak,Używane
+2010,335500.0,Diesel,78778.0,Audi,Q7,340.0,Automatyczna,4X4,4.947841306884481,12.0,SUV,Czarny,Polska,Tak,Używane
+2009,224000.0,Diesel,28500.0,Audi,A3,105.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Nie,Używane
+2012,254000.0,Diesel,89500.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,6.0,7.0,Kombi,Brązowy,Polska,Tak,Używane
+2019,104000.0,Benzyna,277000.0,Audi,RS4,450.0,Automatyczna,4X4,7.0,12.0,Kombi,Srebrny,Polska,Tak,Używane
+2011,226000.0,Diesel,43900.0,Audi,A4 Allroad,143.0,Manualna,4X4,4.947841306884481,6.0,Kombi,Szary,Belgia,Tak,Używane
+2017,155575.0,Diesel,130000.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Czarny,Polska,Tak,Używane
+1996,367000.0,Diesel,16100.0,Audi,A6,90.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Srebrny,Belgia,Tak,Używane
+2006,358600.0,Diesel,26750.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Inny kolor,Polska,Tak,Używane
+2023,6800.0,Benzyna,295000.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Zielony,Polska,Nie,Używane
+2013,245000.0,Diesel,58000.0,Audi,A6,177.0,Manualna,4X4,4.947841306884481,6.0,Kombi,Czarny,Polska,Tak,Używane
+2019,180000.0,Diesel,131500.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Błękitny,Polska,Tak,Używane
+2015,180000.0,Benzyna,67900.0,Audi,Q5,225.0,Automatyczna,Front,4.947841306884481,8.5,SUV,Inny kolor,Polska,Nie,Używane
+2005,289000.0,Benzyna,22000.0,Audi,A3,200.0,Manualna,4X4,6.0,12.0,Kompakt,Granatowy,Polska,Tak,Używane
+2017,124000.0,Benzyna,45999.0,Audi,A4,150.0,Manualna,Front,4.0,6.0,Sedan,Czarny,Polska,Nie,Używane
+2014,140950.0,Benzyna,51900.0,Audi,A1,122.0,Automatyczna,Front,4.6,6.5,Auta miejskie,Brązowy,Polska,Nie,Używane
+2014,168000.0,Diesel,84200.0,Audi,A7,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Inny kolor,Belgia,Tak,Używane
+2004,322000.0,Benzyna+LPG,18900.0,Audi,A6,177.0,Manualna,Front,7.0,14.0,Sedan,Srebrny,Polska,Nie,Używane
+2015,158500.0,Diesel,76500.0,Audi,Q5,190.0,Automatyczna,4X4,5.3,6.5,SUV,Czerwony,Polska,Nie,Używane
+2012,180000.0,Benzyna,49999.0,Audi,Q5,270.0,Automatyczna,4X4,4.947841306884481,12.0,SUV,Czarny,Stany Zjednoczone,Nie,Używane
+2012,192000.0,Diesel,54900.0,Audi,A4,177.0,Manualna,4X4,4.7,6.3,Kombi,Brązowy,Szwecja,Tak,Używane
+2017,126000.0,Diesel,205000.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Czarny,Polska,Tak,Używane
+2015,133800.0,Benzyna,81900.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Szary,Polska,Nie,Używane
+2022,81775.0,Diesel,124900.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Czarny,Polska,Tak,Używane
+2024,1.0,Benzyna,255500.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,7.0,9.0,SUV,Szary,Polska,Tak,Nowe
+2015,133800.0,Benzyna,81900.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Szary,Polska,Nie,Używane
+2022,81775.0,Diesel,124900.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Czarny,Polska,Tak,Używane
+2024,1.0,Benzyna,255500.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,7.0,9.0,SUV,Szary,Polska,Tak,Nowe
+2014,191000.0,Diesel,69900.0,Audi,A3,184.0,Automatyczna,4X4,4.4,5.5,Kompakt,Czarny,Niemcy,Tak,Używane
+2010,359000.0,Diesel,69000.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Czarny,Polska,Nie,Używane
+2016,193960.0,Diesel,68700.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Sedan,Czarny,Polska,Nie,Używane
+2002,260000.0,Diesel,12900.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2024,1.0,Benzyna,147429.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,6.0,Sedan,Szary,Polska,Tak,Nowe
+2015,125000.0,Benzyna,119000.0,Audi,RS3,367.0,Automatyczna,4X4,6.0,11.0,Kompakt,Czerwony,Polska,Nie,Używane
+2017,129000.0,Benzyna,130000.0,Audi,S4,354.0,Automatyczna,4X4,5.0,9.0,Sedan,Niebieski,Stany Zjednoczone,Nie,Używane
+2015,177000.0,Diesel,37999.0,Audi,A8,385.0,Automatyczna,4X4,4.947841306884481,9.4,Sedan,Czarny,Polska,Nie,Używane
+2021,36800.0,Diesel,380000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2015,140579.0,Diesel,66900.0,Audi,A4,150.0,Manualna,Front,3.0,4.0,Sedan,Inny kolor,Belgia,Tak,Używane
+2007,310000.0,Diesel,29900.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Czarny,Niemcy,Tak,Używane
+2011,116000.0,Diesel,25500.0,Audi,A3,90.0,Manualna,Front,3.0,5.0,Coupe,Czarny,Polska,Tak,Używane
+2022,29000.0,Benzyna,159900.0,Audi,Q3,245.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Niebieski,Stany Zjednoczone,Tak,Używane
+2022,28144.0,Benzyna,185000.0,Audi,S3,310.0,Automatyczna,4X4,4.947841306884481,9.0,Kompakt,Czerwony,Polska,Tak,Używane
+2012,299000.0,Diesel,32000.0,Audi,A4,143.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2000,234126.0,Benzyna+LPG,7200.0,Audi,A3,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Niemcy,Tak,Używane
+2023,6200.0,Benzyna,146000.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,6.0,Auta miejskie,Srebrny,Polska,Tak,Używane
+2012,145723.0,Diesel,64900.0,Audi,Q3,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Szary,Polska,Nie,Używane
+2013,239000.0,Diesel,55800.0,Audi,Q3,140.0,Manualna,Front,4.0,6.0,SUV,Złoty,Polska,Tak,Używane
+2019,86000.0,Diesel,86999.0,Audi,A3,116.0,Automatyczna,Front,3.7,4.2,Kompakt,Czarny,Belgia,Tak,Używane
+2014,312000.0,Diesel,55500.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,6.7,Sedan,Czarny,Polska,Nie,Używane
+2016,144650.0,Diesel,121770.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2018,87000.0,Diesel,289000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Inny kolor,Polska,Tak,Używane
+2015,89000.0,Diesel,69900.0,Audi,A4,190.0,Manualna,Front,4.947841306884481,4.8,Sedan,Biały,Szwajcaria,Nie,Używane
+2011,229000.0,Diesel,92000.0,Audi,A8,350.0,Automatyczna,4X4,4.947841306884481,9.3,Sedan,Srebrny,Niemcy,Tak,Używane
+2016,151000.0,Diesel,75000.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Sedan,Czarny,Polska,Tak,Używane
+2011,314000.0,Benzyna,75030.0,Audi,A7,300.0,Automatyczna,4X4,6.0,10.0,Sedan,Czarny,Polska,Tak,Używane
+2012,160000.0,Benzyna,57700.0,Audi,Q5,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Używane
+2007,376000.0,Diesel,25500.0,Audi,A6,233.0,Automatyczna,4X4,4.947841306884481,7.9,Kombi,Czarny,Polska,Nie,Używane
+2007,376000.0,Diesel,25500.0,Audi,A6,233.0,Automatyczna,4X4,4.947841306884481,7.9,Kombi,Czarny,Polska,Nie,Używane
+2011,305000.0,Benzyna,34700.0,Audi,A4,180.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Brązowy,Polska,Tak,Używane
+2015,217500.0,Diesel,63999.0,Audi,A4,177.0,Automatyczna,Front,4.947841306884481,5.6,Kombi,Czarny,Niemcy,Tak,Używane
+2020,54005.0,Diesel,174900.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Szary,Polska,Tak,Używane
+2020,51575.0,Benzyna,119900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+2020,53970.0,Diesel,139900.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,4.0,Sedan,Niebieski,Polska,Tak,Używane
+2019,43880.0,Benzyna,114900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.0,Kombi,Srebrny,Polska,Tak,Używane
+2007,326000.0,Benzyna,13000.0,Audi,A3,160.0,Manualna,Front,5.0,9.0,Auta małe,Czarny,Polska,Nie,Używane
+2006,203000.0,Benzyna,19999.0,Audi,A4,163.0,Automatyczna,Front,6.0,11.0,Kombi,Niebieski,Polska,Nie,Używane
+2024,10.0,Benzyna,201000.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Nowe
+2018,64599.0,Benzyna,156178.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Tak,Używane
+2024,1.0,Diesel,414600.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Biały,Polska,Tak,Nowe
+2024,1.0,Benzyna,167800.0,Audi,Q3,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Srebrny,Polska,Tak,Nowe
+2020,139000.0,Diesel,109999.0,Audi,A4,163.0,Automatyczna,Front,3.8,4.9,Kombi,Czarny,Niemcy,Tak,Używane
+2003,330000.0,Diesel,13000.0,Audi,A4,130.0,Manualna,Front,4.0,7.0,Kombi,Czarny,Polska,Nie,Używane
+2019,88000.0,Diesel,269000.0,Audi,A8,285.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Inny kolor,Polska,Nie,Używane
+2019,123000.0,Benzyna,85000.0,Audi,S5,354.0,Automatyczna,4X4,4.947841306884481,10.1,Coupe,Biały,Polska,Nie,Używane
+2015,98500.0,Benzyna,60000.0,Audi,A4,120.0,Manualna,Front,5.0,8.0,Sedan,Czarny,Belgia,Tak,Używane
+2005,286485.0,Diesel,21999.0,Audi,A3,105.0,Manualna,4X4,4.947841306884481,6.0,Kompakt,Inny kolor,Polska,Nie,Używane
+2014,189000.0,Diesel,73900.0,Audi,Q5,163.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Belgia,Tak,Używane
+2020,176000.0,Benzyna,143000.0,Audi,S3,300.0,Automatyczna,4X4,5.0,8.0,Kompakt,Szary,Polska,Tak,Używane
+2022,70000.0,Diesel,190900.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2015,40000.0,Benzyna,62500.0,Audi,A3,190.0,Automatyczna,4X4,4.947841306884481,7.2,Kompakt,Biały,Polska,Nie,Używane
+2021,89000.0,Benzyna,467018.0,Audi,SQ8,507.0,Automatyczna,4X4,4.947841306884481,16.0,SUV,Szary,Polska,Nie,Używane
+2009,128778.0,Benzyna,24500.0,Audi,A3,160.0,Manualna,Front,5.0,9.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2011,217000.0,Benzyna,55000.0,Audi,Q5,211.0,Automatyczna,4X4,7.0,10.0,SUV,Biały,Kanada,Nie,Używane
+2010,307000.0,Diesel,53700.0,Audi,Q7,240.0,Automatyczna,4X4,4.947841306884481,12.0,SUV,Czarny,Polska,Tak,Używane
+2023,14000.0,Diesel,299900.0,Audi,Q7,231.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Tak,Używane
+2007,250000.0,Benzyna,22900.0,Audi,A3,160.0,Automatyczna,Front,4.947841306884481,8.5,Kombi,Czarny,Polska,Nie,Używane
+2020,180000.0,Diesel,129800.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2022,33333.0,Elektryczny,320000.0,Audi,Q4 Sportback,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2021,49000.0,Benzyna,169000.0,Audi,A4,265.0,Automatyczna,4X4,4.947841306884481,9.0,Kombi,Czarny,Francja,Nie,Używane
+2018,145200.0,Benzyna,79899.0,Audi,Q3,211.0,Automatyczna,Front,4.947841306884481,10.2,SUV,Biały,Polska,Tak,Używane
+2008,73000.0,Benzyna,147900.0,Audi,S8,450.0,Automatyczna,4X4,9.0,19.0,Sedan,Biały,Japonia,Tak,Używane
+2011,140000.0,Benzyna,38999.0,Audi,A4,160.0,Manualna,Front,5.0,9.0,Auta miejskie,Szary,Polska,Nie,Używane
+2023,1.0,Diesel,250300.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Nowe
+2011,318000.0,Diesel,39999.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Kombi,Srebrny,Francja,Tak,Używane
+2005,329350.0,Diesel,8900.0,Audi,A3,140.0,Manualna,Front,3.8,5.5,Auta miejskie,Czarny,Niemcy,Tak,Używane
+2013,235000.0,Diesel,63900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Szwecja,Tak,Używane
+2009,315000.0,Diesel,33900.0,Audi,A4 Allroad,240.0,Automatyczna,4X4,6.0,8.0,Kombi,Srebrny,Polska,Nie,Używane
+2016,208000.0,Diesel,87900.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.3,Kombi,Czarny,Niemcy,Tak,Używane
+2019,25300.0,Benzyna,193000.0,Audi,RS3,400.0,Automatyczna,4X4,4.947841306884481,11.0,Kompakt,Czarny,Polska,Nie,Używane
+2016,289000.0,Diesel,69800.0,Audi,A6,272.0,Automatyczna,4X4,4.0,5.0,Sedan,Szary,Niemcy,Tak,Używane
+2023,69000.0,Diesel,189800.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Tak,Używane
+2020,170000.0,Diesel,104900.0,Audi,A4,190.0,Automatyczna,4X4,3.9,4.7,Kombi,Czarny,Polska,Tak,Używane
+2016,236500.0,Diesel,119700.0,Audi,A8,262.0,Automatyczna,4X4,4.0,7.0,Sedan,Czarny,Polska,Nie,Używane
+2013,280000.0,Diesel,62000.0,Audi,A5,177.0,Automatyczna,4X4,4.947841306884481,5.0,Kompakt,Czarny,Polska,Nie,Używane
+2023,9000.0,Hybryda,218300.0,Audi,Q3,245.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Używane
+2019,57500.0,Benzyna,269900.0,Audi,A8,340.0,Automatyczna,4X4,6.0,11.0,Sedan,Czarny,Polska,Nie,Używane
+2019,29000.0,Benzyna,145000.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,7.9,Coupe,Czarny,Stany Zjednoczone,Nie,Używane
+2021,192000.0,Diesel,239997.0,Audi,Q8,231.0,Automatyczna,4X4,5.0,7.2,SUV,Szary,Polska,Tak,Używane
+2022,15964.0,Hybryda,279900.0,Audi,A6,367.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Niemcy,Tak,Używane
+2022,61703.0,Diesel,289900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Tak,Używane
+2014,170533.0,Diesel,168800.0,Audi,A8,385.0,Automatyczna,4X4,4.947841306884481,9.0,Sedan,Czarny,Polska,Nie,Używane
+2022,11479.0,Benzyna,239900.0,Audi,A5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Zielony,Niemcy,Tak,Używane
+2007,69000.0,Benzyna,57000.0,Audi,TT,200.0,Manualna,Front,6.0,10.0,Coupe,Szary,Niemcy,Tak,Używane
+2009,375000.0,Diesel,36500.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Kombi,Czarny,Polska,Nie,Używane
+2018,150000.0,Diesel,112000.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2019,158650.0,Diesel,82300.0,Audi,A4,150.0,Automatyczna,Front,4.0,4.0,Kombi,Biały,Polska,Tak,Używane
+2022,2600.0,Benzyna,128000.0,Audi,A4,252.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2020,42000.0,Benzyna,103900.0,Audi,A3,150.0,Automatyczna,Front,4.0,6.0,Kompakt,Biały,Polska,Nie,Używane
+2010,222459.0,Benzyna,36900.0,Audi,A5,180.0,Manualna,Front,5.4,8.4,Coupe,Czarny,Niemcy,Tak,Używane
+2015,174000.0,Diesel,69990.0,Audi,A4 Allroad,190.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Brązowy,Polska,Nie,Używane
+2019,110000.0,Diesel,62900.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2019,110000.0,Diesel,62900.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2021,61440.0,Diesel,179900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Inny kolor,Polska,Nie,Używane
+2015,275000.0,Diesel,96000.0,Audi,Q5,258.0,Automatyczna,4X4,5.0,7.0,SUV,Szary,Polska,Tak,Używane
+2023,5.0,Elektryczny,363200.0,Audi,e-tron,340.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Nowe
+2023,3000.0,Benzyna,439000.0,Audi,RS5,450.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Polska,Tak,Nowe
+2023,3000.0,Benzyna,649000.0,Audi,RS6,630.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Szary,Polska,Tak,Nowe
+2016,230000.0,Diesel,67800.0,Audi,A6,150.0,Automatyczna,Front,4.1,4.9,Kombi,Czarny,Belgia,Tak,Używane
+2010,260000.0,Diesel,30900.0,Audi,A4,170.0,Manualna,Front,4.7,6.7,Kombi,Czerwony,Niemcy,Tak,Używane
+2021,9000.0,Elektryczny,479000.0,Audi,RS e-tron GT,598.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2017,196888.0,Diesel,110500.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,5.0,Coupe,Szary,Polska,Nie,Używane
+2018,156000.0,Diesel,118700.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2018,125000.0,Diesel,222000.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,Kombi,Niebieski,Polska,Nie,Używane
+2011,204000.0,Diesel,45900.0,Audi,A4,136.0,Manualna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2020,89754.0,Diesel,144800.0,Audi,Q3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Nie,Używane
+2016,83300.0,Benzyna,66800.0,Audi,Q2,150.0,Automatyczna,Front,4.6,6.3,SUV,Czarny,Polska,Nie,Używane
+2006,197000.0,Benzyna,20500.0,Audi,A4,102.0,Manualna,4X4,4.947841306884481,10.0,Kombi,Szary,Polska,Nie,Używane
+2020,46000.0,Diesel,95000.0,Audi,A3,150.0,Automatyczna,Front,3.0,4.0,Kompakt,Biały,Polska,Tak,Używane
+2018,82000.0,Diesel,330000.0,Audi,Q8,286.0,Automatyczna,4X4,6.0,8.0,SUV,Granatowy,Polska,Tak,Używane
+2020,110000.0,Hybryda Plug-in,149900.0,Audi,Q5,265.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Nie,Używane
+2016,205000.0,Diesel,79900.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Czerwony,Polska,Nie,Używane
+2012,248000.0,Diesel,77900.0,Audi,A7,313.0,Automatyczna,4X4,4.947841306884481,8.0,Kompakt,Szary,Polska,Nie,Używane
+2009,271000.0,Benzyna,39900.0,Audi,A5,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Nie,Używane
+2016,410089.0,Diesel,132000.0,Audi,Q7,272.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Nie,Używane
+2010,112000.0,Benzyna,39800.0,Audi,A3,105.0,Manualna,4X4,4.947841306884481,7.0,Kabriolet,Biały,Polska,Nie,Używane
+2022,31000.0,Benzyna,120540.0,Audi,Q2,150.0,Automatyczna,Front,4.0,5.0,SUV,Srebrny,Polska,Tak,Używane
+2019,31000.0,Diesel,109998.0,Audi,A4,190.0,Automatyczna,Front,4.0,4.0,Sedan,Czerwony,Polska,Tak,Używane
+2015,240000.0,Diesel,76000.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2018,219000.0,Diesel,195000.0,Audi,SQ7,435.0,Automatyczna,4X4,6.0,8.0,Kombi,Niebieski,Polska,Tak,Używane
+2017,179800.0,Diesel,120000.0,Audi,A7,272.0,Automatyczna,4X4,4.0,6.0,Kompakt,Czarny,Polska,Tak,Używane
+2004,232000.0,Diesel,15900.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.0,Kompakt,Czarny,Belgia,Tak,Używane
+2014,163726.0,Benzyna,73000.0,Audi,A6,180.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Nie,Używane
+2015,195000.0,Diesel,49900.0,Audi,A3,110.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Brązowy,Polska,Nie,Używane
+2018,219000.0,Diesel,195000.0,Audi,SQ7,435.0,Automatyczna,4X4,6.0,8.0,Kombi,Niebieski,Polska,Tak,Używane
+2017,179800.0,Diesel,120000.0,Audi,A7,272.0,Automatyczna,4X4,4.0,6.0,Kompakt,Czarny,Polska,Tak,Używane
+2004,232000.0,Diesel,15900.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.0,Kompakt,Czarny,Belgia,Tak,Używane
+2014,163726.0,Benzyna,73000.0,Audi,A6,180.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Nie,Używane
+2015,195000.0,Diesel,49900.0,Audi,A3,110.0,Manualna,4X4,4.947841306884481,7.473995451099318,Sedan,Brązowy,Polska,Nie,Używane
+2021,45000.0,Elektryczny,488998.0,Audi,RS e-tron GT,598.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2019,42000.0,Benzyna,134900.0,Audi,Q5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Nie,Używane
+2012,194000.0,Diesel,49900.0,Audi,A3,150.0,Manualna,Front,3.0,4.0,Auta małe,Biały,Polska,Nie,Używane
+2008,309345.0,Diesel,36900.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Biały,Niemcy,Tak,Używane
+2001,289000.0,Benzyna,9840.0,Audi,A8,310.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Fioletowy,Polska,Tak,Używane
+2008,248410.0,Diesel,14999.0,Audi,A3,105.0,Manualna,Front,4.0,6.0,Auta miejskie,Czarny,Belgia,Tak,Używane
+2005,240000.0,Benzyna,14990.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Kombi,Czarny,Niemcy,Tak,Używane
+2021,47.0,Diesel,344867.0,Audi,S7,344.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Biały,Polska,Tak,Używane
+2009,194180.0,Benzyna,32900.0,Audi,A4,180.0,Manualna,4X4,4.947841306884481,8.0,Kombi,Brązowy,Polska,Nie,Używane
+2019,69000.0,Diesel,152000.0,Audi,Q5,163.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Szary,Polska,Tak,Używane
+2018,195000.0,Hybryda Plug-in,69000.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Biały,Polska,Tak,Używane
+2013,243000.0,Diesel,74500.0,Audi,A5,177.0,Automatyczna,4X4,4.0,6.0,Kompakt,Biały,Polska,Tak,Używane
+2011,207000.0,Diesel,54950.0,Audi,A4 Allroad,143.0,Manualna,4X4,5.0,6.0,Kombi,Brązowy,Polska,Tak,Używane
+2018,64000.0,Benzyna,118000.0,Audi,S5,354.0,Automatyczna,4X4,6.0,10.1,Coupe,Niebieski,Polska,Nie,Używane
+2007,149000.0,Benzyna,55500.0,Audi,TT,250.0,Automatyczna,4X4,7.0,13.0,Coupe,Inny kolor,Polska,Tak,Używane
+2010,285000.0,Diesel,39999.0,Audi,A4,170.0,Manualna,Front,4.7,6.7,Kombi,Inny kolor,Niemcy,Tak,Używane
+2020,94300.0,Diesel,219999.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Czerwony,Polska,Tak,Używane
+2016,186000.0,Benzyna,53000.0,Audi,A3,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Stany Zjednoczone,Nie,Używane
+2013,279000.0,Diesel,59900.0,Audi,A5,177.0,Automatyczna,4X4,4.947841306884481,6.0,Coupe,Czarny,Polska,Tak,Używane
+2014,185000.0,Diesel,65300.0,Audi,A6,190.0,Manualna,4X4,4.947841306884481,5.1,Kombi,Biały,Polska,Nie,Używane
+2018,98400.0,Diesel,149999.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2014,120000.0,Diesel,53000.0,Audi,A3,150.0,Manualna,4X4,4.947841306884481,5.6,Kombi,Srebrny,Polska,Nie,Używane
+2017,97000.0,Benzyna,163000.0,Audi,SQ5,354.0,Automatyczna,Front,4.947841306884481,10.0,SUV,Srebrny,Polska,Nie,Używane
+2018,88000.0,Benzyna,129000.0,Audi,A5,252.0,Automatyczna,Front,4.947841306884481,8.0,Coupe,Czarny,Polska,Nie,Używane
+2012,212000.0,Diesel,73000.0,Audi,A6,313.0,Automatyczna,4X4,5.0,7.0,Kombi,Srebrny,Włochy,Nie,Używane
+2006,353000.0,Benzyna,16500.0,Audi,A6,170.0,Manualna,Front,6.0,11.0,Kombi,Szary,Polska,Nie,Używane
+2014,227480.0,Diesel,55900.0,Audi,A4,177.0,Automatyczna,Front,4.5,5.6,Kombi,Biały,Niemcy,Tak,Używane
+2014,243500.0,Diesel,61900.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.3,Kombi,Brązowy,Polska,Nie,Używane
+2013,90000.0,Benzyna,54999.0,Audi,A5,170.0,Manualna,4X4,4.947841306884481,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2006,205287.0,Diesel,26900.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Czarny,Niemcy,Nie,Używane
+2011,275000.0,Diesel,36000.0,Audi,A4,170.0,Manualna,Front,4.0,6.0,Kombi,Szary,Polska,Tak,Używane
+2011,254150.0,Diesel,59999.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,6.1,Kombi,Biały,Niemcy,Tak,Używane
+2018,185000.0,Diesel,104900.0,Audi,A6,272.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Polska,Tak,Używane
+2007,221000.0,Diesel,28000.0,Audi,A3,170.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czerwony,Polska,Nie,Używane
+2014,224000.0,Diesel,79999.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Biały,Polska,Tak,Używane
+2015,199600.0,Benzyna,69500.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Granatowy,Stany Zjednoczone,Nie,Używane
+2018,52000.0,Benzyna,179990.0,Audi,Q7,333.0,Automatyczna,4X4,6.0,9.0,SUV,Szary,Polska,Nie,Używane
+2013,169000.0,Benzyna,49950.0,Audi,A4,211.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2010,285000.0,Diesel,41900.0,Audi,Q5,143.0,Manualna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2008,240986.0,Diesel,21000.0,Audi,A6,136.0,Manualna,Front,4.0,7.0,Kombi,Granatowy,Polska,Tak,Używane
+2019,74900.0,Benzyna,83334.0,Audi,A3,190.0,Automatyczna,4X4,4.8,7.2,Sedan,Szary,Stany Zjednoczone,Nie,Używane
+2011,181789.0,Benzyna,57400.0,Audi,Q5,211.0,Automatyczna,4X4,7.0,10.0,SUV,Srebrny,Włochy,Tak,Używane
+2015,136000.0,Benzyna,79500.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Srebrny,Stany Zjednoczone,Nie,Używane
+2012,316000.0,Diesel,33300.0,Audi,A3,140.0,Manualna,Front,3.8,5.5,Auta miejskie,Niebieski,Holandia,Tak,Używane
+2015,145000.0,Benzyna,46000.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Biały,Stany Zjednoczone,Nie,Używane
+2005,466000.0,Diesel,15000.0,Audi,A6,224.0,Automatyczna,4X4,6.0,11.0,Kombi,Czarny,Niemcy,Tak,Używane
+2022,25500.0,Benzyna,206996.0,Audi,S3,310.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Szary,Polska,Nie,Używane
+2019,106000.0,Diesel,195000.0,Audi,A6,286.0,Automatyczna,4X4,4.0,7.0,Kombi,Czarny,Polska,Tak,Używane
+2016,61000.0,Diesel,71900.0,Audi,A4,150.0,Manualna,4X4,4.947841306884481,5.4,Kombi,Czarny,Czechy,Nie,Używane
+2019,46000.0,Benzyna,69900.0,Audi,Q2,116.0,Automatyczna,Front,4.947841306884481,5.0,Auta miejskie,Biały,Polska,Nie,Używane
+2003,288400.0,Benzyna,33000.0,Audi,S4,344.0,Manualna,4X4,4.947841306884481,19.0,Kombi,Czarny,Szwajcaria,Nie,Używane
+2018,59000.0,Benzyna,135000.0,Audi,S4,354.0,Automatyczna,4X4,5.0,9.0,Kombi,Szary,Belgia,Nie,Używane
+2012,234000.0,Diesel,74900.0,Audi,A6,313.0,Automatyczna,4X4,4.947841306884481,4.0,Kombi,Inny kolor,Polska,Tak,Używane
+2014,244000.0,Diesel,89000.0,Audi,A6,313.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Czechy,Nie,Używane
+2018,71000.0,Benzyna,90900.0,Audi,Q3,220.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Polska,Nie,Używane
+2014,149500.0,Diesel,72500.0,Audi,A6,190.0,Automatyczna,Front,4.1,5.2,Kombi,Czarny,Niemcy,Tak,Używane
+2018,119000.0,Benzyna,139900.0,Audi,Q7,333.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Biały,Kanada,Tak,Używane
+2017,94200.0,Benzyna,128000.0,Audi,A5,252.0,Automatyczna,Front,4.0,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2003,290000.0,Diesel,25000.0,Audi,A8,275.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Inny kolor,Polska,Nie,Używane
+2021,29500.0,Benzyna,175000.0,Audi,A5,204.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czerwony,Polska,Nie,Używane
+2013,237000.0,Diesel,46000.0,Audi,A4,177.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2020,45200.0,Benzyna,185000.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2018,172000.0,Diesel,138869.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Czarny,Polska,Tak,Używane
+2014,273000.0,Diesel,62000.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2006,359000.0,Diesel,31500.0,Audi,A8,326.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Granatowy,Szwajcaria,Tak,Używane
+2016,86800.0,Benzyna,95900.0,Audi,A6,252.0,Automatyczna,Front,5.0,7.0,Sedan,Inny kolor,Stany Zjednoczone,Nie,Używane
+2009,170300.0,Diesel,43800.0,Audi,A3,170.0,Automatyczna,4X4,4.947841306884481,7.4,Kompakt,Biały,Polska,Nie,Używane
+2003,449000.0,Benzyna+LPG,8900.0,Audi,A4,170.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Nie,Używane
+2018,132369.0,Diesel,138900.0,Audi,Q5,163.0,Automatyczna,4X4,4.0,5.0,SUV,Granatowy,Belgia,Tak,Używane
+2018,107000.0,Diesel,159000.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2005,221821.0,Benzyna,27700.0,Audi,A4,163.0,Manualna,4X4,7.0,12.0,Kombi,Szary,Niemcy,Tak,Używane
+2002,222500.0,Benzyna,25500.0,Audi,A4,150.0,Manualna,4X4,7.0,12.0,Sedan,Czarny,Niemcy,Tak,Używane
+2022,10.0,Benzyna,839890.0,Audi,R8,570.0,Automatyczna,4X4,4.947841306884481,19.5,Coupe,Czarny,Polska,Tak,Nowe
+2013,193878.0,Diesel,79000.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2012,186000.0,Diesel,42500.0,Audi,A4,143.0,Manualna,4X4,4.947841306884481,5.6,Kombi,Czarny,Polska,Nie,Używane
+2007,450000.0,Diesel,39900.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Czarny,Niemcy,Tak,Używane
+2023,46150.0,Diesel,533820.0,Audi,Q8,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Nie,Używane
+1998,319293.0,Benzyna+LPG,6500.0,Audi,A4,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Granatowy,Polska,Tak,Używane
+2020,89650.0,Diesel,249990.0,Audi,S6,349.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Polska,Tak,Używane
+2004,326500.0,Benzyna+LPG,10700.0,Audi,A6,140.0,Manualna,4X4,4.947841306884481,12.0,Kombi,Granatowy,Polska,Nie,Używane
+2014,199380.0,Diesel,41900.0,Audi,A1,90.0,Automatyczna,Front,3.7,5.1,Auta małe,Czarny,Francja,Tak,Używane
+2012,204100.0,Benzyna,57500.0,Audi,S4,333.0,Automatyczna,4X4,4.947841306884481,10.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2016,152000.0,Diesel,195000.0,Audi,A8,385.0,Automatyczna,4X4,6.0,9.0,Sedan,Czarny,Niemcy,Tak,Używane
+2019,216856.0,Diesel,96500.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2023,16900.0,Benzyna,415000.0,Audi,A8,340.0,Automatyczna,4X4,6.0,11.0,Sedan,Granatowy,Niemcy,Tak,Używane
+2018,60600.0,Benzyna,134000.0,Audi,A5,245.0,Automatyczna,4X4,5.0,8.0,Kabriolet,Szary,Stany Zjednoczone,Nie,Używane
+2021,19000.0,Benzyna,85000.0,Audi,Q3,150.0,Automatyczna,Front,5.0,6.0,SUV,Czarny,Polska,Nie,Używane
+2014,220000.0,Diesel,98000.0,Audi,A7,313.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Polska,Nie,Używane
+2018,192000.0,Diesel,253500.0,Audi,SQ7,435.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Niemcy,Tak,Używane
+2006,304000.0,Diesel,24000.0,Audi,A6,180.0,Automatyczna,Front,5.0,10.0,Kombi,Czarny,Polska,Nie,Używane
+2006,304000.0,Diesel,24000.0,Audi,A6,180.0,Automatyczna,Front,5.0,10.0,Kombi,Czarny,Polska,Nie,Używane
+2008,345000.0,Diesel,24900.0,Audi,A6,140.0,Manualna,4X4,4.947841306884481,8.0,Kombi,Czarny,Niemcy,Nie,Używane
+2016,137000.0,Benzyna,89500.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,8.0,SUV,Inny kolor,Polska,Nie,Używane
+2009,238000.0,Diesel,32000.0,Audi,A4,143.0,Automatyczna,Front,4.0,5.0,Sedan,Szary,Polska,Nie,Używane
+2013,225000.0,Diesel,71000.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Brązowy,Polska,Tak,Używane
+2020,136329.0,Diesel,173000.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Biały,Polska,Tak,Używane
+2020,51000.0,Benzyna,585000.0,Audi,R8,540.0,Automatyczna,Rear,9.0,20.0,Coupe,Szary,Polska,Nie,Używane
+2005,190000.0,Benzyna,17900.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,11.0,Kombi,Czarny,Polska,Tak,Używane
+2016,164296.0,Benzyna,205000.0,Audi,S8,520.0,Automatyczna,4X4,7.0,13.0,Sedan,Czarny,Szwajcaria,Tak,Używane
+2009,187805.0,Benzyna,28500.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,12.0,Sedan,Czarny,Polska,Nie,Używane
+2009,249123.0,Diesel,25500.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,5.0,Kompakt,Czarny,Polska,Tak,Używane
+2014,199999.0,Diesel,74999.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2011,332031.0,Diesel,43900.0,Audi,A4 Allroad,240.0,Automatyczna,4X4,4.947841306884481,8.7,Kombi,Czarny,Niemcy,Nie,Używane
+2019,189000.0,Diesel,95000.0,Audi,A4,150.0,Automatyczna,Front,3.7,4.9,Kombi,Czarny,Niemcy,Tak,Używane
+2014,79930.0,Diesel,67000.0,Audi,A3,150.0,Automatyczna,Front,4.0,5.0,Auta małe,Biały,Polska,Tak,Używane
+2010,163000.0,Benzyna,36900.0,Audi,A3,200.0,Automatyczna,4X4,6.2,10.0,Kombi,Granatowy,Polska,Nie,Używane
+2003,355000.0,Diesel,11900.0,Audi,A6,180.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Szary,Szwajcaria,Nie,Używane
+2016,186000.0,Diesel,88900.0,Audi,A6,190.0,Automatyczna,4X4,4.7,6.1,Kombi,Granatowy,Polska,Tak,Używane
+2008,340000.0,Diesel,37000.0,Audi,A6,180.0,Automatyczna,Front,5.0,10.0,Kombi,Czarny,Polska,Nie,Używane
+2014,223000.0,Diesel,79900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Nie,Używane
+2015,247000.0,Diesel,69900.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2011,281000.0,Diesel,31500.0,Audi,A6,136.0,Manualna,Front,4.5,6.0,Kombi,Srebrny,Polska,Nie,Używane
+2019,163000.0,Diesel,93000.0,Audi,A3,184.0,Automatyczna,Front,4.947841306884481,5.8,Sedan,Szary,Polska,Nie,Używane
+2015,229000.0,Diesel,89800.0,Audi,A6,190.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Holandia,Tak,Używane
+2011,247204.0,Diesel,52000.0,Audi,A6,177.0,Manualna,Front,4.0,6.0,Sedan,Czerwony,Polska,Nie,Używane
+2005,390000.0,Benzyna,9500.0,Audi,A8,220.0,Automatyczna,Front,7.0,13.0,Sedan,Inny kolor,Niemcy,Nie,Używane
+2020,95470.0,Diesel,272900.0,Audi,Q7,232.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2012,280686.0,Diesel,69000.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,6.0,7.0,Kombi,Szary,Polska,Tak,Używane
+2016,114608.0,Diesel,129000.0,Audi,A6,218.0,Automatyczna,4X4,4.0,5.0,Sedan,Srebrny,Polska,Tak,Używane
+2006,231546.0,Diesel,21900.0,Audi,A4,140.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Brązowy,Niemcy,Tak,Używane
+2015,260000.0,Diesel,66000.0,Audi,A6,150.0,Automatyczna,Front,3.0,4.0,Sedan,Czarny,Polska,Nie,Używane
+2015,260000.0,Diesel,66000.0,Audi,A6,150.0,Automatyczna,Front,3.0,4.0,Sedan,Czarny,Polska,Nie,Używane
+2012,211000.0,Diesel,48000.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,5.6,Kombi,Srebrny,Polska,Tak,Używane
+2020,32000.0,Benzyna,250000.0,Audi,RS3,400.0,Automatyczna,4X4,6.0,11.0,Sedan,Szary,Polska,Tak,Używane
+2005,286000.0,Benzyna,18000.0,Audi,TT,150.0,Manualna,4X4,4.947841306884481,11.0,Kabriolet,Czarny,Polska,Nie,Używane
+2017,106000.0,Benzyna,92000.0,Audi,Q3,149.0,Automatyczna,Front,4.947841306884481,7.7,SUV,Biały,Polska,Nie,Używane
+2010,83000.0,Benzyna,33500.0,Audi,A3,125.0,Automatyczna,Front,4.0,6.0,Auta miejskie,Niebieski,Polska,Tak,Używane
+2007,193000.0,Diesel,33499.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Sedan,Czarny,Polska,Tak,Używane
+2010,242000.0,Benzyna,51500.0,Audi,Q5,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Inny kolor,Polska,Nie,Używane
+2012,350000.0,Diesel,32900.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2016,168419.0,Diesel,164500.0,Audi,Q7,272.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Szary,Polska,Nie,Używane
+2007,21200.0,Benzyna,11500.0,Audi,TT,200.0,Manualna,Front,4.947841306884481,7.473995451099318,Coupe,Szary,Polska,Nie,Używane
+2012,193000.0,Benzyna,69900.0,Audi,Q5,224.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Złoty,Polska,Tak,Używane
+2014,220000.0,Diesel,74000.0,Audi,A6,136.0,Manualna,Front,4.947841306884481,6.0,Sedan,Czarny,Belgia,Nie,Używane
+2006,289000.0,Diesel,44500.0,Audi,Q7,233.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Niebieski,Turcja,Nie,Używane
+2021,121689.0,Diesel,168000.0,Audi,A4,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Niemcy,Tak,Używane
+2017,100560.0,Benzyna,92000.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Bordowy,Polska,Nie,Używane
+2009,173000.0,Diesel,26500.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kabriolet,Czarny,Niemcy,Nie,Używane
+2013,198000.0,Diesel,45000.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,4.0,Kombi,Inny kolor,Niemcy,Tak,Używane
+2012,275500.0,Diesel,74900.0,Audi,A7,313.0,Automatyczna,4X4,5.0,8.0,Kompakt,Czarny,Polska,Nie,Używane
+2017,225000.0,Diesel,74900.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2017,84200.0,Benzyna,89900.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2016,113000.0,Diesel,89900.0,Audi,A6,218.0,Automatyczna,4X4,4.947841306884481,4.9,Kombi,Czarny,Polska,Nie,Używane
+1993,250000.0,Benzyna,142000.0,Audi,S2,230.0,Manualna,4X4,4.947841306884481,7.473995451099318,Coupe,Zielony,Polska,Nie,Używane
+2019,105000.0,Benzyna,38130.0,Audi,A5,245.0,Automatyczna,4X4,5.0,8.0,Coupe,Błękitny,Polska,Tak,Używane
+2013,225000.0,Benzyna,58900.0,Audi,A4 Allroad,211.0,Automatyczna,4X4,6.0,9.0,Kombi,Biały,Polska,Nie,Używane
+2014,221000.0,Diesel,80900.0,Audi,A6,313.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Czarny,Polska,Nie,Używane
+2022,2100.0,Diesel,359800.0,Audi,Q7,231.0,Automatyczna,4X4,5.0,8.0,SUV,Szary,Polska,Tak,Używane
+2015,192000.0,Diesel,89900.0,Audi,A6,272.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2014,214000.0,Benzyna,84000.0,Audi,S4,333.0,Automatyczna,4X4,6.3,10.2,Sedan,Szary,Stany Zjednoczone,Nie,Używane
+2013,305000.0,Benzyna,165000.0,Audi,RS6,560.0,Automatyczna,4X4,4.947841306884481,13.4,Kombi,Czarny,Polska,Tak,Używane
+2020,179028.0,Diesel,94500.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Sedan,Czarny,Polska,Tak,Używane
+2021,14966.0,Diesel,362850.0,Audi,S7,344.0,Automatyczna,4X4,4.947841306884481,8.0,Kompakt,Szary,Polska,Nie,Używane
+2007,240000.0,Benzyna,16400.0,Audi,A3,102.0,Manualna,Front,5.0,9.0,Coupe,Czarny,Niemcy,Tak,Używane
+2004,379644.0,Benzyna,35000.0,Audi,S4,344.0,Automatyczna,4X4,9.0,17.0,Kombi,Błękitny,Szwajcaria,Tak,Używane
+2018,130000.0,Diesel,224950.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Niemcy,Tak,Używane
+2017,97000.0,Benzyna,90000.0,Audi,Q3,150.0,Manualna,Front,4.947841306884481,6.0,SUV,Szary,Niemcy,Tak,Używane
+2016,217000.0,Diesel,20000.0,Audi,A6,218.0,Automatyczna,4X4,4.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2011,213321.0,Diesel,89900.0,Audi,Q7,245.0,Automatyczna,4X4,6.0,8.0,SUV,Biały,Polska,Nie,Używane
+2021,18000.0,Benzyna,385000.0,Audi,A8,460.0,Automatyczna,4X4,7.0,15.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2019,174000.0,Diesel,82500.0,Audi,Q2,105.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Auta małe,Inny kolor,Polska,Nie,Używane
+2015,80000.0,Diesel,26900.0,Audi,Q3,150.0,Automatyczna,4X4,4.0,6.0,SUV,Czarny,Niemcy,Nie,Używane
+2020,95000.0,Diesel,226000.0,Audi,S6,349.0,Automatyczna,4X4,5.8,7.7,Kombi,Czarny,Niemcy,Tak,Używane
+2005,283430.0,Benzyna,18500.0,Audi,A3,102.0,Manualna,4X4,4.947841306884481,9.5,Kompakt,Szary,Polska,Nie,Używane
+2022,21500.0,Benzyna,169000.0,Audi,Q3,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Stany Zjednoczone,Nie,Używane
+2004,309543.0,Diesel,12900.0,Audi,A3,105.0,Manualna,Front,4.0,6.0,Kompakt,Srebrny,Polska,Nie,Używane
+2010,133000.0,Diesel,37900.0,Audi,A3,140.0,Automatyczna,Front,4.4,5.8,Kompakt,Czarny,Polska,Tak,Używane
+2007,261000.0,Diesel,55000.0,Audi,A8,326.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Granatowy,Polska,Nie,Używane
+2005,316000.0,Benzyna,15000.0,Audi,A4,200.0,Manualna,4X4,6.0,12.0,Kombi,Czarny,Polska,Nie,Używane
+2006,207500.0,Diesel,19990.0,Audi,A6,140.0,Manualna,Front,4.947841306884481,8.0,Sedan,Inny kolor,Belgia,Nie,Używane
+2005,442000.0,Diesel,22950.0,Audi,A6,224.0,Automatyczna,4X4,6.0,11.0,Kombi,Szary,Polska,Tak,Używane
+2019,145997.0,Diesel,118000.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,4.0,Sedan,Szary,Polska,Tak,Używane
+2015,108000.0,Benzyna,71500.0,Audi,A4,150.0,Manualna,Front,4.0,6.0,Sedan,Biały,Polska,Tak,Używane
+2009,198160.0,Benzyna,22000.0,Audi,A3,125.0,Manualna,4X4,4.947841306884481,7.0,Kompakt,Granatowy,Polska,Nie,Używane
+2014,123500.0,Benzyna,144000.0,Audi,S8,520.0,Automatyczna,4X4,7.0,13.0,Sedan,Szary,Stany Zjednoczone,Nie,Używane
+2017,105000.0,Diesel,29900.0,Audi,A3,116.0,Automatyczna,Front,3.8,4.2,Sedan,Czarny,Polska,Nie,Używane
+2012,327000.0,Diesel,49000.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,6.1,Kombi,Inny kolor,Polska,Tak,Używane
+2020,42000.0,Diesel,149900.0,Audi,Q5,163.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Używane
+2015,101137.0,Benzyna,86500.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Biały,Stany Zjednoczone,Nie,Używane
+2012,249000.0,Diesel,79500.0,Audi,A6,313.0,Automatyczna,4X4,5.0,8.0,Sedan,Pomarańczowy,Polska,Nie,Używane
+2008,179000.0,Benzyna,119000.0,Audi,RS6,580.0,Automatyczna,Front,4.947841306884481,20.0,Kombi,Czarny,Polska,Nie,Używane
+2018,135000.0,Diesel,195570.0,Audi,Q7,218.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2017,73000.0,Benzyna,139900.0,Audi,Q7,333.0,Automatyczna,4X4,6.0,9.0,SUV,Granatowy,Polska,Nie,Używane
+2022,11800.0,Benzyna,165900.0,Audi,Q3,230.0,Automatyczna,4X4,6.1,9.5,SUV,Czarny,Polska,Tak,Używane
+2019,49000.0,Benzyna,139900.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Niebieski,Stany Zjednoczone,Nie,Używane
+2019,49000.0,Benzyna,139900.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Niebieski,Stany Zjednoczone,Nie,Używane
+2018,69550.0,Benzyna,185000.0,Audi,A7,340.0,Automatyczna,4X4,5.0,10.0,Sedan,Szary,Polska,Nie,Używane
+2014,247100.0,Diesel,65700.0,Audi,A5,177.0,Manualna,Front,4.1,5.5,Coupe,Szary,Niemcy,Nie,Używane
+2014,295000.0,Diesel,51000.0,Audi,A6,136.0,Manualna,Front,4.5,6.0,Kombi,Niebieski,Belgia,Tak,Używane
+2005,308000.0,Diesel,18500.0,Audi,A6,224.0,Automatyczna,4X4,4.947841306884481,11.0,Kombi,Inny kolor,Niemcy,Tak,Używane
+2012,368000.0,Diesel,65000.0,Audi,A6,245.0,Automatyczna,4X4,5.0,7.0,Sedan,Inny kolor,Polska,Nie,Używane
+2016,220000.0,Diesel,79900.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Bordowy,Szwecja,Tak,Używane
+2021,34000.0,Benzyna,204900.0,Audi,A5,265.0,Automatyczna,4X4,4.947841306884481,8.0,Coupe,Biały,Polska,Tak,Używane
+2006,300766.0,Diesel,17000.0,Audi,A4,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2017,175000.0,Hybryda Plug-in,65999.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Włochy,Tak,Używane
+2010,135000.0,Benzyna,56900.0,Audi,Q5,270.0,Automatyczna,4X4,7.0,12.0,SUV,Srebrny,Polska,Nie,Używane
+2006,435000.0,Diesel,23000.0,Audi,A6,224.0,Automatyczna,4X4,6.0,11.0,Kombi,Czarny,Polska,Nie,Używane
+2010,199999.0,Benzyna,26999.0,Audi,A4,160.0,Manualna,Front,5.0,9.0,Kombi,Czarny,Niemcy,Tak,Używane
+2013,193000.0,Diesel,50900.0,Audi,A4,143.0,Manualna,4X4,4.0,6.0,Kombi,Srebrny,Niemcy,Tak,Używane
+2016,123000.0,Diesel,116999.0,Audi,A4 Allroad,218.0,Automatyczna,4X4,4.947841306884481,5.4,Kombi,Czarny,Niemcy,Nie,Używane
+2010,339745.0,Diesel,24999.0,Audi,A3,170.0,Manualna,Front,4.947841306884481,6.0,Kompakt,Niebieski,Polska,Nie,Używane
+2014,165600.0,Diesel,85500.0,Audi,Q5,150.0,Manualna,4X4,4.947841306884481,7.473995451099318,SUV,Granatowy,Polska,Nie,Używane
+2011,235000.0,Diesel,62000.0,Audi,Q7,240.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Polska,Nie,Używane
+2019,85686.0,Diesel,169000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czerwony,Niemcy,Tak,Używane
+2020,27000.0,Diesel,529000.0,Audi,SQ8,435.0,Automatyczna,4X4,7.0,8.0,SUV,Niebieski,Polska,Tak,Używane
+2011,154000.0,Benzyna,57900.0,Audi,A5,211.0,Automatyczna,Front,4.947841306884481,8.8,Coupe,Brązowy,Niemcy,Nie,Używane
+2023,5.0,Benzyna,707400.0,Audi,RS7,630.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czerwony,Polska,Tak,Nowe
+2017,77123.0,Benzyna,209000.0,Audi,S5,333.0,Automatyczna,Front,4.947841306884481,10.0,Kompakt,Czarny,Polska,Tak,Używane
+2013,280000.0,Diesel,58900.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Kombi,Granatowy,Polska,Nie,Używane
+2014,222000.0,Diesel,76600.0,Audi,Q5,177.0,Manualna,4X4,4.947841306884481,7.0,SUV,Szary,Niemcy,Tak,Używane
+2010,191000.0,Diesel,19900.0,Audi,A6,150.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czerwony,Polska,Nie,Używane
+2015,203800.0,Benzyna,81000.0,Audi,A6,252.0,Automatyczna,Front,5.2,7.4,Kombi,Biały,Niemcy,Tak,Używane
+2020,90300.0,Benzyna,289900.0,Audi,RS5,450.0,Automatyczna,4X4,4.947841306884481,12.0,Sedan,Niebieski,Niemcy,Tak,Używane
+2019,220000.0,Diesel,147500.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,5.0,Kompakt,Szary,Niemcy,Nie,Używane
+1997,220000.0,Benzyna+LPG,8500.0,Audi,A4,101.0,Manualna,Front,5.0,7.473995451099318,Sedan,Srebrny,Niemcy,Tak,Używane
+2021,32600.0,Benzyna,174000.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Biały,Polska,Nie,Używane
+2006,270000.0,Diesel,25000.0,Audi,A4,140.0,Manualna,4X4,5.0,8.0,Kombi,Srebrny,Polska,Nie,Używane
+2006,270000.0,Diesel,25000.0,Audi,A4,140.0,Manualna,4X4,5.0,8.0,Kombi,Srebrny,Polska,Nie,Używane
+2019,87000.0,Benzyna,104999.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Tak,Używane
+2015,99894.0,Diesel,102000.0,Audi,Q3,184.0,Automatyczna,4X4,4.0,6.0,SUV,Biały,Polska,Tak,Używane
+2015,142000.0,Benzyna,117000.0,Audi,S3,300.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2023,6000.0,Benzyna,239000.0,Audi,A5,204.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Szary,Polska,Nie,Używane
+2023,10.0,Elektryczny,329400.0,Audi,e-tron,340.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Nowe
+2022,16000.0,Elektryczny,239000.0,Audi,Q4,204.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Nie,Używane
+2023,5.0,Hybryda,176500.0,Audi,A3,245.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Biały,Polska,Tak,Nowe
+2023,5.0,Elektryczny,329700.0,Audi,e-tron,340.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Nowe
+2009,248000.0,Benzyna,29900.0,Audi,A6,170.0,Manualna,Front,4.947841306884481,9.0,Sedan,Czarny,Niemcy,Tak,Używane
+2017,199000.0,Diesel,119000.0,Audi,A6,272.0,Automatyczna,4X4,4.0,6.0,Kombi,Szary,Polska,Tak,Używane
+2008,303198.0,Diesel,41900.0,Audi,Q5,240.0,Automatyczna,4X4,6.0,9.0,SUV,Szary,Polska,Nie,Używane
+2013,270000.0,Diesel,43900.0,Audi,A4,136.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Granatowy,Polska,Nie,Używane
+2023,7700.0,Benzyna,129900.0,Audi,A3,110.0,Manualna,Front,4.947841306884481,5.0,Sedan,Srebrny,Polska,Tak,Używane
+2019,89000.0,Diesel,274000.0,Audi,Q7,285.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Inny kolor,Polska,Tak,Używane
+1999,412000.0,Benzyna+LPG,9900.0,Audi,A6,149.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2012,229000.0,Diesel,45900.0,Audi,A4,136.0,Manualna,Front,3.0,4.0,Kombi,Brązowy,Belgia,Nie,Używane
+2007,276000.0,Diesel,26500.0,Audi,A6,233.0,Automatyczna,Front,4.947841306884481,11.0,Sedan,Czarny,Polska,Nie,Używane
+2012,326860.0,Diesel,60700.0,Audi,A6,177.0,Automatyczna,Front,4.5,6.1,Kombi,Biały,Belgia,Tak,Używane
+2024,5.0,Hybryda,246800.0,Audi,Q3 Sportback,245.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Nowe
+2024,5.0,Benzyna,805700.0,Audi,R8,570.0,Automatyczna,Rear,4.947841306884481,19.0,Coupe,Szary,Polska,Tak,Nowe
+2023,12000.0,Hybryda,378700.0,Audi,A7,299.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+2019,146000.0,Diesel,99800.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2005,343000.0,Diesel,10900.0,Audi,A4,163.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kabriolet,Czarny,Polska,Nie,Używane
+2019,225000.0,Diesel,94710.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Auta małe,Czarny,Niemcy,Tak,Używane
+2002,287000.0,Benzyna,31900.0,Audi,S6,340.0,Manualna,4X4,10.0,21.0,Kombi,Srebrny,Polska,Nie,Używane
+2008,194000.0,Benzyna,84000.0,Audi,A5,265.0,Automatyczna,4X4,6.0,13.0,Coupe,Biały,Polska,Nie,Używane
+2023,10.0,Diesel,507000.0,Audi,Q8,286.0,Automatyczna,4X4,5.0,8.0,SUV,Szary,Polska,Tak,Nowe
+2014,178000.0,Diesel,49000.0,Audi,A4,177.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Srebrny,Polska,Nie,Używane
+2014,193658.0,Diesel,52490.0,Audi,A4,150.0,Automatyczna,Front,4.3,5.4,Kombi,Czarny,Polska,Nie,Używane
+2019,149000.0,Diesel,123900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Niemcy,Nie,Używane
+2010,330000.0,Diesel,38000.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Sedan,Niebieski,Polska,Nie,Używane
+2019,149000.0,Diesel,123900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Niemcy,Nie,Używane
+2010,330000.0,Diesel,38000.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Sedan,Niebieski,Polska,Nie,Używane
+2021,9085.0,Benzyna,141450.0,Audi,A4,150.0,Manualna,4X4,4.947841306884481,7.0,Kombi,Czerwony,Polska,Nie,Używane
+1995,198525.0,Benzyna,12000.0,Audi,A4,174.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2021,46500.0,Benzyna,349900.0,Audi,RS5,450.0,Automatyczna,4X4,7.0,12.0,Coupe,Czarny,Polska,Nie,Używane
+2011,317000.0,Diesel,36900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,8.0,Kombi,Czarny,Niemcy,Tak,Używane
+2015,183000.0,Diesel,120000.0,Audi,A7,272.0,Automatyczna,Front,4.947841306884481,6.0,Kompakt,Szary,Polska,Tak,Używane
+2015,228000.0,Diesel,69999.0,Audi,A6,190.0,Automatyczna,Front,4.1,5.2,Kombi,Biały,Niemcy,Tak,Używane
+1996,384000.0,Diesel,8000.0,Audi,A4,90.0,Manualna,Front,4.0,7.0,Sedan,Inny kolor,Belgia,Tak,Używane
+2013,224500.0,Benzyna,78900.0,Audi,A7,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Szary,Stany Zjednoczone,Nie,Używane
+2007,334000.0,Diesel,16500.0,Audi,A4,115.0,Manualna,Front,4.0,7.0,Kombi,Czarny,Polska,Nie,Używane
+2016,240000.0,Diesel,83500.0,Audi,Q5,190.0,Automatyczna,4X4,4.0,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2022,119000.0,Diesel,169800.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Niemcy,Tak,Używane
+2009,233800.0,Diesel,51900.0,Audi,Q5,170.0,Manualna,4X4,5.0,7.0,SUV,Czarny,Polska,Nie,Używane
+2024,5.0,Benzyna,377200.0,Audi,RS Q3,400.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czerwony,Polska,Tak,Nowe
+2016,140500.0,Diesel,88900.0,Audi,Q5,190.0,Automatyczna,4X4,5.0,6.0,SUV,Szary,Polska,Tak,Używane
+2006,120131.0,Benzyna,21900.0,Audi,A4,102.0,Manualna,4X4,4.947841306884481,10.0,Kombi,Szary,Polska,Nie,Używane
+2016,142000.0,Benzyna,93500.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Inny kolor,Polska,Nie,Używane
+2019,61200.0,Benzyna,169000.0,Audi,S5,354.0,Automatyczna,4X4,6.0,10.1,Kompakt,Czerwony,Polska,Nie,Używane
+2020,18000.0,Benzyna,169900.0,Audi,S3,310.0,Automatyczna,4X4,5.0,8.0,Kompakt,Czerwony,Polska,Tak,Używane
+2018,222160.0,Diesel,98800.0,Audi,A5,150.0,Automatyczna,Front,4.0,4.9,Sedan,Czarny,Niemcy,Tak,Używane
+2019,86698.0,Diesel,153900.0,Audi,A6,204.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2018,122654.0,Diesel,98900.0,Audi,A6,136.0,Automatyczna,Front,4.947841306884481,6.1,Kombi,Szary,Polska,Nie,Używane
+2018,197000.0,Diesel,89900.0,Audi,A6,190.0,Automatyczna,Front,4.1,5.2,Kombi,Biały,Polska,Nie,Używane
+2013,256300.0,Diesel,78900.0,Audi,A6,313.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Czarny,Niemcy,Tak,Używane
+2020,94253.0,Diesel,45000.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Nie,Używane
+2019,83000.0,Benzyna,209900.0,Audi,S5,354.0,Automatyczna,4X4,5.0,9.0,Kompakt,Szary,Stany Zjednoczone,Nie,Używane
+2005,277700.0,Benzyna,34900.0,Audi,A4,163.0,Manualna,4X4,7.0,12.0,Sedan,Szary,Polska,Tak,Używane
+2020,112000.0,Diesel,148800.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2016,150000.0,Benzyna,119900.0,Audi,A7,252.0,Automatyczna,Front,4.947841306884481,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2011,145600.0,Diesel,79000.0,Audi,A8,250.0,Automatyczna,4X4,5.0,8.0,Sedan,Inny kolor,Niemcy,Nie,Używane
+2008,346250.0,Diesel,29900.0,Audi,A6 Allroad,233.0,Automatyczna,4X4,4.947841306884481,11.0,Kombi,Czarny,Niemcy,Tak,Używane
+2012,149879.0,Benzyna,60000.0,Audi,Q5,211.0,Automatyczna,4X4,7.0,10.0,SUV,Biały,Kanada,Nie,Używane
+2017,166000.0,Diesel,112900.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Szary,Polska,Tak,Używane
+2009,256500.0,Diesel,31500.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Srebrny,Szwajcaria,Nie,Używane
+2011,320921.0,Diesel,45000.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Niemcy,Nie,Używane
+2011,288000.0,Diesel,48500.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Biały,Polska,Tak,Używane
+2019,164253.0,Diesel,41900.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2012,250000.0,Diesel,60900.0,Audi,A5,143.0,Manualna,Front,4.0,5.4,Sedan,Czarny,Belgia,Tak,Używane
+2023,19376.0,Benzyna,176900.0,Audi,Q3 Sportback,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Używane
+2006,290200.0,Diesel,20000.0,Audi,A4,233.0,Manualna,4X4,5.0,10.0,Kombi,Niebieski,Polska,Tak,Używane
+2016,146000.0,Diesel,143500.0,Audi,Q7,218.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2014,214500.0,Diesel,45900.0,Audi,A3,110.0,Manualna,Front,3.2,3.9,Kompakt,Biały,Szwecja,Nie,Używane
+2016,212309.0,Diesel,86900.0,Audi,A6,190.0,Automatyczna,Front,4.1,5.2,Kombi,Czarny,Niemcy,Tak,Używane
+2005,392550.0,Diesel,14900.0,Audi,A6,184.0,Manualna,Rear,4.947841306884481,9.0,Kombi,Inny kolor,Polska,Nie,Używane
+2010,290000.0,Diesel,30000.0,Audi,A6,190.0,Automatyczna,4X4,5.8,9.4,Kombi,Srebrny,Niemcy,Nie,Używane
+2005,300000.0,Diesel,25900.0,Audi,A6,233.0,Automatyczna,4X4,5.0,9.0,Kombi,Czarny,Niemcy,Tak,Używane
+2018,69157.0,Benzyna,136900.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2018,148000.0,Diesel,105000.0,Audi,A6,190.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Polska,Tak,Używane
+2013,238000.0,Diesel,67990.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Granatowy,Szwecja,Tak,Używane
+2014,191500.0,Benzyna,92000.0,Audi,A7,310.0,Automatyczna,4X4,6.0,10.0,Coupe,Biały,Kanada,Nie,Używane
+2015,62400.0,Benzyna,142000.0,Audi,RS3,367.0,Automatyczna,4X4,4.947841306884481,11.2,Kompakt,Pomarańczowy,Polska,Tak,Używane
+2014,73000.0,Diesel,79950.0,Audi,A6,190.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Polska,Tak,Używane
+2021,13000.0,Benzyna,179999.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Nie,Używane
+2000,278976.0,Benzyna,10800.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,11.0,Sedan,Srebrny,Włochy,Nie,Używane
+2013,250000.0,Diesel,46900.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,6.0,Kombi,Biały,Szwecja,Tak,Używane
+2013,240000.0,Diesel,65000.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Sedan,Czarny,Niemcy,Tak,Używane
+2015,159500.0,Diesel,75999.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.2,Kombi,Czarny,Niemcy,Tak,Używane
+2009,235000.0,Diesel,34900.0,Audi,A6,170.0,Manualna,Front,4.7,6.7,Kombi,Szary,Polska,Nie,Używane
+2023,15500.0,Benzyna,200999.0,Audi,Q5,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2016,182000.0,Diesel,100900.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Biały,Polska,Nie,Używane
+2021,32000.0,Benzyna,106000.0,Audi,A3,110.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Tak,Używane
+2004,396017.0,Diesel,20500.0,Audi,A8,233.0,Automatyczna,4X4,6.0,12.0,Sedan,Zielony,Polska,Nie,Używane
+2004,396017.0,Diesel,20500.0,Audi,A8,233.0,Automatyczna,4X4,6.0,12.0,Sedan,Zielony,Polska,Nie,Używane
+2008,259000.0,Diesel,31900.0,Audi,A3,140.0,Manualna,Front,3.8,5.5,Auta miejskie,Czarny,Polska,Nie,Używane
+2005,388000.0,Diesel,31900.0,Audi,A8,232.0,Automatyczna,4X4,4.947841306884481,12.0,Sedan,Czarny,Niemcy,Tak,Używane
+2008,398824.0,Diesel,37500.0,Audi,A6,240.0,Manualna,4X4,5.0,8.0,Sedan,Srebrny,Niemcy,Tak,Używane
+2019,63366.0,Diesel,169700.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Czarny,Polska,Tak,Używane
+2009,236000.0,Benzyna,33000.0,Audi,A4,160.0,Manualna,Front,5.0,9.0,Sedan,Biały,Niemcy,Tak,Używane
+2015,184500.0,Diesel,65900.0,Audi,A5,190.0,Manualna,Front,4.947841306884481,5.0,Coupe,Brązowy,Szwecja,Tak,Używane
+2004,297450.0,Benzyna,31000.0,Audi,A3,250.0,Automatyczna,4X4,7.0,13.0,Kompakt,Czarny,Polska,Nie,Używane
+2005,268500.0,Diesel,8999.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,6.0,Kompakt,Czarny,Polska,Nie,Używane
+2009,272100.0,Diesel,24900.0,Audi,A4,143.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Polska,Tak,Używane
+2014,240000.0,Diesel,89898.0,Audi,A6,320.0,Automatyczna,Front,4.947841306884481,7.5,Kombi,Szary,Polska,Nie,Używane
+2011,252000.0,Diesel,73000.0,Audi,A7,245.0,Automatyczna,4X4,4.947841306884481,7.2,Sedan,Czarny,Polska,Nie,Używane
+2013,159000.0,Diesel,74900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Szary,Niemcy,Tak,Używane
+2013,193560.0,Diesel,72900.0,Audi,Q3,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Pomarańczowy,Niemcy,Tak,Używane
+2013,188494.0,Diesel,62700.0,Audi,Q3,140.0,Manualna,4X4,4.947841306884481,7.0,SUV,Biały,Niemcy,Tak,Używane
+2001,303700.0,Diesel,9400.0,Audi,A4,130.0,Manualna,Front,4.0,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2021,25350.0,Elektryczny,399900.0,Audi,e-tron,503.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Niebieski,Polska,Tak,Używane
+2021,6770.0,Elektryczny,249900.0,Audi,e-tron,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Używane
+2016,180200.0,Diesel,149900.0,Audi,Q7,218.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Nie,Używane
+2002,298000.0,Diesel,11500.0,Audi,A4,100.0,Manualna,Front,4.0,7.0,Sedan,Czarny,Polska,Tak,Używane
+2018,188621.0,Diesel,104999.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Sedan,Biały,Polska,Tak,Używane
+2014,84000.0,Diesel,60900.0,Audi,A3,150.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Biały,Francja,Tak,Używane
+2017,99700.0,Benzyna,103900.0,Audi,A5,190.0,Manualna,Front,4.0,7.0,Coupe,Biały,Polska,Tak,Używane
+2016,127542.0,Diesel,74900.0,Audi,Q2,190.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Polska,Tak,Używane
+2022,23786.0,Diesel,329900.0,Audi,Q7,231.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Biały,Polska,Tak,Używane
+2010,195000.0,Benzyna,56900.0,Audi,A5,211.0,Automatyczna,4X4,6.0,8.0,Coupe,Inny kolor,Polska,Tak,Używane
+2021,60502.0,Benzyna,479900.0,Audi,S8,571.0,Automatyczna,4X4,4.947841306884481,15.0,Sedan,Czarny,Polska,Tak,Używane
+2006,288647.0,Diesel,17900.0,Audi,A3,140.0,Manualna,Front,4.0,6.0,Kompakt,Czerwony,Niemcy,Tak,Używane
+2013,285000.0,Diesel,59900.0,Audi,A4,177.0,Automatyczna,4X4,4.0,6.0,Kombi,Czarny,Polska,Nie,Używane
+2022,7700.0,Benzyna,153000.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Srebrny,Polska,Nie,Używane
+1999,227000.0,Benzyna,4890.0,Audi,A3,102.0,Manualna,Front,5.0,9.0,Auta małe,Srebrny,Polska,Nie,Używane
+2019,99700.0,Diesel,169900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Szary,Polska,Tak,Używane
+2019,99700.0,Diesel,169900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Szary,Polska,Tak,Używane
+2011,367000.0,Diesel,49000.0,Audi,A6,177.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Biały,Polska,Nie,Używane
+2011,279000.0,Diesel,34999.0,Audi,A4,143.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2024,5.0,Benzyna,126827.0,Audi,A3,110.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Tak,Nowe
+2017,93100.0,Diesel,135555.0,Audi,Q5,190.0,Automatyczna,4X4,4.0,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2012,217000.0,Benzyna,49500.0,Audi,Q5,180.0,Manualna,4X4,6.0,9.0,SUV,Czarny,Polska,Nie,Używane
+2009,251120.0,Diesel,24900.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2018,62234.0,Benzyna,53000.0,Audi,A7,340.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2018,122000.0,Diesel,264900.0,Audi,Q8,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Szary,Polska,Tak,Używane
+2005,234856.0,Diesel,14900.0,Audi,A4,140.0,Manualna,Front,4.0,7.0,Kombi,Czarny,Niemcy,Nie,Używane
+2005,353547.0,Diesel,14500.0,Audi,A4,116.0,Manualna,Front,4.0,7.0,Sedan,Szary,Polska,Nie,Używane
+2018,188782.0,Benzyna,46000.0,Audi,A4,252.0,Automatyczna,4X4,5.0,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2020,38400.0,Benzyna,238900.0,Audi,S5,354.0,Automatyczna,4X4,5.0,9.0,Coupe,Biały,Polska,Tak,Używane
+2019,42666.0,Benzyna,98000.0,Audi,A7,340.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Nie,Używane
+2021,61900.0,Benzyna,458000.0,Audi,SQ8,507.0,Automatyczna,4X4,4.947841306884481,16.0,SUV,Szary,Polska,Tak,Używane
+2014,111000.0,Benzyna,66888.0,Audi,A4,224.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Granatowy,Stany Zjednoczone,Nie,Używane
+2019,56000.0,Benzyna,170970.0,Audi,S5,354.0,Automatyczna,4X4,6.0,10.1,Coupe,Czarny,Polska,Nie,Używane
+2013,194294.0,Diesel,48900.0,Audi,A3,150.0,Manualna,Front,3.0,5.0,Kompakt,Granatowy,Niemcy,Tak,Używane
+2024,1.0,Benzyna,194000.0,Audi,Q3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Nowe
+2009,333353.0,Diesel,34500.0,Audi,A6,170.0,Manualna,Front,4.0,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2016,79000.0,Diesel,86900.0,Audi,Q3,150.0,Manualna,Front,4.947841306884481,7.0,SUV,Czarny,Niemcy,Tak,Używane
+2015,281100.0,Diesel,90000.0,Audi,A6,218.0,Automatyczna,4X4,5.2,6.1,Kombi,Czarny,Polska,Nie,Używane
+2014,169263.0,Diesel,66900.0,Audi,Q3,140.0,Manualna,4X4,4.947841306884481,7.0,SUV,Czarny,Niemcy,Tak,Używane
+2013,198718.0,Diesel,87900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Szary,Niemcy,Tak,Używane
+2014,199000.0,Diesel,84900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Brązowy,Niemcy,Tak,Używane
+2018,112507.0,Benzyna,79000.0,Audi,A4,252.0,Automatyczna,Front,4.947841306884481,7.0,Sedan,Biały,Polska,Nie,Używane
+2015,236000.0,Diesel,72900.0,Audi,A5,190.0,Automatyczna,Front,4.0,5.0,Coupe,Czarny,Polska,Tak,Używane
+2013,198000.0,Diesel,88900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2002,348528.0,Diesel,19999.0,Audi,A4,130.0,Manualna,Front,4.0,7.0,Kombi,Inny kolor,Polska,Nie,Używane
+2010,368000.0,Diesel,32900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,6.0,Kombi,Czarny,Polska,Nie,Używane
+2011,172300.0,Diesel,30500.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Biały,Polska,Nie,Używane
+2014,251000.0,Diesel,49999.0,Audi,A4,204.0,Automatyczna,Front,4.0,5.0,Kombi,Granatowy,Niemcy,Nie,Używane
+2014,251000.0,Diesel,49999.0,Audi,A4,204.0,Automatyczna,Front,4.0,5.0,Kombi,Granatowy,Niemcy,Nie,Używane
+2007,208300.0,Benzyna,30666.0,Audi,A4,163.0,Manualna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Niemcy,Tak,Używane
+2016,132000.0,Benzyna,90500.0,Audi,A4,252.0,Automatyczna,4X4,5.0,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2021,34699.0,Diesel,399900.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Szary,Polska,Tak,Używane
+2021,67639.0,Diesel,279900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Niemcy,Tak,Używane
+2013,280000.0,Diesel,69500.0,Audi,A6,204.0,Automatyczna,4X4,5.0,6.0,Kombi,Czarny,Niemcy,Nie,Używane
+2011,255020.0,Diesel,55000.0,Audi,A6,177.0,Manualna,Front,4.0,6.0,Kombi,Czarny,Niemcy,Tak,Używane
+2010,220000.0,Diesel,45999.0,Audi,A5,170.0,Manualna,Front,4.4,6.2,Kompakt,Czarny,Polska,Nie,Używane
+2023,1.0,Benzyna,322661.0,Audi,A7,265.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Szary,Polska,Tak,Nowe
+2008,189990.0,Benzyna,27400.0,Audi,A4,160.0,Manualna,Front,5.8,9.6,Kombi,Szary,Niemcy,Tak,Używane
+2017,118200.0,Diesel,89999.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,4.0,Sedan,Niebieski,Polska,Tak,Używane
+2024,1.0,Benzyna,188133.0,Audi,Q3,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Biały,Polska,Tak,Nowe
+2010,290000.0,Diesel,31999.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,5.5,Kompakt,Inny kolor,Niemcy,Nie,Używane
+2013,203000.0,Benzyna,49900.0,Audi,A6,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Nie,Używane
+2013,179000.0,Benzyna,74000.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2024,10.0,Benzyna,725000.0,Audi,R8,570.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2018,205400.0,Diesel,77900.0,Audi,A4,190.0,Automatyczna,Front,4.1,4.9,Kombi,Czarny,Polska,Nie,Używane
+2017,204000.0,Diesel,130000.0,Audi,A7,326.0,Automatyczna,4X4,5.0,7.0,Kompakt,Biały,Polska,Tak,Używane
+2016,230000.0,Diesel,69000.0,Audi,A4,150.0,Manualna,Front,3.0,4.0,Kombi,Biały,Belgia,Tak,Używane
+2020,24084.0,Elektryczny,246000.0,Audi,e-tron,314.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Używane
+2019,95500.0,Diesel,300000.0,Audi,Q8,286.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Polska,Tak,Używane
+2009,243000.0,Diesel,35500.0,Audi,A4,143.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Inny kolor,Niemcy,Tak,Używane
+2013,303000.0,Diesel,84255.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,6.0,7.0,Kombi,Brązowy,Polska,Nie,Używane
+2004,263645.0,Diesel,15000.0,Audi,A4,115.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Tak,Używane
+2012,173414.0,Benzyna,66000.0,Audi,Q3,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Beżowy,Polska,Nie,Używane
+2012,309000.0,Diesel,33000.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Granatowy,Polska,Nie,Używane
+2017,204685.0,Diesel,124900.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,5.2,Sedan,Czarny,Niemcy,Tak,Używane
+2011,173900.0,Diesel,52900.0,Audi,Q5,170.0,Manualna,4X4,5.0,7.0,SUV,Czarny,Polska,Nie,Używane
+2012,235000.0,Benzyna,57800.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Biały,Polska,Tak,Używane
+2023,20000.0,Diesel,215250.0,Audi,Q5,204.0,Automatyczna,4X4,4.0,6.0,SUV,Niebieski,Niemcy,Tak,Używane
+2014,193916.0,Benzyna,69777.0,Audi,A5,170.0,Manualna,Front,4.9,7.5,Sedan,Czarny,Niemcy,Tak,Używane
+2021,47000.0,Diesel,68500.0,Audi,A4,163.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,Kombi,Szary,Polska,Nie,Używane
+2019,107000.0,Diesel,280000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2014,184275.0,Diesel,35900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Francja,Nie,Używane
+2016,181000.0,Diesel,72800.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2018,75000.0,Diesel,205000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Biały,Niemcy,Tak,Używane
+2000,280000.0,Benzyna+LPG,9900.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Sedan,Srebrny,Polska,Nie,Używane
+2014,218000.0,Benzyna,88000.0,Audi,SQ5,354.0,Automatyczna,4X4,6.0,10.0,SUV,Czarny,Polska,Nie,Używane
+2005,266586.0,Benzyna+LPG,18000.0,Audi,A4,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Srebrny,Polska,Nie,Używane
+2010,350000.0,Diesel,67200.0,Audi,A7,245.0,Automatyczna,Front,4.947841306884481,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2004,179255.0,Benzyna,12500.0,Audi,A3,115.0,Manualna,Front,5.0,8.0,Kompakt,Czarny,Polska,Nie,Używane
+2014,188000.0,Benzyna,69500.0,Audi,Q5,224.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Stany Zjednoczone,Nie,Używane
+2015,168500.0,Benzyna,74600.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,7.1,Kombi,Szary,Polska,Tak,Używane
+2000,289501.0,Benzyna,6500.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Nie,Używane
+2018,34000.0,Benzyna,110700.0,Audi,Q3,149.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Biały,Polska,Nie,Używane
+2012,263000.0,Diesel,69900.0,Audi,A6,245.0,Automatyczna,4X4,5.2,7.2,Kombi,Szary,Niemcy,Tak,Używane
+2002,300122.0,Diesel,9700.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Srebrny,Niemcy,Nie,Używane
+2022,13000.0,Benzyna,595000.0,Audi,RS6,600.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2012,191707.0,Diesel,61700.0,Audi,A4,245.0,Automatyczna,4X4,5.0,7.0,Kombi,Czerwony,Polska,Tak,Używane
+2022,18000.0,Elektryczny,340000.0,Audi,e-tron,408.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Używane
+2004,362100.0,Diesel,18900.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,8.0,Kombi,Czarny,Niemcy,Tak,Używane
+2023,,Elektryczny,386200.0,Audi,e-tron,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Nowe
+2020,90000.0,Diesel,280000.0,Audi,A6,286.0,Automatyczna,4X4,4.0,7.0,Sedan,Szary,Polska,Tak,Używane
+2023,,Elektryczny,355644.0,Audi,e-tron,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Niebieski,Polska,Tak,Nowe
+2006,272000.0,Benzyna+LPG,22000.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Kombi,Srebrny,Niemcy,Nie,Używane
+2014,170000.0,Benzyna,125000.0,Audi,RS5,450.0,Automatyczna,4X4,8.5,14.6,Kabriolet,Czarny,Polska,Nie,Używane
+2013,279000.0,Diesel,69500.0,Audi,A6,204.0,Automatyczna,4X4,5.1,6.8,Kombi,Czarny,Niemcy,Tak,Używane
+2016,157000.0,Benzyna+LPG,105000.0,Audi,Q5,224.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Stany Zjednoczone,Nie,Używane
+2018,174000.0,Diesel,119900.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Tak,Używane
+2015,207000.0,Diesel,75700.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.3,Kombi,Biały,Polska,Nie,Używane
+2015,259014.0,Diesel,45900.0,Audi,A4,136.0,Manualna,Front,3.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+1999,299113.0,Benzyna,4500.0,Audi,A6,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Nie,Używane
+2017,195000.0,Benzyna,174900.0,Audi,A8,460.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2021,140520.0,Diesel,129900.0,Audi,A5,204.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Nie,Używane
+1999,299113.0,Benzyna,4500.0,Audi,A6,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Nie,Używane
+2017,195000.0,Benzyna,174900.0,Audi,A8,460.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2021,140520.0,Diesel,129900.0,Audi,A5,204.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Nie,Używane
+2010,164000.0,Diesel,63900.0,Audi,Q5,170.0,Manualna,4X4,5.0,7.0,SUV,Inny kolor,Polska,Nie,Używane
+2001,223547.0,Benzyna+LPG,34900.0,Audi,S6,340.0,Automatyczna,4X4,10.0,20.0,Kombi,Srebrny,Szwajcaria,Nie,Używane
+2008,330000.0,Diesel,23000.0,Audi,A4,136.0,Manualna,Front,3.0,5.0,Sedan,Błękitny,Belgia,Nie,Używane
+2016,266100.0,Diesel,64400.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Szary,Polska,Nie,Używane
+2014,158000.0,Diesel,70000.0,Audi,Q3,140.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Biały,Polska,Nie,Używane
+2022,39000.0,Diesel,285900.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Nie,Używane
+2011,350000.0,Diesel,29900.0,Audi,A3,140.0,Manualna,4X4,4.2,6.3,Kompakt,Brązowy,Polska,Nie,Używane
+2009,330000.0,Diesel,25999.0,Audi,A4,143.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Szary,Polska,Nie,Używane
+2019,80100.0,Diesel,319900.0,Audi,Q8,286.0,Automatyczna,4X4,6.0,8.0,SUV,Biały,Polska,Tak,Używane
+2019,68500.0,Benzyna,180000.0,Audi,RS3,400.0,Automatyczna,4X4,6.0,11.0,Auta małe,Szary,Polska,Tak,Używane
+2003,136123.0,Benzyna,22900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Sedan,Niebieski,Niemcy,Tak,Używane
+2011,323000.0,Diesel,59600.0,Audi,A6,245.0,Automatyczna,4X4,4.947841306884481,7.2,Sedan,Czarny,Polska,Nie,Używane
+2007,281000.0,Diesel,17400.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Granatowy,Niemcy,Nie,Używane
+2016,167000.0,Diesel,73000.0,Audi,A5,150.0,Manualna,Front,3.9,5.4,Coupe,Biały,Polska,Tak,Używane
+2008,198000.0,Benzyna,19900.0,Audi,A3,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Nie,Używane
+2013,148000.0,Diesel,83900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Biały,Polska,Tak,Używane
+2024,10.0,Elektryczny,239219.0,Audi,Q4 Sportback,285.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Nowe
+2011,220229.0,Diesel,30900.0,Audi,A3,90.0,Manualna,Front,3.9,5.3,Auta małe,Czarny,Niemcy,Tak,Używane
+2018,37000.0,Diesel,215000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2022,14922.0,Diesel,339900.0,Audi,A7,286.0,Automatyczna,4X4,4.0,7.0,Sedan,Biały,Niemcy,Tak,Używane
+2007,294000.0,Diesel,16500.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,7.0,Kombi,Szary,Polska,Nie,Używane
+2019,61000.0,Benzyna,134000.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Biały,Polska,Tak,Używane
+2014,283000.0,Diesel,42000.0,Audi,A4,150.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2014,266100.0,Hybryda,98000.0,Audi,A8,211.0,Automatyczna,Front,4.947841306884481,6.0,Sedan,Czarny,Niemcy,Tak,Używane
+2012,157000.0,Diesel,71900.0,Audi,Q3,177.0,Automatyczna,4X4,5.0,7.0,SUV,Czarny,Polska,Tak,Używane
+2021,47500.0,Diesel,185000.0,Audi,A6,163.0,Automatyczna,Front,4.0,5.0,Sedan,Biały,Polska,Nie,Używane
+2010,256028.0,Benzyna,40000.0,Audi,A5,160.0,Manualna,Front,5.0,9.0,Coupe,Biały,Polska,Nie,Używane
+2003,251000.0,Benzyna,10800.0,Audi,A4,102.0,Manualna,Front,6.0,10.0,Kombi,Srebrny,Niemcy,Tak,Używane
+2022,29900.0,Benzyna,149900.0,Audi,Q3,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Niebieski,Polska,Tak,Używane
+2022,22644.0,Benzyna,134900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.0,Sedan,Czarny,Polska,Tak,Używane
+2005,254357.0,Benzyna,35900.0,Audi,A6,255.0,Automatyczna,4X4,8.0,15.0,Sedan,Niebieski,Szwecja,Tak,Używane
+2006,306572.0,Diesel,25900.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Inny kolor,Polska,Nie,Używane
+2020,117000.0,Benzyna,226000.0,Audi,Q7,340.0,Automatyczna,4X4,6.0,9.0,SUV,Czarny,Polska,Nie,Używane
+2014,230000.0,Benzyna,43000.0,Audi,A6,180.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Beżowy,Polska,Nie,Używane
+2009,327000.0,Diesel,43900.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Sedan,Czarny,Polska,Tak,Używane
+2021,17335.0,Benzyna,155000.0,Audi,Q3,245.0,Automatyczna,4X4,6.1,9.5,SUV,Czarny,Stany Zjednoczone,Nie,Używane
+2011,261000.0,Diesel,59999.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Kombi,Czarny,Polska,Tak,Używane
+2011,270000.0,Diesel,32499.0,Audi,A3,140.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Nie,Używane
+2018,179000.0,Diesel,116900.0,Audi,Q5,190.0,Automatyczna,4X4,5.0,7.0,SUV,Zielony,Polska,Tak,Używane
+2012,189000.0,Benzyna,53900.0,Audi,A5,170.0,Manualna,Front,4.947841306884481,7.0,Coupe,Czarny,Niemcy,Nie,Używane
+2008,264000.0,Benzyna,35400.0,Audi,TT,200.0,Manualna,Front,6.0,10.0,Coupe,Biały,Polska,Nie,Używane
+2024,10.0,Benzyna,248594.0,Audi,S3,310.0,Automatyczna,4X4,6.0,9.0,Kompakt,Biały,Polska,Tak,Nowe
+2017,79000.0,Benzyna,82500.0,Audi,A3,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Biały,Stany Zjednoczone,Tak,Używane
+2013,185000.0,Diesel,35500.0,Audi,A3,149.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2016,132500.0,Benzyna,80500.0,Audi,A3,180.0,Automatyczna,Front,4.0,7.0,Sedan,Czarny,Stany Zjednoczone,Tak,Używane
+2007,207500.0,Benzyna,18500.0,Audi,A4,130.0,Manualna,4X4,4.947841306884481,11.0,Kombi,Czarny,Polska,Nie,Używane
+2018,129000.0,Diesel,126000.0,Audi,A5,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Szary,Niemcy,Tak,Używane
+2020,109000.0,Diesel,171900.0,Audi,A6,286.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2007,345000.0,Diesel,13850.0,Audi,A6,180.0,Manualna,Front,4.947841306884481,9.0,Kombi,Szary,Polska,Nie,Używane
+2010,285000.0,Benzyna,29900.0,Audi,A5,180.0,Manualna,Front,4.947841306884481,9.0,Coupe,Czarny,Polska,Nie,Używane
+2009,178400.0,Benzyna,48500.0,Audi,A5,180.0,Automatyczna,Front,6.0,9.0,Coupe,Czarny,Belgia,Nie,Używane
+2015,405184.0,Diesel,57900.0,Audi,A6,272.0,Automatyczna,4X4,4.0,6.0,Kombi,Srebrny,Polska,Tak,Używane
+2019,74750.0,Diesel,269900.0,Audi,A6 Allroad,349.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Polska,Tak,Używane
+2012,195000.0,Diesel,17900.0,Audi,A3,140.0,Manualna,Front,4.0,6.0,Kompakt,Szary,Polska,Nie,Używane
+2017,150000.0,Benzyna,87500.0,Audi,A6,252.0,Automatyczna,Front,4.947841306884481,7.4,Sedan,Czerwony,Polska,Nie,Używane
+2017,99850.0,Benzyna,115000.0,Audi,S3,310.0,Automatyczna,4X4,5.0,8.0,Kompakt,Szary,Polska,Nie,Używane
+2021,26930.0,Benzyna,183000.0,Audi,Q5,265.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Stany Zjednoczone,Nie,Używane
+2013,180000.0,Benzyna,28000.0,Audi,A6,180.0,Automatyczna,Front,4.947841306884481,8.0,Sedan,Czarny,Polska,Nie,Używane
+2012,191000.0,Diesel,57000.0,Audi,Q3,177.0,Automatyczna,4X4,5.0,7.0,SUV,Czarny,Polska,Nie,Używane
+2016,134000.0,Diesel,110900.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Czarny,Polska,Nie,Używane
+2009,248000.0,Diesel,29900.0,Audi,A4,143.0,Automatyczna,Front,4.0,5.0,Sedan,Inny kolor,Niemcy,Nie,Używane
+2015,270000.0,Benzyna,55500.0,Audi,A3,180.0,Automatyczna,Front,4.947841306884481,7.0,Sedan,Czarny,Polska,Nie,Używane
+2018,130000.0,Benzyna,99900.0,Audi,A6,252.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2008,205389.0,Benzyna,32900.0,Audi,A5,211.0,Manualna,Front,5.0,8.0,Coupe,Czarny,Polska,Nie,Używane
+2007,305279.0,Diesel,19900.0,Audi,A3,170.0,Automatyczna,Front,4.0,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2018,87250.0,Benzyna,120000.0,Audi,Q3,150.0,Automatyczna,Front,5.0,6.0,SUV,Szary,Polska,Tak,Używane
+2015,168000.0,Diesel,87000.0,Audi,A6,272.0,Automatyczna,4X4,6.3,9.3,Kombi,Biały,Polska,Nie,Używane
+2019,139700.0,Benzyna,99999.0,Audi,A4,190.0,Automatyczna,Front,4.0,6.0,Kombi,Szary,Niemcy,Tak,Używane
+2019,171000.0,Diesel,114000.0,Audi,A6,204.0,Automatyczna,Front,6.3,9.3,Kombi,Czarny,Polska,Nie,Używane
+2012,230000.0,Diesel,76000.0,Audi,A6,313.0,Automatyczna,4X4,5.0,8.0,Sedan,Inny kolor,Polska,Nie,Używane
+2000,286498.0,Diesel,14900.0,Audi,A6 Allroad,180.0,Manualna,4X4,7.0,12.0,Kombi,Zielony,Niemcy,Tak,Używane
+2018,215000.0,Diesel,99900.0,Audi,A4 Allroad,190.0,Automatyczna,Front,4.947841306884481,5.5,Kombi,Biały,Polska,Nie,Używane
+2008,349000.0,Diesel,33900.0,Audi,A8,233.0,Automatyczna,Front,4.947841306884481,12.0,Sedan,Czarny,Polska,Nie,Używane
+2019,107000.0,Diesel,79999.0,Audi,A3,150.0,Automatyczna,Front,4.1,5.3,Kompakt,Inny kolor,Niemcy,Nie,Używane
+2013,129000.0,Benzyna,74000.0,Audi,Q5,211.0,Automatyczna,4X4,7.0,10.0,SUV,Czarny,Polska,Nie,Używane
+2012,342000.0,Diesel,37000.0,Audi,A4,143.0,Manualna,4X4,4.947841306884481,5.6,Kombi,Czarny,Polska,Nie,Używane
+2012,197000.0,Benzyna,115000.0,Audi,A8,372.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Czarny,Polska,Nie,Używane
+2010,255000.0,Benzyna,40000.0,Audi,A5,180.0,Manualna,Front,4.947841306884481,8.0,Coupe,Brązowy,Polska,Nie,Używane
+2021,7500.0,Benzyna,132900.0,Audi,Q3,245.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Nie,Używane
+2003,274000.0,Diesel,7999.0,Audi,S6,163.0,Manualna,Front,5.0,9.0,Kombi,Brązowy,Niemcy,Nie,Używane
+2019,59308.0,Benzyna,85000.0,Audi,A3,115.0,Manualna,Front,3.0,5.0,Kompakt,Biały,Polska,Nie,Używane
+2020,47000.0,Benzyna,56500.0,Audi,S3,310.0,Automatyczna,4X4,4.947841306884481,9.0,Kompakt,Biały,Polska,Nie,Używane
+2007,358124.0,Diesel,14800.0,Audi,A4,136.0,Manualna,Front,4.2,6.1,Kombi,Czarny,Niemcy,Tak,Używane
+2020,114000.0,Diesel,171000.0,Audi,Q5,190.0,Automatyczna,4X4,4.0,5.0,SUV,Czarny,Polska,Tak,Używane
+2020,56000.0,Diesel,129700.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2007,420000.0,Diesel,33500.0,Audi,Q7,233.0,Automatyczna,Front,4.947841306884481,14.0,SUV,Srebrny,Polska,Nie,Używane
+2020,67986.0,Diesel,164700.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Biały,Polska,Nie,Używane
+2016,220000.0,Diesel,72900.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Granatowy,Niemcy,Tak,Używane
+2008,196000.0,Diesel,31900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,12.6,Sedan,Złoty,Polska,Tak,Używane
+2012,234000.0,Diesel,58000.0,Audi,A5,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Szary,Polska,Nie,Używane
+2014,166000.0,Diesel,54500.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,5.0,Kombi,Srebrny,Polska,Tak,Używane
+2019,172000.0,Diesel,121000.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Biały,Niemcy,Nie,Używane
+2016,132540.0,Diesel,74600.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2008,158000.0,Benzyna+LPG,45900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Kabriolet,Czarny,Polska,Tak,Używane
+2012,287505.0,Diesel,50500.0,Audi,A5,150.0,Manualna,Front,3.8,5.0,Coupe,Inny kolor,Polska,Nie,Używane
+2019,99275.0,Diesel,159900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2010,168000.0,Benzyna,29900.0,Audi,A3,125.0,Manualna,Front,4.0,6.0,Kompakt,Błękitny,Niemcy,Tak,Używane
+2020,90000.0,Diesel,225000.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Nie,Używane
+2002,272200.0,Benzyna,6000.0,Audi,A3,102.0,Manualna,Front,5.0,9.0,Auta małe,Srebrny,Niemcy,Nie,Używane
+2016,255000.0,Diesel,52000.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Polska,Nie,Używane
+2022,92.0,Diesel,219900.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kompakt,Szary,Polska,Tak,Używane
+2018,133000.0,Diesel,209900.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.0,Coupe,Szary,Polska,Tak,Używane
+2011,239531.0,Diesel,49999.0,Audi,Q5,170.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Szary,Polska,Nie,Używane
+2017,129500.0,Diesel,79000.0,Audi,Q3,120.0,Manualna,Front,4.0,5.0,SUV,Biały,Polska,Nie,Używane
+2009,289000.0,Diesel,59900.0,Audi,Q5,239.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Szary,Polska,Nie,Używane
+2010,255000.0,Diesel,45900.0,Audi,A5,240.0,Automatyczna,4X4,5.0,8.0,Coupe,Biały,Francja,Nie,Używane
+2024,1.0,Diesel,244100.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Nowe
+2022,26066.0,Benzyna,129900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Tak,Używane
+2009,212000.0,Benzyna,44000.0,Audi,A5,180.0,Manualna,Front,4.947841306884481,8.4,Sedan,Biały,Niemcy,Tak,Używane
+2006,221481.0,Diesel,20500.0,Audi,A4,233.0,Automatyczna,4X4,5.5,8.0,Kombi,Inny kolor,Polska,Nie,Używane
+2014,197200.0,Diesel,55900.0,Audi,A5,150.0,Manualna,Front,4.947841306884481,5.4,Coupe,Czarny,Polska,Tak,Używane
+2020,30406.0,Benzyna,109900.0,Audi,A4,204.0,Automatyczna,4X4,4.0,7.0,Sedan,Biały,Polska,Nie,Używane
+2023,8516.0,Diesel,409900.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Szary,Niemcy,Tak,Używane
+2012,255000.0,Diesel,48999.0,Audi,A4,177.0,Manualna,Front,4.3,5.7,Kombi,Szary,Niemcy,Tak,Używane
+2020,57265.0,Benzyna,179900.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czerwony,Polska,Tak,Używane
+2017,267000.0,Diesel,73900.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Kombi,Biały,Niemcy,Nie,Używane
+2015,117000.0,Benzyna,55000.0,Audi,A4,224.0,Automatyczna,Front,5.0,7.0,Auta miejskie,Czarny,Polska,Nie,Używane
+2013,277000.0,Diesel,46500.0,Audi,A4,143.0,Automatyczna,Rear,4.947841306884481,7.473995451099318,Kombi,Brązowy,Niemcy,Tak,Używane
+2020,82226.0,Diesel,264900.0,Audi,Q7,231.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2023,5.0,Diesel,252949.0,Audi,Q5,204.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Niebieski,Polska,Tak,Nowe
+2008,260628.0,Diesel,45000.0,Audi,Q7,326.0,Automatyczna,4X4,8.0,14.0,SUV,Czarny,Polska,Nie,Używane
+2023,1.0,Diesel,449995.0,Audi,Q7,286.0,Automatyczna,4X4,5.0,8.0,SUV,Szary,Polska,Tak,Nowe
+2011,256000.0,Diesel,18800.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Srebrny,Polska,Nie,Używane
+2021,42650.0,Diesel,204900.0,Audi,A6,245.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2013,267000.0,Benzyna,52500.0,Audi,A4,211.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2024,1.0,Benzyna,198100.0,Audi,Q3 Sportback,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Nowe
+2010,320149.0,Benzyna,18000.0,Audi,A4,120.0,Automatyczna,Front,5.0,7.0,Kombi,Szary,Polska,Nie,Używane
+2019,178000.0,Diesel,109999.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2016,174400.0,Diesel,62900.0,Audi,A4,150.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2009,228640.0,Diesel,48000.0,Audi,A5,240.0,Automatyczna,4X4,5.0,8.0,Kabriolet,Czarny,Belgia,Nie,Używane
+2016,168000.0,Diesel,60500.0,Audi,A4,122.0,Manualna,Front,3.6,4.7,Kombi,Szary,Belgia,Nie,Używane
+2016,139000.0,Hybryda,28900.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Nie,Używane
+2020,29000.0,Hybryda Plug-in,128500.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Żółty,Polska,Nie,Używane
+2015,152000.0,Benzyna,87000.0,Audi,A6,252.0,Automatyczna,4X4,5.0,8.0,Sedan,Beżowy,Polska,Tak,Używane
+2018,141000.0,Diesel,79900.0,Audi,A3,150.0,Automatyczna,Front,4.0,5.0,Kompakt,Biały,Polska,Nie,Używane
+2015,230000.0,Diesel,59900.0,Audi,A4,190.0,Manualna,Front,4.947841306884481,4.9,Kombi,Czarny,Niemcy,Tak,Używane
+2019,95000.0,Diesel,74907.0,Audi,A3,116.0,Manualna,Front,4.0,5.0,Kompakt,Czarny,Polska,Tak,Używane
+2012,247190.0,Benzyna,59900.0,Audi,Q3,211.0,Automatyczna,4X4,4.947841306884481,10.0,SUV,Złoty,Polska,Nie,Używane
+2016,257000.0,Diesel,87330.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.3,Kombi,Czarny,Niemcy,Tak,Używane
+2006,259000.0,Diesel,18500.0,Audi,A3,105.0,Manualna,4X4,4.947841306884481,7.473995451099318,Coupe,Szary,Polska,Tak,Używane
+2010,167367.0,Benzyna,26999.0,Audi,A3,125.0,Manualna,Front,4.0,6.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2017,62000.0,Benzyna,195000.0,Audi,RS3,400.0,Automatyczna,4X4,6.0,11.0,Kompakt,Szary,Polska,Tak,Używane
+2000,249941.0,Benzyna,10000.0,Audi,A4,101.0,Manualna,Front,4.947841306884481,11.0,Kombi,Srebrny,Polska,Tak,Używane
+2013,202000.0,Diesel,41900.0,Audi,A4,120.0,Manualna,Front,4.2,5.6,Kombi,Brązowy,Niemcy,Tak,Używane
+2009,140000.0,Diesel,35000.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Niemcy,Tak,Używane
+2024,2.0,Benzyna,135000.0,Audi,A3,150.0,Automatyczna,Front,3.0,6.0,Kompakt,Czarny,Polska,Tak,Nowe
+2006,320000.0,Benzyna+LPG,9999.0,Audi,A6,170.0,Automatyczna,Front,6.0,10.0,Kombi,Czarny,Polska,Nie,Używane
+2014,285600.0,Diesel,70000.0,Audi,A5,177.0,Automatyczna,4X4,4.0,6.0,Coupe,Beżowy,Polska,Nie,Używane
+2016,123000.0,Diesel,153900.0,Audi,A7,326.0,Automatyczna,4X4,5.6,7.6,Sedan,Szary,Niemcy,Tak,Używane
+2024,16.0,Diesel,391999.0,Audi,Q7,286.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Polska,Tak,Nowe
+2023,3000.0,Benzyna,319000.0,Audi,RS Q3,400.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Inny kolor,Polska,Tak,Nowe
+2008,330000.0,Diesel,36900.0,Audi,A6,240.0,Automatyczna,4X4,5.0,9.0,Sedan,Srebrny,Polska,Nie,Używane
+2023,22000.0,Diesel,498500.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2023,11.0,Diesel,398000.0,Audi,Q7,231.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Szary,Polska,Tak,Nowe
+2012,229000.0,Benzyna,44300.0,Audi,A5,170.0,Manualna,Front,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2020,72000.0,Diesel,155000.0,Audi,A6,204.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2013,177000.0,Benzyna,43990.0,Audi,A3,140.0,Manualna,Front,4.1,5.8,Coupe,Niebieski,Holandia,Tak,Używane
+2020,72000.0,Diesel,155000.0,Audi,A6,204.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2013,177000.0,Benzyna,43990.0,Audi,A3,140.0,Manualna,Front,4.1,5.8,Coupe,Niebieski,Holandia,Tak,Używane
+2017,161518.0,Diesel,68000.0,Audi,A4,122.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2019,71000.0,Diesel,159000.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Tak,Używane
+2002,196000.0,Benzyna,11750.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,8.7,Sedan,Inny kolor,Niemcy,Tak,Używane
+2001,276000.0,Benzyna,9400.0,Audi,A4,130.0,Automatyczna,Front,6.0,10.0,Sedan,Błękitny,Niemcy,Tak,Używane
+2020,150800.0,Diesel,129900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,7.0,Kombi,Granatowy,Niemcy,Tak,Używane
+2015,153000.0,Benzyna,78000.0,Audi,A6,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Kanada,Nie,Używane
+2015,158700.0,Diesel,73500.0,Audi,A5,190.0,Manualna,4X4,4.0,5.0,Kompakt,Szary,Polska,Tak,Używane
+2011,128700.0,Benzyna,53800.0,Audi,A5,211.0,Automatyczna,4X4,5.8,8.8,Coupe,Granatowy,Niemcy,Tak,Używane
+2021,46800.0,Benzyna,208977.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,8.7,Sedan,Srebrny,Szwecja,Tak,Używane
+1971,88474.0,Benzyna,34999.0,Audi,100,85.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Zielony,Polska,Tak,Używane
+2013,250000.0,Diesel,65000.0,Audi,A5,245.0,Automatyczna,4X4,5.1,6.8,Coupe,Biały,Niemcy,Nie,Używane
+2002,405263.0,Diesel,10900.0,Audi,A3,130.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Niemcy,Tak,Używane
+2011,372120.0,Diesel,27500.0,Audi,A4,136.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Belgia,Tak,Używane
+2007,171000.0,Diesel,17600.0,Audi,A3,105.0,Manualna,Front,4.0,6.0,Coupe,Niebieski,Niemcy,Nie,Używane
+2016,235000.0,Diesel,85900.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Srebrny,Belgia,Nie,Używane
+2004,219030.0,Benzyna,31900.0,Audi,A4,190.0,Automatyczna,Front,6.0,11.0,Kombi,Szary,Holandia,Tak,Używane
+2020,59246.0,Diesel,69900.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Szary,Szwajcaria,Nie,Używane
+2018,105310.0,Benzyna,169900.0,Audi,Q7,251.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Biały,Polska,Nie,Używane
+2006,315000.0,Diesel,37000.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Czarny,Polska,Nie,Używane
+2009,218000.0,Benzyna,30000.0,Audi,A3,160.0,Manualna,Front,5.3,7.9,Kompakt,Biały,Niemcy,Tak,Używane
+2019,44900.0,Diesel,91500.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2021,23600.0,Diesel,320000.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Tak,Używane
+2011,291604.0,Diesel,73000.0,Audi,A8,250.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Nie,Używane
+2015,188000.0,Diesel,48000.0,Audi,A6,190.0,Manualna,Front,4.947841306884481,5.3,Kombi,Szary,Niemcy,Tak,Używane
+1997,400000.0,Diesel,5000.0,Audi,A4,110.0,Manualna,Front,4.0,6.0,Kombi,Czerwony,Niemcy,Nie,Używane
+2016,137000.0,Diesel,68999.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Kombi,Biały,Niemcy,Nie,Używane
+2021,50000.0,Benzyna,300000.0,Audi,RS Q3,400.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czerwony,Polska,Tak,Używane
+2009,220000.0,Diesel,29500.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Niebieski,Polska,Nie,Używane
+2016,149500.0,Diesel,84999.0,Audi,SQ7,320.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Nie,Używane
+2006,228000.0,Benzyna,18900.0,Audi,A6,170.0,Automatyczna,Front,6.2,10.5,Kombi,Czarny,Niemcy,Tak,Używane
+2006,228000.0,Benzyna,18900.0,Audi,A6,170.0,Automatyczna,Front,6.2,10.5,Kombi,Czarny,Niemcy,Tak,Używane
+2014,220000.0,Benzyna,80000.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Czarny,Stany Zjednoczone,Nie,Używane
+2006,240000.0,Benzyna,21900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Kombi,Niebieski,Niemcy,Tak,Używane
+2007,265525.0,Benzyna,19500.0,Audi,A3,125.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2016,120169.0,Diesel,59900.0,Audi,A3,110.0,Manualna,Front,3.0,4.0,Sedan,Biały,Belgia,Tak,Używane
+2009,187500.0,Benzyna,34900.0,Audi,A4,160.0,Automatyczna,4X4,4.947841306884481,10.0,Kombi,Srebrny,Polska,Nie,Używane
+2014,145000.0,Benzyna,59000.0,Audi,A5,224.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Kanada,Nie,Używane
+2003,351700.0,Benzyna+LPG,7900.0,Audi,A6,170.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2016,183000.0,Diesel,105000.0,Audi,A6 Allroad,272.0,Automatyczna,4X4,5.0,6.0,Kombi,Czarny,Polska,Nie,Używane
+2013,310000.0,Diesel,38500.0,Audi,A4,149.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2010,348000.0,Diesel,49000.0,Audi,A5,170.0,Manualna,Front,4.0,6.0,Sedan,Biały,Polska,Nie,Używane
+2005,283378.0,Diesel,12000.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.0,Kompakt,Srebrny,Polska,Tak,Używane
+2014,239000.0,Diesel,49850.0,Audi,A4,150.0,Automatyczna,4X4,4.947841306884481,5.6,Kombi,Czarny,Niemcy,Nie,Używane
+2018,108000.0,Diesel,125999.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2013,323000.0,Diesel,49900.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,6.0,Sedan,Szary,Polska,Nie,Używane
+2010,215514.0,Diesel,29500.0,Audi,A3,90.0,Manualna,4X4,4.947841306884481,5.3,Kompakt,Biały,Polska,Nie,Używane
+2017,218000.0,Diesel,239000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2012,282000.0,Benzyna,51900.0,Audi,A4,211.0,Manualna,4X4,5.8,9.0,Kombi,Inny kolor,Austria,Tak,Używane
+2015,168000.0,Diesel,79900.0,Audi,A6,150.0,Automatyczna,Front,4.1,4.9,Kombi,Szary,Polska,Nie,Używane
+2009,253840.0,Diesel,32300.0,Audi,A6,140.0,Manualna,Rear,4.947841306884481,8.0,Kombi,Biały,Austria,Tak,Używane
+2015,169000.0,Diesel,149900.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Szary,Polska,Nie,Używane
+2019,189000.0,Diesel,89900.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2021,104000.0,Diesel,173900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2009,227000.0,Diesel,34900.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2006,215552.0,Benzyna,29900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Kombi,Inny kolor,Niemcy,Tak,Używane
+2012,220000.0,Benzyna,54000.0,Audi,Q5,211.0,Automatyczna,4X4,7.0,10.0,SUV,Biały,Polska,Nie,Używane
+2014,72216.0,Benzyna,38900.0,Audi,A1,86.0,Manualna,Front,4.3,6.2,Auta miejskie,Czarny,Francja,Nie,Używane
+2016,224000.0,Diesel,81500.0,Audi,A5,190.0,Manualna,Front,4.0,5.5,Coupe,Czarny,Niemcy,Tak,Używane
+2008,297000.0,Diesel,31900.0,Audi,A6,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Czarny,Polska,Nie,Używane
+2001,300000.0,Benzyna+LPG,9800.0,Audi,A4,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Granatowy,Polska,Nie,Używane
+2008,400000.0,Benzyna+LPG,45000.0,Audi,A6,350.0,Automatyczna,Front,4.947841306884481,14.8,Kombi,Srebrny,Polska,Nie,Używane
+2014,180000.0,Diesel,59500.0,Audi,A4,177.0,Automatyczna,4X4,4.947841306884481,6.0,Sedan,Bordowy,Polska,Tak,Używane
+2019,179000.0,Diesel,89800.0,Audi,A4,150.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Szary,Niemcy,Tak,Używane
+2020,57000.0,Diesel,109900.0,Audi,A3,150.0,Automatyczna,Front,3.0,4.0,Kompakt,Czarny,Francja,Tak,Używane
+2019,102409.0,Diesel,269000.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2020,35500.0,Elektryczny,188800.0,Audi,e-tron,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Granatowy,Niemcy,Tak,Używane
+2008,284000.0,Diesel,43900.0,Audi,A4,240.0,Manualna,4X4,5.0,9.0,Sedan,Czarny,Polska,Nie,Używane
+2012,217000.0,Diesel,89900.0,Audi,A7,245.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Francja,Tak,Używane
+2018,197000.0,Diesel,189000.0,Audi,Q7,286.0,Automatyczna,4X4,6.0,7.0,SUV,Szary,Polska,Tak,Używane
+2018,115000.0,Diesel,105000.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2013,166000.0,Diesel,61800.0,Audi,A5,177.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Nie,Używane
+2022,31500.0,Benzyna,320000.0,Audi,A7,265.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Srebrny,Polska,Tak,Używane
+2014,239000.0,Diesel,108000.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,6.0,7.0,Kombi,Srebrny,Włochy,Tak,Używane
+2020,149000.0,Diesel,112400.0,Audi,A4,190.0,Automatyczna,Front,4.1,4.9,Kombi,Czarny,Niemcy,Tak,Używane
+2005,197000.0,Benzyna,24900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Kombi,Szary,Polska,Nie,Używane
+2020,89000.0,Benzyna,132000.0,Audi,A4,204.0,Automatyczna,Front,4.0,7.0,Sedan,Biały,Polska,Tak,Używane
+2017,185990.0,Diesel,188000.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Tak,Używane
+2008,135500.0,Benzyna,31900.0,Audi,A4,160.0,Automatyczna,Front,4.947841306884481,9.4,Sedan,Czarny,Polska,Tak,Używane
+2010,159500.0,Diesel,34999.0,Audi,A5,170.0,Manualna,Front,4.4,6.2,Coupe,Czarny,Francja,Nie,Używane
+2010,163000.0,Benzyna,37999.0,Audi,A4,211.0,Manualna,Front,5.3,8.2,Kombi,Srebrny,Polska,Tak,Używane
+2013,176140.0,Diesel,65000.0,Audi,A3,184.0,Automatyczna,4X4,4.4,5.5,Kompakt,Czarny,Niemcy,Tak,Używane
+2018,161217.0,Diesel,104900.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Biały,Polska,Tak,Używane
+2015,150000.0,Diesel,58000.0,Audi,A4 Allroad,190.0,Manualna,4X4,5.0,6.0,Kombi,Biały,Polska,Nie,Używane
+2020,45363.0,Benzyna,136900.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,7.0,Sedan,Czarny,Polska,Tak,Używane
+2012,247000.0,Benzyna,57000.0,Audi,A4 Allroad,211.0,Automatyczna,4X4,6.0,9.0,Kombi,Biały,Polska,Tak,Używane
+2014,377258.0,Diesel,49900.0,Audi,A4 Allroad,245.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Biały,Polska,Nie,Używane
+2016,88500.0,Benzyna,129999.0,Audi,A8,435.0,Automatyczna,4X4,7.0,12.5,Sedan,Biały,Stany Zjednoczone,Nie,Używane
+2017,113400.0,Diesel,86900.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,4.5,Kombi,Szary,Polska,Tak,Używane
+2005,399000.0,Diesel,15800.0,Audi,A6,140.0,Manualna,Front,6.0,8.0,Kombi,Srebrny,Polska,Nie,Używane
+2015,204000.0,Benzyna,84900.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Biały,Polska,Nie,Używane
+2015,197000.0,Benzyna,164900.0,Audi,S8,520.0,Automatyczna,4X4,4.947841306884481,13.0,Sedan,Czarny,Polska,Tak,Używane
+2015,219999.0,Diesel,63700.0,Audi,A4,150.0,Manualna,4X4,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2019,107800.0,Diesel,273000.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2015,166000.0,Diesel,62900.0,Audi,A3,184.0,Automatyczna,4X4,4.947841306884481,5.6,Auta miejskie,Biały,Niemcy,Nie,Używane
+2019,107800.0,Diesel,273000.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2015,166000.0,Diesel,62900.0,Audi,A3,184.0,Automatyczna,4X4,4.947841306884481,5.6,Auta miejskie,Biały,Niemcy,Nie,Używane
+2004,224000.0,Benzyna,23900.0,Audi,A4,190.0,Manualna,4X4,4.947841306884481,12.0,Kombi,Szary,Polska,Nie,Używane
+2013,177000.0,Diesel,67900.0,Audi,Q3,140.0,Manualna,Front,4.947841306884481,6.0,SUV,Złoty,Niemcy,Tak,Używane
+2017,129000.0,Diesel,159900.0,Audi,Q5,190.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2008,273000.0,Diesel,38499.0,Audi,A4,240.0,Automatyczna,4X4,5.0,8.0,Kombi,Czarny,Niemcy,Tak,Używane
+2014,187258.0,Benzyna,53999.0,Audi,A4,225.0,Automatyczna,4X4,5.8,8.5,Kombi,Czarny,Polska,Nie,Używane
+2009,187615.0,Benzyna,32900.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Niebieski,Niemcy,Tak,Używane
+2019,129000.0,Diesel,156000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Niemcy,Tak,Używane
+2020,143972.0,Diesel,134850.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Tak,Używane
+2013,218000.0,Diesel,57600.0,Audi,A4,177.0,Manualna,Front,4.3,5.7,Kombi,Niebieski,Niemcy,Tak,Używane
+2021,73000.0,Diesel,229000.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Sedan,Szary,Polska,Tak,Używane
+2020,50000.0,Diesel,227000.0,Audi,A5,231.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Tak,Używane
+2020,24000.0,Benzyna,131000.0,Audi,A4,252.0,Automatyczna,4X4,5.0,7.0,Sedan,Czarny,Polska,Nie,Używane
+2019,176000.0,Diesel,119900.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Szwecja,Tak,Używane
+2013,160500.0,Diesel,55900.0,Audi,A3,150.0,Manualna,Front,4.947841306884481,5.1,Kompakt,Czarny,Niemcy,Tak,Używane
+2019,152500.0,Benzyna,152000.0,Audi,S4,354.0,Automatyczna,4X4,4.947841306884481,9.0,Sedan,Biały,Stany Zjednoczone,Nie,Używane
+2010,245000.0,Diesel,73900.0,Audi,A8,350.0,Automatyczna,4X4,4.947841306884481,10.0,Sedan,Czarny,Niemcy,Tak,Używane
+2001,191000.0,Benzyna,9900.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,11.0,Kombi,Srebrny,Niemcy,Tak,Używane
+2009,220000.0,Diesel,26900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,5.0,Kombi,Inny kolor,Polska,Tak,Używane
+2018,181000.0,Diesel,116850.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2017,196000.0,Diesel,89999.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2013,241416.0,Diesel,59999.0,Audi,A6,136.0,Manualna,Front,4.5,6.0,Kombi,Srebrny,Holandia,Tak,Używane
+2021,24269.0,Benzyna,219000.0,Audi,Q7,340.0,Automatyczna,4X4,4.947841306884481,11.2,SUV,Biały,Polska,Nie,Używane
+2011,245000.0,Benzyna,44000.0,Audi,A4 Allroad,211.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Czarny,Szwajcaria,Tak,Używane
+2015,157359.0,Diesel,56900.0,Audi,A3,150.0,Automatyczna,Front,4.0,5.0,Kompakt,Biały,Polska,Nie,Używane
+2014,161000.0,Diesel,74999.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Tak,Używane
+1995,300000.0,Benzyna+LPG,5200.0,Audi,A4,125.0,Manualna,Front,6.0,7.473995451099318,Sedan,Inny kolor,Polska,Nie,Używane
+2012,229000.0,Diesel,17999.0,Audi,A3,105.0,Manualna,Front,3.0,5.0,Auta miejskie,Czarny,Polska,Nie,Używane
+2013,195000.0,Diesel,79900.0,Audi,Q5,170.0,Automatyczna,4X4,5.0,8.0,SUV,Inny kolor,Polska,Nie,Używane
+2017,171000.0,Diesel,139999.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Szary,Polska,Nie,Używane
+2021,37000.0,Diesel,239850.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2014,261500.0,Diesel,92000.0,Audi,A6,313.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Tak,Używane
+2013,206440.0,Diesel,64900.0,Audi,A6,177.0,Automatyczna,Front,4.5,6.1,Kombi,Czarny,Belgia,Tak,Używane
+1998,257400.0,Benzyna+LPG,14500.0,Audi,A4,193.0,Manualna,4X4,7.0,14.0,Kombi,Bordowy,Polska,Tak,Używane
+2012,286000.0,Diesel,42500.0,Audi,A4,120.0,Manualna,Front,4.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2013,208000.0,Diesel,33900.0,Audi,A1,90.0,Manualna,Front,3.4,4.4,Auta małe,Inny kolor,Polska,Nie,Używane
+2017,199999.0,Diesel,85900.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2018,90000.0,Benzyna,249000.0,Audi,A7,340.0,Automatyczna,Front,4.947841306884481,10.0,Kompakt,Czarny,Polska,Nie,Używane
+2012,187000.0,Diesel,16900.0,Audi,A1,90.0,Manualna,Front,4.947841306884481,4.4,Auta miejskie,Czarny,Polska,Nie,Używane
+2007,161000.0,Benzyna,69900.0,Audi,S5,354.0,Manualna,4X4,4.947841306884481,17.0,Coupe,Czarny,Polska,Nie,Używane
+2015,30000.0,Diesel,125000.0,Audi,Q5,258.0,Automatyczna,4X4,5.0,7.0,SUV,Szary,Polska,Tak,Używane
+2018,145000.0,Diesel,290280.0,Audi,Q8,286.0,Automatyczna,4X4,6.0,8.0,SUV,Szary,Niemcy,Tak,Używane
+2009,274500.0,Benzyna,30500.0,Audi,A4,160.0,Manualna,4X4,6.0,10.0,Kombi,Biały,Polska,Nie,Używane
+2012,246000.0,Diesel,37000.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Srebrny,Niemcy,Tak,Używane
+2019,92000.0,Benzyna,99899.0,Audi,Q3,150.0,Manualna,Front,4.947841306884481,7.473995451099318,SUV,Granatowy,Polska,Tak,Używane
+2014,71000.0,Benzyna,41900.0,Audi,A1,86.0,Manualna,Front,4.3,6.2,Auta miejskie,Biały,Polska,Nie,Używane
+2017,76292.0,Benzyna,68900.0,Audi,TT,230.0,Automatyczna,4X4,4.947841306884481,8.0,Coupe,Szary,Francja,Nie,Używane
+2005,266666.0,Diesel,15000.0,Audi,A4,140.0,Automatyczna,Front,5.0,8.0,Kombi,Szary,Polska,Nie,Używane
+2004,237000.0,Benzyna,18900.0,Audi,A4,190.0,Manualna,Front,4.947841306884481,11.0,Kombi,Szary,Polska,Nie,Używane
+2005,288000.0,Diesel,17500.0,Audi,A4,140.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Polska,Nie,Używane
+2016,89000.0,Benzyna,70900.0,Audi,A3,150.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2012,259136.0,Diesel,42900.0,Audi,A5,177.0,Manualna,Front,4.947841306884481,5.0,Coupe,Srebrny,Niemcy,Tak,Używane
+2008,224800.0,Diesel,44900.0,Audi,Q7,240.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Tak,Używane
+2015,179820.0,Diesel,99000.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.2,Kombi,Czarny,Polska,Nie,Używane
+2019,197900.0,Diesel,196999.0,Audi,S6,349.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2007,249328.0,Benzyna,27500.0,Audi,TT,200.0,Manualna,4X4,4.947841306884481,10.0,Coupe,Czarny,Polska,Nie,Używane
+2012,212000.0,Benzyna,69000.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Brązowy,Polska,Nie,Używane
+2015,101500.0,Benzyna,50000.0,Audi,A1,95.0,Automatyczna,Front,3.0,5.0,Kompakt,Srebrny,Polska,Tak,Używane
+2013,177000.0,Diesel,75900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Czarny,Polska,Nie,Używane
+2002,321547.0,Benzyna+LPG,8600.0,Audi,A6,149.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Granatowy,Polska,Tak,Używane
+2019,110116.0,Diesel,146900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2012,185000.0,Benzyna,18900.0,Audi,A3,105.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2017,126000.0,Diesel,107000.0,Audi,A5,190.0,Automatyczna,4X4,4.6,6.1,Coupe,Biały,Szwecja,Tak,Używane
+2017,126000.0,Diesel,107000.0,Audi,A5,190.0,Automatyczna,4X4,4.6,6.1,Coupe,Biały,Szwecja,Tak,Używane
+2011,263000.0,Diesel,49900.0,Audi,A5,240.0,Manualna,4X4,5.3,8.8,Coupe,Czarny,Niemcy,Tak,Używane
+2020,107200.0,Benzyna,153998.0,Audi,A6,245.0,Automatyczna,4X4,5.4,7.9,Kombi,Brązowy,Niemcy,Tak,Używane
+2007,230000.0,Diesel,18900.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2018,93000.0,Diesel,279900.0,Audi,Q8,286.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Polska,Nie,Używane
+2013,225478.0,Diesel,26500.0,Audi,A6,136.0,Manualna,Front,4.947841306884481,6.0,Sedan,Inny kolor,Polska,Nie,Używane
+2018,109000.0,Diesel,195000.0,Audi,Q7,231.0,Automatyczna,4X4,6.0,7.0,SUV,Czarny,Polska,Tak,Używane
+2015,178194.0,Diesel,86300.0,Audi,A5,190.0,Manualna,4X4,4.947841306884481,5.5,Coupe,Szary,Niemcy,Nie,Używane
+2020,69000.0,Diesel,199000.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Sedan,Szary,Polska,Tak,Używane
+2020,112750.0,Hybryda Plug-in,165000.0,Audi,Q5,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2008,335500.0,Diesel,13700.0,Audi,A6,180.0,Automatyczna,Front,5.0,10.0,Kombi,Inny kolor,Polska,Tak,Używane
+2013,196000.0,Diesel,59900.0,Audi,A4,204.0,Manualna,Front,4.3,6.4,Sedan,Czerwony,Polska,Nie,Używane
+2014,234000.0,Diesel,68000.0,Audi,A5,245.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Coupe,Szary,Polska,Nie,Używane
+2019,89000.0,Diesel,137800.0,Audi,Q5,163.0,Automatyczna,4X4,4.0,5.0,SUV,Czarny,Polska,Tak,Używane
+2005,369000.0,Diesel,14999.0,Audi,A4,115.0,Manualna,Front,4.0,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2008,375000.0,Diesel,27060.0,Audi,A6,232.0,Manualna,4X4,4.947841306884481,11.0,Kombi,Czarny,Polska,Tak,Używane
+2002,225000.0,Benzyna,14700.0,Audi,A4,102.0,Manualna,Front,6.0,11.0,Sedan,Czarny,Polska,Nie,Używane
+2008,550000.0,Diesel,22900.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2006,285000.0,Diesel,18900.0,Audi,A3,170.0,Automatyczna,Front,4.0,7.0,Kompakt,Szary,Polska,Nie,Używane
+2012,207000.0,Diesel,32900.0,Audi,A1,90.0,Manualna,Front,3.0,4.0,Auta małe,Srebrny,Belgia,Tak,Używane
+2019,39000.0,Benzyna,124000.0,Audi,A4,252.0,Automatyczna,4X4,5.4,7.8,Sedan,Niebieski,Stany Zjednoczone,Nie,Używane
+2017,146500.0,Diesel,109000.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Sedan,Biały,Polska,Tak,Używane
+2008,326226.0,Diesel,27800.0,Audi,A6,190.0,Automatyczna,Front,5.0,9.0,Kombi,Srebrny,Szwajcaria,Tak,Używane
+2009,230000.0,Diesel,22900.0,Audi,A3,105.0,Manualna,Front,4.0,6.0,Kompakt,Czarny,Belgia,Nie,Używane
+2013,159000.0,Diesel,59900.0,Audi,A4,150.0,Automatyczna,4X4,4.947841306884481,7.5,Kombi,Brązowy,Niemcy,Tak,Używane
+2012,186000.0,Diesel,69900.0,Audi,A6,245.0,Automatyczna,4X4,5.2,7.2,Sedan,Inny kolor,Belgia,Tak,Używane
+2016,211000.0,Diesel,78900.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2017,67000.0,Benzyna,119900.0,Audi,A5,190.0,Automatyczna,Front,4.0,7.0,Kompakt,Czerwony,Polska,Tak,Używane
+2020,34000.0,Benzyna,159900.0,Audi,Q3 Sportback,230.0,Automatyczna,4X4,6.0,9.0,SUV,Pomarańczowy,Polska,Tak,Używane
+2019,92500.0,Benzyna,122900.0,Audi,Q3,149.0,Automatyczna,Front,5.1,7.0,SUV,Biały,Belgia,Tak,Używane
+2003,127000.0,Benzyna,35000.0,Audi,TT,150.0,Manualna,Front,6.0,11.0,Kabriolet,Szary,Niemcy,Tak,Używane
+2003,236232.0,Benzyna,12500.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Niebieski,Niemcy,Nie,Używane
+2010,210000.0,Benzyna,62000.0,Audi,S5,333.0,Automatyczna,4X4,6.0,10.0,Kompakt,Biały,Polska,Tak,Używane
+2021,42000.0,Benzyna,180000.0,Audi,Q8,340.0,Automatyczna,4X4,4.947841306884481,11.0,SUV,Srebrny,Stany Zjednoczone,Nie,Używane
+2021,39747.0,Benzyna,112900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2017,180000.0,Diesel,190000.0,Audi,SQ7,435.0,Automatyczna,Front,4.947841306884481,8.0,SUV,Czarny,Polska,Nie,Używane
+2016,211000.0,Diesel,70900.0,Audi,A5,150.0,Automatyczna,Front,4.4,5.7,Coupe,Czarny,Niemcy,Tak,Używane
+2011,186000.0,Benzyna,64900.0,Audi,A5,211.0,Automatyczna,4X4,5.0,8.0,Coupe,Biały,Polska,Nie,Używane
+2019,150000.0,Diesel,147999.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2015,274000.0,Diesel,65500.0,Audi,A6,190.0,Automatyczna,Front,4.1,5.2,Kombi,Czarny,Polska,Nie,Używane
+2016,169000.0,Benzyna,89200.0,Audi,Q5,225.0,Automatyczna,4X4,6.5,8.5,SUV,Biały,Stany Zjednoczone,Tak,Używane
+2015,216000.0,Diesel,99900.0,Audi,A8,262.0,Automatyczna,4X4,4.8,7.2,Sedan,Czarny,Niemcy,Tak,Używane
+2015,113800.0,Diesel,104550.0,Audi,Q5,190.0,Automatyczna,4X4,5.0,6.0,SUV,Szary,Polska,Tak,Używane
+2019,99300.0,Diesel,178000.0,Audi,A6 Allroad,231.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2012,240000.0,Benzyna,42700.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,8.0,Kombi,Biały,Polska,Nie,Używane
+2021,136900.0,Diesel,104900.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Czerwony,Niemcy,Tak,Używane
+2018,92000.0,Diesel,239000.0,Audi,A8,286.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Nie,Używane
+2007,197900.0,Diesel,19999.0,Audi,A3,105.0,Manualna,Front,3.0,6.0,Kompakt,Czarny,Polska,Nie,Używane
+2020,54445.0,Diesel,279900.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Niemcy,Tak,Używane
+2014,295000.0,Diesel,46000.0,Audi,A4,150.0,Automatyczna,4X4,4.947841306884481,5.4,Kombi,Brązowy,Polska,Nie,Używane
+2020,43749.0,Hybryda Plug-in,189899.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Srebrny,Polska,Tak,Używane
+2019,108000.0,Diesel,284900.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Polska,Nie,Używane
+2018,112000.0,Benzyna,149445.0,Audi,A5,252.0,Automatyczna,4X4,5.0,8.0,Sedan,Czerwony,Polska,Tak,Używane
+2015,51518.0,Benzyna,78000.0,Audi,TT S,310.0,Automatyczna,4X4,6.0,8.4,Kabriolet,Srebrny,Francja,Nie,Używane
+2005,383000.0,Diesel,19900.0,Audi,A4,204.0,Automatyczna,4X4,4.8,5.7,Kombi,Szary,Niemcy,Tak,Używane
+2011,252357.0,Diesel,32890.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,6.0,Auta małe,Srebrny,Polska,Tak,Używane
+2020,54956.0,Hybryda,199999.0,Audi,Q5,299.0,Automatyczna,4X4,5.0,8.0,SUV,Niebieski,Niemcy,Tak,Używane
+2012,216400.0,Diesel,42499.0,Audi,A4,143.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Polska,Tak,Używane
+2007,237000.0,Benzyna+LPG,22900.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Nie,Używane
+2014,145980.0,Diesel,58900.0,Audi,A4,163.0,Manualna,Front,4.947841306884481,5.0,Sedan,Czarny,Szwecja,Tak,Używane
+2016,127000.0,Benzyna+LPG,99000.0,Audi,A4 Allroad,252.0,Automatyczna,4X4,5.7,7.9,Kombi,Czarny,Polska,Nie,Używane
+2018,63000.0,Benzyna,124900.0,Audi,S3,310.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Polska,Nie,Używane
+2014,217000.0,Diesel,99900.0,Audi,SQ5,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Używane
+2019,63604.0,Benzyna,97900.0,Audi,A3,149.0,Automatyczna,Front,4.0,6.0,Kompakt,Czarny,Polska,Tak,Używane
+2013,322000.0,Diesel,78800.0,Audi,A6,313.0,Automatyczna,4X4,4.947841306884481,7.9,Kombi,Biały,Polska,Nie,Używane
+2018,103000.0,Diesel,125900.0,Audi,A4,190.0,Automatyczna,Front,4.0,4.0,Kombi,Szary,Niemcy,Nie,Używane
+2013,232385.0,Diesel,76900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Czarny,Niemcy,Tak,Używane
+2019,116800.0,Diesel,186000.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2003,239944.0,Benzyna+LPG,5100.0,Audi,A3,102.0,Manualna,4X4,4.947841306884481,9.0,Auta miejskie,Czarny,Polska,Nie,Używane
+2016,159977.0,Diesel,95000.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,4.5,Sedan,Czarny,Belgia,Tak,Używane
+2014,183000.0,Benzyna,95000.0,Audi,Q7,272.0,Automatyczna,4X4,8.0,14.0,SUV,Szary,Kanada,Nie,Używane
+2015,225000.0,Diesel,86900.0,Audi,A6,218.0,Automatyczna,4X4,4.0,5.0,Kombi,Beżowy,Polska,Nie,Używane
+2014,239000.0,Diesel,43900.0,Audi,A4,150.0,Manualna,Front,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2011,191000.0,Benzyna,45800.0,Audi,TT,160.0,Manualna,4X4,4.947841306884481,7.473995451099318,Coupe,Czarny,Polska,Nie,Używane
+2013,284459.0,Diesel,41500.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Srebrny,Polska,Nie,Używane
+2015,212000.0,Diesel,58999.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,4.7,Kombi,Brązowy,Polska,Nie,Używane
+2014,219000.0,Diesel,45900.0,Audi,Q5,240.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Nie,Używane
+2020,24329.0,Benzyna,104900.0,Audi,Q2,150.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Biały,Polska,Tak,Używane
+2018,86600.0,Diesel,84900.0,Audi,Q3,150.0,Automatyczna,Front,4.0,5.0,SUV,Czarny,Polska,Nie,Używane
+2018,82000.0,Benzyna,74000.0,Audi,A5,252.0,Automatyczna,Front,4.947841306884481,7.5,Coupe,Niebieski,Polska,Nie,Używane
+2021,6900.0,Benzyna,92500.0,Audi,A1,95.0,Automatyczna,Front,4.947841306884481,5.0,Auta miejskie,Czarny,Francja,Nie,Używane
+2010,256000.0,Benzyna,25900.0,Audi,A3,125.0,Manualna,Front,4.9,7.3,Kombi,Czarny,Niemcy,Tak,Używane
+2016,161000.0,Diesel,78200.0,Audi,A4,150.0,Manualna,Front,3.0,4.0,Sedan,Czarny,Polska,Nie,Używane
+2012,225000.0,Diesel,61999.0,Audi,A4,245.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Biały,Polska,Tak,Używane
+2000,202000.0,Benzyna+LPG,12500.0,Audi,A3,150.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Szary,Polska,Tak,Używane
+2012,112000.0,Benzyna,72900.0,Audi,S5,333.0,Automatyczna,4X4,6.5,10.3,Kabriolet,Czarny,Szwajcaria,Nie,Używane
+2009,229000.0,Diesel,53900.0,Audi,Q5,163.0,Automatyczna,4X4,5.3,6.4,SUV,Srebrny,Belgia,Tak,Używane
+2016,130000.0,Benzyna,89900.0,Audi,A6,252.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Nie,Używane
+2006,228454.0,Benzyna,29690.0,Audi,A4,163.0,Manualna,4X4,7.0,12.0,Kombi,Szary,Niemcy,Tak,Używane
+2002,328600.0,Benzyna+LPG,13500.0,Audi,A4,150.0,Manualna,4X4,4.947841306884481,11.0,Kombi,Srebrny,Polska,Nie,Używane
+2012,163040.0,Diesel,69999.0,Audi,A6,245.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Polska,Tak,Używane
+2015,226212.0,Diesel,61900.0,Audi,A3,150.0,Automatyczna,Front,4.0,5.0,Kompakt,Czarny,Polska,Tak,Używane
+2012,312780.0,Diesel,50000.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2006,67000.0,Benzyna,25900.0,Audi,A3,102.0,Manualna,Front,5.4,9.5,Kompakt,Bordowy,Niemcy,Tak,Używane
+2009,252000.0,Diesel,37400.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2006,67000.0,Benzyna,25900.0,Audi,A3,102.0,Manualna,Front,5.4,9.5,Kompakt,Bordowy,Niemcy,Tak,Używane
+2009,252000.0,Diesel,37400.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2008,340000.0,Diesel,69000.0,Audi,Q7,240.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Biały,Polska,Nie,Używane
+2009,259894.0,Diesel,35900.0,Audi,A4,170.0,Manualna,Front,4.0,7.0,Kombi,Granatowy,Niemcy,Tak,Używane
+2009,337345.0,Diesel,33700.0,Audi,A3,170.0,Manualna,4X4,4.0,7.0,Kompakt,Biały,Niemcy,Nie,Używane
+2017,285000.0,Diesel,98000.0,Audi,A6,326.0,Automatyczna,4X4,4.947841306884481,7.7,Kombi,Niebieski,Niemcy,Tak,Używane
+2013,110000.0,Benzyna,39999.0,Audi,A1,86.0,Manualna,Front,4.947841306884481,6.2,Auta miejskie,Czarny,Polska,Nie,Używane
+2015,205000.0,Diesel,92999.0,Audi,A6,326.0,Automatyczna,4X4,5.7,7.7,Kombi,Szary,Polska,Nie,Używane
+2010,305000.0,Diesel,40700.0,Audi,A4,190.0,Automatyczna,Front,5.8,7.7,Kombi,Inny kolor,Belgia,Nie,Używane
+2006,182280.0,Benzyna,22900.0,Audi,A4,163.0,Manualna,Front,4.947841306884481,11.0,Kombi,Srebrny,Niemcy,Tak,Używane
+2002,232312.0,Benzyna,9999.0,Audi,A4,163.0,Automatyczna,Front,6.0,11.0,Kombi,Granatowy,Polska,Nie,Używane
+2017,130000.0,Benzyna,83000.0,Audi,Q2,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Czarny,Polska,Tak,Używane
+2016,93100.0,Benzyna,65900.0,Audi,Q3,190.0,Automatyczna,4X4,6.0,7.0,SUV,Biały,Polska,Nie,Używane
+2022,10.0,Benzyna,559000.0,Audi,A8,460.0,Automatyczna,4X4,7.0,15.0,Sedan,Beżowy,Polska,Nie,Używane
+2019,135000.0,Diesel,229000.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Polska,Tak,Używane
+2010,345000.0,Diesel,85000.0,Audi,A8,351.0,Automatyczna,4X4,4.947841306884481,10.0,Sedan,Czarny,Polska,Nie,Używane
+2011,149252.0,Benzyna,12999.0,Audi,A3,125.0,Automatyczna,Front,4.8,6.6,Kompakt,Czerwony,Niemcy,Nie,Używane
+2004,268000.0,Benzyna+LPG,23900.0,Audi,A4,163.0,Manualna,Front,6.0,11.0,Sedan,Szary,Niemcy,Tak,Używane
+2016,225000.0,Diesel,164900.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Szary,Polska,Tak,Używane
+2015,249900.0,Diesel,78900.0,Audi,A5,190.0,Automatyczna,4X4,4.947841306884481,6.0,Sedan,Inny kolor,Polska,Tak,Używane
+2004,240000.0,Benzyna,17900.0,Audi,A4,220.0,Automatyczna,Front,4.0,7.0,Kombi,Szary,Polska,Nie,Używane
+2012,282130.0,Diesel,66666.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,6.8,Kombi,Czarny,Polska,Nie,Używane
+2014,306000.0,Diesel,85000.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Czarny,Polska,Nie,Używane
+2009,287476.0,Diesel,35900.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,6.0,Kombi,Niebieski,Polska,Nie,Używane
+2019,168000.0,Diesel,119900.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2021,62000.0,Benzyna,229000.0,Audi,A5,265.0,Automatyczna,4X4,4.947841306884481,9.0,Kompakt,Czarny,Polska,Tak,Używane
+2020,52300.0,Diesel,125000.0,Audi,A4,136.0,Automatyczna,Front,3.0,4.0,Kombi,Czarny,Polska,Nie,Używane
+2017,52100.0,Diesel,75500.0,Audi,A3,110.0,Manualna,Front,4.0,6.0,Kompakt,Granatowy,Polska,Nie,Używane
+2013,225000.0,Diesel,27900.0,Audi,A4,177.0,Manualna,4X4,4.7,6.3,Kombi,Czarny,Polska,Nie,Używane
+2016,139000.0,Benzyna,84500.0,Audi,Q5,211.0,Automatyczna,4X4,7.1,11.0,SUV,Czarny,Stany Zjednoczone,Tak,Używane
+2016,328000.0,Diesel,115000.0,Audi,A8,262.0,Automatyczna,4X4,4.9,7.3,Sedan,Złoty,Niemcy,Nie,Używane
+2017,170755.0,Diesel,66500.0,Audi,A3,150.0,Manualna,Front,3.0,4.0,Kompakt,Szary,Niemcy,Nie,Używane
+2016,328000.0,Diesel,115000.0,Audi,A8,262.0,Automatyczna,4X4,4.9,7.3,Sedan,Złoty,Niemcy,Nie,Używane
+2017,170755.0,Diesel,66500.0,Audi,A3,150.0,Manualna,Front,3.0,4.0,Kompakt,Szary,Niemcy,Nie,Używane
+2000,403372.0,Benzyna+LPG,7900.0,Audi,A4,165.0,Manualna,Front,6.0,13.0,Sedan,Czarny,Niemcy,Nie,Używane
+2013,162000.0,Benzyna,37500.0,Audi,A3,122.0,Manualna,Front,4.947841306884481,6.0,Auta miejskie,Beżowy,Niemcy,Nie,Używane
+2012,235500.0,Diesel,62900.0,Audi,A6,245.0,Automatyczna,4X4,5.2,7.2,Kombi,Szary,Niemcy,Tak,Używane
+2004,230000.0,Benzyna,13900.0,Audi,A2,75.0,Manualna,Front,4.0,8.0,Kompakt,Srebrny,Niemcy,Nie,Używane
+2010,315000.0,Diesel,28900.0,Audi,A8,350.0,Automatyczna,4X4,4.947841306884481,10.0,Sedan,Czarny,Polska,Nie,Używane
+2011,266000.0,Benzyna,41000.0,Audi,A5,180.0,Manualna,Front,4.947841306884481,8.0,Sedan,Czarny,Dania,Nie,Używane
+2007,283000.0,Diesel,19900.0,Audi,A4,140.0,Manualna,Front,4.0,7.0,Kombi,Inny kolor,Francja,Tak,Używane
+2005,248000.0,Diesel,14900.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Niemcy,Tak,Używane
+2017,163026.0,Diesel,89900.0,Audi,Q2,190.0,Automatyczna,4X4,4.0,5.0,SUV,Szary,Polska,Tak,Używane
+2017,250000.0,Diesel,168900.0,Audi,SQ7,435.0,Automatyczna,4X4,6.0,8.0,SUV,Inny kolor,Polska,Nie,Używane
+2019,122636.0,Benzyna,179580.0,Audi,A7,245.0,Automatyczna,4X4,5.0,8.0,Coupe,Szary,Polska,Tak,Używane
+2016,223864.0,Benzyna,109000.0,Audi,TT S,310.0,Automatyczna,4X4,6.0,8.0,Coupe,Szary,Polska,Nie,Używane
+2013,159000.0,Diesel,64700.0,Audi,A3,150.0,Manualna,Front,3.0,5.0,Kompakt,Czarny,Polska,Tak,Używane
+2006,270000.0,Diesel,15900.0,Audi,A4,233.0,Manualna,Front,4.947841306884481,10.0,Kombi,Granatowy,Polska,Nie,Używane
+2011,244300.0,Diesel,40900.0,Audi,A6,136.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Srebrny,Szwecja,Tak,Używane
+2009,264000.0,Benzyna,49500.0,Audi,A6,290.0,Automatyczna,4X4,7.2,13.3,Kombi,Szary,Holandia,Nie,Używane
+2019,21000.0,Benzyna,103000.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Niemcy,Nie,Używane
+2022,33000.0,Benzyna,118120.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,6.0,Kompakt,Czarny,Polska,Tak,Używane
+2015,185000.0,Diesel,119900.0,Audi,A6 Allroad,272.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Inny kolor,Polska,Tak,Używane
+2009,264000.0,Benzyna,44900.0,Audi,Q7,350.0,Automatyczna,4X4,9.9,17.5,SUV,Szary,Stany Zjednoczone,Tak,Używane
+2014,172000.0,Diesel,65900.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Kombi,Srebrny,Polska,Tak,Używane
+2014,264000.0,Diesel,63500.0,Audi,A5,150.0,Automatyczna,Front,3.9,4.9,Auta miejskie,Czarny,Belgia,Tak,Używane
+2018,137000.0,Diesel,79900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,5.2,Kombi,Czerwony,Polska,Tak,Używane
+2011,227000.0,Diesel,57999.0,Audi,A6,177.0,Manualna,Front,4.0,6.0,Kombi,Inny kolor,Polska,Nie,Używane
+2011,161000.0,Diesel,31200.0,Audi,A3,105.0,Manualna,Front,5.0,7.0,Kompakt,Inny kolor,Niemcy,Nie,Używane
+2023,14900.0,Diesel,267234.0,Audi,Q7,285.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Niebieski,Polska,Tak,Używane
+2017,147000.0,Diesel,68900.0,Audi,Q2,116.0,Automatyczna,Front,4.0,4.4,SUV,Szary,Polska,Nie,Używane
+2005,299000.0,Benzyna,22700.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Niebieski,Polska,Tak,Używane
+2015,380000.0,Diesel,38500.0,Audi,A4,163.0,Manualna,Front,4.0,5.0,Kombi,Inny kolor,Polska,Tak,Używane
+2013,309000.0,Diesel,59900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Nie,Używane
+2005,299000.0,Benzyna,22700.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Niebieski,Polska,Tak,Używane
+2015,380000.0,Diesel,38500.0,Audi,A4,163.0,Manualna,Front,4.0,5.0,Kombi,Inny kolor,Polska,Tak,Używane
+2013,309000.0,Diesel,59900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Nie,Używane
+2020,28500.0,Benzyna,114900.0,Audi,A3,190.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Biały,Polska,Nie,Używane
+2017,124000.0,Benzyna,69900.0,Audi,A3,150.0,Manualna,Front,4.947841306884481,5.0,Sedan,Biały,Polska,Tak,Używane
+2021,71304.0,Diesel,124900.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Biały,Polska,Tak,Używane
+2014,187000.0,Diesel,60900.0,Audi,A6,150.0,Manualna,Front,4.0,5.0,Kombi,Brązowy,Holandia,Tak,Używane
+2011,279000.0,Diesel,35900.0,Audi,A4,190.0,Automatyczna,Front,5.0,7.0,Kombi,Czarny,Polska,Nie,Używane
+2015,189000.0,Diesel,18300.0,Audi,A6,218.0,Automatyczna,4X4,4.947841306884481,6.1,Kombi,Szary,Niemcy,Tak,Używane
+2012,298590.0,Diesel,86500.0,Audi,A7,313.0,Automatyczna,4X4,5.0,8.0,Sedan,Czarny,Polska,Nie,Używane
+2012,344051.0,Diesel,46900.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Brązowy,Niemcy,Nie,Używane
+2015,238000.0,Diesel,99900.0,Audi,A6 Allroad,272.0,Automatyczna,4X4,5.0,6.0,Kombi,Czarny,Polska,Nie,Używane
+2016,85000.0,Benzyna,142000.0,Audi,Q7,333.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Biały,Stany Zjednoczone,Nie,Używane
+2012,196126.0,Benzyna,64900.0,Audi,A6,310.0,Automatyczna,4X4,6.0,10.0,Sedan,Srebrny,Kanada,Tak,Używane
+2015,153000.0,Diesel,89900.0,Audi,Q5,258.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Czarny,Polska,Nie,Używane
+2019,27500.0,Benzyna,129900.0,Audi,A5,252.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2006,287300.0,Diesel,14990.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Inny kolor,Niemcy,Nie,Używane
+2004,194300.0,Diesel,14000.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,6.0,Coupe,Niebieski,Polska,Tak,Używane
+2008,238000.0,Diesel,26600.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2006,250874.0,Benzyna,13900.0,Audi,A4,200.0,Manualna,4X4,4.947841306884481,7.473995451099318,Auta miejskie,Srebrny,Polska,Nie,Używane
+2015,139860.0,Diesel,59300.0,Audi,A4,163.0,Manualna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Nie,Używane
+2013,340000.0,Diesel,66000.0,Audi,A5,245.0,Manualna,4X4,4.947841306884481,7.0,Kompakt,Biały,Polska,Nie,Używane
+2019,60533.0,Benzyna,142700.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Biały,Stany Zjednoczone,Nie,Używane
+2020,38700.0,Benzyna,47200.0,Audi,A1,110.0,Manualna,4X4,4.947841306884481,7.473995451099318,Auta miejskie,Szary,Polska,Nie,Używane
+2023,120.0,Diesel,299000.0,Audi,SQ5,341.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Niemcy,Tak,Używane
+2007,294000.0,Benzyna+LPG,26900.0,Audi,A6,177.0,Automatyczna,Front,4.947841306884481,13.0,Sedan,Czarny,Niemcy,Tak,Używane
+2007,452500.0,Diesel,18999.0,Audi,A6,140.0,Automatyczna,Front,4.947841306884481,8.0,Kombi,Szary,Polska,Nie,Używane
+2008,328000.0,Diesel,49999.0,Audi,Q7,326.0,Automatyczna,4X4,4.947841306884481,14.0,SUV,Czarny,Polska,Tak,Używane
+2019,137000.0,Benzyna,84900.0,Audi,A4,150.0,Manualna,Front,4.6,7.5,Kombi,Biały,Belgia,Tak,Używane
+2016,143000.0,Benzyna,215000.0,Audi,RS7,560.0,Automatyczna,4X4,4.947841306884481,13.0,Kompakt,Czarny,Polska,Nie,Używane
+2015,198000.0,Diesel,82500.0,Audi,A6,218.0,Automatyczna,Front,4.947841306884481,4.9,Kombi,Czarny,Dania,Tak,Używane
+2018,67000.0,Benzyna,149900.0,Audi,Q5,252.0,Automatyczna,4X4,6.1,8.4,SUV,Biały,Stany Zjednoczone,Tak,Używane
+2015,218452.0,Benzyna,88000.0,Audi,A6,310.0,Automatyczna,4X4,4.947841306884481,10.8,Sedan,Czarny,Polska,Nie,Używane
+2011,127000.0,Diesel,63900.0,Audi,Q5,143.0,Manualna,4X4,5.0,6.0,SUV,Szary,Belgia,Nie,Używane
+2020,149365.0,Diesel,119900.0,Audi,A4,190.0,Automatyczna,4X4,4.947841306884481,5.7,Kombi,Czarny,Włochy,Nie,Używane
+2014,118780.0,Diesel,205000.0,Audi,A8,385.0,Automatyczna,4X4,6.0,9.0,Sedan,Czarny,Niemcy,Tak,Używane
+2017,133000.0,Benzyna,49600.0,Audi,Q5,225.0,Automatyczna,4X4,6.5,8.5,SUV,Szary,Stany Zjednoczone,Nie,Używane
+2021,189000.0,Diesel,109800.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2012,306000.0,Diesel,61500.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Sedan,Czarny,Polska,Tak,Używane
+2021,34694.0,Benzyna,71000.0,Audi,Q3,230.0,Automatyczna,4X4,6.0,9.0,SUV,Błękitny,Polska,Nie,Używane
+2010,231950.0,Benzyna,52900.0,Audi,Q5,180.0,Manualna,4X4,6.0,9.0,SUV,Czarny,Niemcy,Tak,Używane
+2007,230000.0,Diesel,23700.0,Audi,A4,115.0,Manualna,Front,4.0,7.0,Sedan,Inny kolor,Polska,Tak,Używane
+2019,68805.0,Benzyna,42000.0,Audi,Q3,230.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Nie,Używane
+2012,156000.0,Diesel,23500.0,Audi,A3,105.0,Automatyczna,Front,3.0,4.0,Kombi,Inny kolor,Francja,Nie,Używane
+2007,373000.0,Diesel,21500.0,Audi,A4,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2017,189061.0,Benzyna,74900.0,Audi,A4,149.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+2019,28800.0,Benzyna,146000.0,Audi,A5,252.0,Automatyczna,4X4,5.8,8.1,Kabriolet,Czarny,Stany Zjednoczone,Tak,Używane
+2015,137000.0,Benzyna,89900.0,Audi,Q5,225.0,Automatyczna,4X4,6.5,8.5,SUV,Czarny,Polska,Nie,Używane
+2018,129000.0,Diesel,119900.0,Audi,A5,190.0,Automatyczna,4X4,4.0,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2013,260213.0,Diesel,40900.0,Audi,A4,150.0,Manualna,Front,4.0,5.0,Kombi,Granatowy,Polska,Tak,Używane
+2013,270000.0,Diesel,87900.0,Audi,A6,313.0,Automatyczna,4X4,5.5,7.9,Kombi,Czerwony,Czechy,Tak,Używane
+2013,225000.0,Diesel,67700.0,Audi,A4,245.0,Automatyczna,4X4,4.947841306884481,4.0,Kombi,Inny kolor,Polska,Tak,Używane
+2015,195000.0,Diesel,74999.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2017,260000.0,Diesel,65000.0,Audi,A4,190.0,Automatyczna,Front,3.8,4.9,Kombi,Czarny,Polska,Nie,Używane
+2015,210295.0,Diesel,68900.0,Audi,A6,177.0,Manualna,Front,4.0,6.0,Kombi,Inny kolor,Belgia,Tak,Używane
+2016,150000.0,Diesel,84900.0,Audi,A4,190.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Niebieski,Niemcy,Tak,Używane
+2018,33000.0,Benzyna,144800.0,Audi,S3,310.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Czarny,Polska,Tak,Używane
+2017,149813.0,Benzyna,105000.0,Audi,A4,252.0,Automatyczna,4X4,5.0,7.0,Sedan,Srebrny,Polska,Nie,Używane
+2004,320000.0,Benzyna+LPG,7999.0,Audi,A4,130.0,Manualna,Front,4.947841306884481,11.0,Sedan,Czarny,Polska,Nie,Używane
+2020,122600.0,Diesel,119500.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Czarny,Niemcy,Tak,Używane
+2011,289000.0,Diesel,38000.0,Audi,A3,170.0,Manualna,Front,4.0,6.0,Kompakt,Niebieski,Polska,Nie,Używane
+2015,165000.0,Diesel,159000.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Brązowy,Polska,Tak,Używane
+2005,368000.0,Diesel,17900.0,Audi,A4,233.0,Automatyczna,4X4,6.0,11.0,Kombi,Błękitny,Polska,Tak,Używane
+2015,79934.0,Benzyna,84900.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Biały,Kanada,Nie,Używane
+2015,79934.0,Benzyna,84900.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Biały,Kanada,Nie,Używane
+2012,170300.0,Benzyna,72990.0,Audi,A8,372.0,Automatyczna,4X4,7.0,13.0,Sedan,Czarny,Stany Zjednoczone,Nie,Używane
+2016,171000.0,Benzyna,71000.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Czarny,Polska,Nie,Używane
+2003,360000.0,Diesel,10999.0,Audi,A6,136.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Polska,Tak,Używane
+2022,14838.0,Benzyna,70000.0,Audi,S3,310.0,Automatyczna,4X4,6.0,9.0,Kompakt,Szary,Polska,Tak,Używane
+2003,173000.0,Benzyna,11999.0,Audi,A6,170.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Srebrny,Niemcy,Tak,Używane
+2009,204097.0,Benzyna,30900.0,Audi,A4,120.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2010,132000.0,Benzyna,60000.0,Audi,S5,333.0,Automatyczna,4X4,4.947841306884481,10.0,Coupe,Biały,Polska,Nie,Używane
+2017,165000.0,Diesel,90000.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Polska,Nie,Używane
+2015,125121.0,Diesel,81000.0,Audi,A6,190.0,Automatyczna,4X4,4.947841306884481,5.0,Sedan,Biały,Polska,Nie,Używane
+2008,315000.0,Diesel,45000.0,Audi,Q7,240.0,Automatyczna,4X4,6.0,8.0,SUV,Czarny,Polska,Tak,Używane
+2019,209888.0,Diesel,119800.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Niemcy,Tak,Używane
+2008,322000.0,Diesel,27900.0,Audi,A4,143.0,Manualna,Front,4.0,5.0,Sedan,Inny kolor,Polska,Nie,Używane
+2006,222500.0,Benzyna+LPG,27600.0,Audi,A4,163.0,Manualna,4X4,7.0,12.0,Kombi,Czarny,Polska,Nie,Używane
+2007,390000.0,Diesel,10200.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,7.473995451099318,Auta małe,Czarny,Polska,Nie,Używane
+2015,70000.0,Benzyna,77000.0,Audi,A3,125.0,Automatyczna,4X4,4.947841306884481,6.1,Sedan,Szary,Polska,Nie,Używane
+2016,208000.0,Diesel,165000.0,Audi,A8,262.0,Automatyczna,4X4,5.0,7.0,Sedan,Beżowy,Polska,Nie,Używane
+2015,133000.0,Diesel,147800.0,Audi,A7,319.0,Automatyczna,4X4,4.2,5.5,Sedan,Szary,Polska,Nie,Używane
+2019,148664.0,Diesel,115500.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,4.0,Kombi,Niebieski,Polska,Tak,Używane
+2014,175700.0,Benzyna,74499.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Biały,Polska,Nie,Używane
+2016,260000.0,Diesel,94000.0,Audi,A4 Allroad,218.0,Automatyczna,4X4,4.947841306884481,5.4,Kombi,Biały,Polska,Nie,Używane
+2015,226000.0,Benzyna,150000.0,Audi,Q7,333.0,Automatyczna,4X4,4.947841306884481,9.0,SUV,Biały,Polska,Tak,Używane
+2019,108000.0,Diesel,161500.0,Audi,A5,190.0,Automatyczna,4X4,4.4,5.6,Coupe,Szary,Niemcy,Nie,Używane
+2007,184000.0,Benzyna,23900.0,Audi,A3,102.0,Manualna,Front,5.0,9.0,Kompakt,Czarny,Polska,Tak,Używane
+2019,75000.0,Diesel,295000.0,Audi,Q8,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Pomarańczowy,Polska,Tak,Używane
+2013,204700.0,Benzyna,39900.0,Audi,A3,122.0,Manualna,Front,4.947841306884481,6.0,Kompakt,Biały,Austria,Tak,Używane
+2015,144350.0,Diesel,75700.0,Audi,A4,177.0,Automatyczna,4X4,4.947841306884481,6.5,Kombi,Szary,Polska,Nie,Używane
+2014,183000.0,Diesel,56000.0,Audi,A4,204.0,Automatyczna,Front,4.0,5.0,Kombi,Srebrny,Polska,Nie,Używane
+2015,157000.0,Diesel,69500.0,Audi,A3,184.0,Automatyczna,4X4,4.4,5.5,Kompakt,Czarny,Niemcy,Tak,Używane
+2010,155000.0,Diesel,69900.0,Audi,Q7,240.0,Automatyczna,4X4,8.0,12.0,SUV,Biały,Francja,Tak,Używane
+2014,124200.0,Diesel,180000.0,Audi,A7,326.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Inny kolor,Niemcy,Tak,Używane
+2014,183000.0,Diesel,56900.0,Audi,A3,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Auta miejskie,Czarny,Polska,Nie,Używane
+2019,94600.0,Diesel,84900.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Inny kolor,Polska,Nie,Używane
+2004,370000.0,Diesel,6500.0,Audi,A4,130.0,Automatyczna,Front,4.0,7.0,Kombi,Czarny,Polska,Nie,Używane
+2013,223000.0,Diesel,55000.0,Audi,A6,177.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Czarny,Polska,Nie,Używane
+2019,107500.0,Diesel,180000.0,Audi,Q7,231.0,Automatyczna,4X4,6.0,7.0,SUV,Granatowy,Polska,Tak,Używane
+2008,293000.0,Diesel,24900.0,Audi,A6,224.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Belgia,Nie,Używane
+2023,13400.0,Benzyna,199000.0,Audi,A5,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Zielony,Polska,Tak,Używane
+2018,94000.0,Benzyna,134500.0,Audi,A5,252.0,Automatyczna,4X4,5.6,8.0,Coupe,Biały,Polska,Nie,Używane
+2010,235142.0,Diesel,34300.0,Audi,A6,190.0,Automatyczna,Front,5.0,8.0,Kombi,Czarny,Polska,Nie,Używane
+2014,225000.0,Diesel,56900.0,Audi,A4,177.0,Automatyczna,4X4,4.0,6.0,Kombi,Biały,Niemcy,Tak,Używane
+2020,16641.0,Elektryczny,195000.0,Audi,e-tron,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Polska,Tak,Używane
+2015,171000.0,Benzyna+LPG,57000.0,Audi,A4,224.0,Automatyczna,4X4,5.0,8.0,Sedan,Czerwony,Stany Zjednoczone,Nie,Używane
+2009,231000.0,Benzyna,45900.0,Audi,A4 Allroad,211.0,Automatyczna,4X4,6.0,9.0,Kombi,Inny kolor,Polska,Nie,Używane
+2019,51900.0,Benzyna,147000.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,Kombi,Czarny,Stany Zjednoczone,Nie,Używane
+2019,68000.0,Benzyna,115000.0,Audi,A4,252.0,Automatyczna,4X4,5.0,7.0,Sedan,Srebrny,Stany Zjednoczone,Nie,Używane
+2013,160594.0,Benzyna,69900.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Srebrny,Polska,Nie,Używane
+2014,365000.0,Diesel,52000.0,Audi,A4 Allroad,177.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Czarny,Polska,Tak,Używane
+2012,223000.0,Diesel,53000.0,Audi,A6,177.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Niebieski,Polska,Tak,Używane
+2008,336690.0,Diesel,23400.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2015,181576.0,Diesel,89900.0,Audi,Q5,245.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Beżowy,Polska,Nie,Używane
+2006,269320.0,Diesel,22900.0,Audi,A4,180.0,Manualna,Front,4.947841306884481,9.0,Kombi,Czarny,Niemcy,Tak,Używane
+2009,227846.0,Diesel,36900.0,Audi,A3,140.0,Automatyczna,Front,4.4,5.8,Kompakt,Czarny,Polska,Nie,Używane
+2014,216000.0,Benzyna,47000.0,Audi,A4,224.0,Automatyczna,4X4,5.0,8.0,Sedan,Beżowy,Polska,Nie,Używane
+2020,88000.0,Diesel,285000.0,Audi,Q7,286.0,Automatyczna,4X4,5.0,8.0,SUV,Biały,Polska,Tak,Używane
+2021,26000.0,Diesel,186000.0,Audi,Q5,204.0,Automatyczna,4X4,4.947841306884481,6.1,SUV,Czarny,Polska,Nie,Używane
+2010,279000.0,Diesel,34499.0,Audi,A6,170.0,Automatyczna,Front,5.0,7.0,Sedan,Szary,Polska,Nie,Używane
+2011,190000.0,Benzyna,31500.0,Audi,A3,105.0,Manualna,Front,4.4,5.9,Kompakt,Srebrny,Niemcy,Nie,Używane
+2012,216164.0,Diesel,52899.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Kombi,Czarny,Polska,Tak,Używane
+2007,302000.0,Diesel,21400.0,Audi,A4,115.0,Manualna,Front,4.0,7.0,Kombi,Srebrny,Polska,Tak,Używane
+2003,342000.0,Diesel,9000.0,Audi,A3,140.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kompakt,Szary,Polska,Nie,Używane
+2013,178035.0,Diesel,62000.0,Audi,A4 Allroad,176.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Srebrny,Polska,Nie,Używane
+2016,211000.0,Diesel,103900.0,Audi,A6,190.0,Automatyczna,Front,3.0,5.0,Sedan,Srebrny,Polska,Tak,Używane
+2016,180000.0,Diesel,68900.0,Audi,A4,190.0,Automatyczna,Front,3.0,4.0,Kombi,Srebrny,Niemcy,Tak,Używane
+2012,294500.0,Diesel,54000.0,Audi,A6,177.0,Automatyczna,Front,4.947841306884481,6.1,Kombi,Biały,Polska,Nie,Używane
+2015,174000.0,Benzyna,62000.0,Audi,A3,300.0,Automatyczna,4X4,5.0,8.0,Sedan,Czerwony,Stany Zjednoczone,Tak,Używane
+2016,95000.0,Benzyna,170000.0,Audi,RS Q3,340.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Polska,Tak,Używane
+2019,55054.0,Diesel,179900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Czarny,Niemcy,Tak,Używane
+2005,148000.0,Benzyna,18990.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Sedan,Brązowy,Niemcy,Tak,Używane
+2020,27357.0,Benzyna,169000.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Szary,Stany Zjednoczone,Nie,Używane
+2019,129000.0,Benzyna,159900.0,Audi,RS3,400.0,Automatyczna,4X4,6.0,11.0,Coupe,Biały,Polska,Nie,Używane
+2019,66141.0,Diesel,209900.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2006,355000.0,Diesel,24000.0,Audi,A6,170.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Inny kolor,Polska,Nie,Używane
+2013,198362.0,Benzyna,38900.0,Audi,A4,170.0,Manualna,Front,4.947841306884481,7.3,Kombi,Bordowy,Polska,Tak,Używane
+2008,370000.0,Diesel,26500.0,Audi,A4,143.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Niebieski,Niemcy,Nie,Używane
+2008,201000.0,Diesel,52000.0,Audi,TT,170.0,Manualna,4X4,4.947841306884481,7.0,Kompakt,Czarny,Polska,Nie,Używane
+2023,19532.0,Benzyna,177700.0,Audi,Q3 Sportback,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Polska,Tak,Używane
+2023,17000.0,Benzyna,659900.0,Audi,RS6,600.0,Automatyczna,4X4,8.0,16.0,Kombi,Zielony,Polska,Tak,Używane
+2018,154000.0,Benzyna,112000.0,Audi,A4 Allroad,252.0,Automatyczna,4X4,5.0,7.0,Kombi,Brązowy,Polska,Tak,Używane
+2016,200500.0,Diesel,86900.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Niebieski,Polska,Tak,Używane
+2021,169000.0,Diesel,99800.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Szary,Niemcy,Tak,Używane
+2014,299000.0,Diesel,52700.0,Audi,A6,177.0,Automatyczna,Front,4.947841306884481,6.0,Kombi,Czarny,Polska,Tak,Używane
+2023,50000.0,Diesel,14999.0,Audi,A4,204.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2019,51900.0,Diesel,299000.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Polska,Nie,Używane
+2006,368000.0,Benzyna,18500.0,Audi,A6,170.0,Automatyczna,Front,6.0,10.0,Sedan,Czarny,Polska,Tak,Używane
+2011,343000.0,Diesel,31800.0,Audi,A4,136.0,Manualna,Front,4.2,6.1,Kombi,Szary,Polska,Nie,Używane
+2005,222742.0,Benzyna,26900.0,Audi,A6,177.0,Manualna,4X4,7.0,16.0,Sedan,Czarny,Niemcy,Tak,Używane
+2018,81070.0,Diesel,184900.0,Audi,A6,231.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Srebrny,Polska,Tak,Używane
+2022,38365.0,Benzyna,168900.0,Audi,Q3 Sportback,150.0,Automatyczna,Front,4.947841306884481,6.0,SUV,Szary,Polska,Tak,Używane
+2009,269521.0,Diesel,46999.0,Audi,Q5,163.0,Manualna,4X4,4.947841306884481,7.473995451099318,SUV,Biały,Belgia,Tak,Używane
+2020,59800.0,Benzyna,79990.0,Audi,A3,150.0,Automatyczna,Front,4.0,6.0,Kompakt,Czarny,Polska,Tak,Używane
+2017,132000.0,Benzyna,78000.0,Audi,A3,190.0,Automatyczna,4X4,4.8,7.2,Sedan,Biały,Stany Zjednoczone,Nie,Używane
+2017,126000.0,Diesel,96000.0,Audi,A5,190.0,Automatyczna,Front,4.947841306884481,4.0,Coupe,Szary,Polska,Tak,Używane
+2015,259000.0,Diesel,77900.0,Audi,A5,190.0,Manualna,4X4,4.0,5.0,Coupe,Czerwony,Niemcy,Tak,Używane
+2007,293991.0,Diesel,42000.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Granatowy,Włochy,Tak,Używane
+2010,208422.0,Benzyna,34900.0,Audi,A4,160.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Brązowy,Dania,Tak,Używane
+2007,293991.0,Diesel,42000.0,Audi,Q7,233.0,Automatyczna,4X4,8.0,14.0,SUV,Granatowy,Włochy,Tak,Używane
+2010,208422.0,Benzyna,34900.0,Audi,A4,160.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Brązowy,Dania,Tak,Używane
+2013,319850.0,Diesel,82000.0,Audi,A6 Allroad,245.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Brązowy,Polska,Nie,Używane
+2013,205474.0,Diesel,46200.0,Audi,A4,136.0,Manualna,4X4,4.947841306884481,6.1,Kombi,Biały,Polska,Nie,Używane
+2019,100000.0,Diesel,99900.0,Audi,A3,184.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Żółty,Dania,Tak,Używane
+2012,180000.0,Benzyna,27900.0,Audi,A1,122.0,Manualna,Front,4.947841306884481,7.473995451099318,Auta małe,Czarny,Polska,Nie,Używane
+2010,213000.0,Benzyna,29800.0,Audi,A6,170.0,Manualna,4X4,4.947841306884481,10.0,Kombi,Inny kolor,Polska,Nie,Używane
+2009,156000.0,Diesel,22000.0,Audi,A4,190.0,Automatyczna,Front,5.5,7.9,Sedan,Srebrny,Niemcy,Nie,Używane
+2005,132000.0,Benzyna,25999.0,Audi,A6,255.0,Automatyczna,Front,7.0,13.0,Sedan,Czarny,Szwecja,Tak,Używane
+2017,193880.0,Diesel,125000.0,Audi,Q7,218.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Francja,Tak,Używane
+2014,225000.0,Diesel,26900.0,Audi,A4,136.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Belgia,Nie,Używane
+2016,168000.0,Diesel,117000.0,Audi,A6,272.0,Automatyczna,4X4,4.8,6.0,Kombi,Czarny,Niemcy,Tak,Używane
+2023,10.0,Benzyna,360341.0,Audi,A7,265.0,Automatyczna,4X4,5.0,8.0,Coupe,Czarny,Polska,Tak,Nowe
+2010,190000.0,Diesel,40500.0,Audi,A5,240.0,Automatyczna,4X4,5.7,8.3,Coupe,Czarny,Belgia,Tak,Używane
+2021,96000.0,Benzyna,146900.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Polska,Nie,Używane
+2013,168100.0,Benzyna,75900.0,Audi,A6,310.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Granatowy,Polska,Nie,Używane
+2013,259000.0,Diesel,78000.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2013,251000.0,Diesel,68900.0,Audi,Q5,177.0,Automatyczna,4X4,4.0,6.0,SUV,Biały,Polska,Nie,Używane
+2013,175700.0,Benzyna,55500.0,Audi,A6,180.0,Automatyczna,Front,5.0,8.0,Sedan,Czarny,Niemcy,Nie,Używane
+2014,299000.0,Diesel,49700.0,Audi,A6,177.0,Manualna,Front,4.947841306884481,6.0,Sedan,Czarny,Polska,Tak,Używane
+2012,192000.0,Diesel,66600.0,Audi,Q7,245.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Czarny,Polska,Nie,Używane
+2021,33500.0,Diesel,208999.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Tak,Używane
+2007,330000.0,Diesel,22000.0,Audi,A6 Allroad,233.0,Automatyczna,4X4,7.0,11.0,Kombi,Czarny,Polska,Nie,Używane
+2004,221700.0,Benzyna,13799.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Kombi,Szary,Niemcy,Tak,Używane
+2010,239580.0,Diesel,29900.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Tak,Używane
+2010,315000.0,Diesel,27500.0,Audi,A3,105.0,Manualna,Front,4.947841306884481,5.1,Kompakt,Czarny,Dania,Nie,Używane
+2023,16332.0,Benzyna,66420.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,6.0,7.473995451099318,SUV,Niebieski,Polska,Tak,Używane
+2013,131000.0,Benzyna,49900.0,Audi,A3,180.0,Automatyczna,Front,4.0,7.0,Kompakt,Niebieski,Polska,Nie,Używane
+2008,220000.0,Benzyna,34999.0,Audi,A4,160.0,Manualna,Front,4.947841306884481,9.0,Sedan,Czarny,Polska,Nie,Używane
+2004,221000.0,Benzyna,16300.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Sedan,Inny kolor,Polska,Nie,Używane
+2018,99900.0,Diesel,145000.0,Audi,A4 Allroad,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Biały,Polska,Tak,Używane
+2018,139500.0,Benzyna,86900.0,Audi,A5,190.0,Automatyczna,Front,4.947841306884481,7.0,Sedan,Czarny,Polska,Nie,Używane
+2018,99900.0,Diesel,145000.0,Audi,A4 Allroad,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Biały,Polska,Tak,Używane
+2018,139500.0,Benzyna,86900.0,Audi,A5,190.0,Automatyczna,Rear,4.947841306884481,7.0,Sedan,Czarny,Polska,Nie,Używane
+2007,232363.0,Diesel,22900.0,Audi,A6,180.0,Manualna,4X4,4.947841306884481,9.0,Kombi,Czarny,Polska,Tak,Używane
+2010,200000.0,Diesel,49700.0,Audi,A5,170.0,Manualna,Front,4.947841306884481,7.473995451099318,Kabriolet,Biały,Belgia,Tak,Używane
+2018,201000.0,Diesel,69987.0,Audi,A4,150.0,Automatyczna,Front,3.0,4.0,Kombi,Szary,Niemcy,Tak,Używane
+2011,260000.0,Diesel,34700.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Czerwony,Polska,Tak,Używane
+2008,233000.0,Diesel,35900.0,Audi,A4,143.0,Manualna,Front,5.4,5.6,Kombi,Srebrny,Belgia,Tak,Używane
+2018,197000.0,Diesel,88000.0,Audi,A6,190.0,Automatyczna,4X4,4.1,5.2,Kombi,Biały,Niemcy,Tak,Używane
+2018,48000.0,Benzyna,54000.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,6.0,Sedan,Srebrny,Polska,Nie,Używane
+2016,235000.0,Diesel,45900.0,Audi,A3,150.0,Manualna,4X4,4.947841306884481,5.0,Kompakt,Inny kolor,Polska,Nie,Używane
+2012,264000.0,Diesel,51900.0,Audi,A4 Allroad,177.0,Automatyczna,4X4,5.0,7.0,Kombi,Biały,Polska,Tak,Używane
+2005,259520.0,Diesel,26600.0,Audi,A6,224.0,Automatyczna,4X4,6.0,11.0,Sedan,Szary,Niemcy,Tak,Używane
+2014,205229.0,Benzyna,45900.0,Audi,A3,122.0,Manualna,Front,4.0,6.0,Kompakt,Biały,Niemcy,Tak,Używane
+2014,263000.0,Diesel,68000.0,Audi,A6 Allroad,245.0,Automatyczna,4X4,5.0,7.0,Kombi,Granatowy,Polska,Tak,Używane
+2019,106368.0,Benzyna,276900.0,Audi,A8,340.0,Automatyczna,4X4,4.947841306884481,11.0,Sedan,Czarny,Polska,Tak,Używane
+2011,292812.0,Diesel,34800.0,Audi,A4,143.0,Automatyczna,Front,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2015,132000.0,Diesel,69900.0,Audi,A4,177.0,Automatyczna,4X4,4.9,6.5,Kombi,Biały,Niemcy,Tak,Używane
+2009,230000.0,Diesel,27900.0,Audi,A4,136.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
+2008,230000.0,Diesel,15900.0,Audi,A8,233.0,Automatyczna,4X4,4.947841306884481,12.0,Sedan,Srebrny,Polska,Tak,Używane
+2015,159927.0,Benzyna,100000.0,Audi,A4 Allroad,224.0,Automatyczna,4X4,6.0,8.0,Kombi,Szary,Polska,Tak,Używane
+2019,88500.0,Diesel,440000.0,Audi,SQ7,435.0,Automatyczna,4X4,6.0,8.0,SUV,Szary,Polska,Nie,Używane
+2013,214000.0,Diesel,45900.0,Audi,A3,150.0,Manualna,Front,3.7,5.1,Kompakt,Brązowy,Polska,Nie,Używane
+2019,176652.0,Diesel,224900.0,Audi,Q7,231.0,Automatyczna,4X4,6.0,7.0,SUV,Biały,Polska,Tak,Używane
+2013,225000.0,Diesel,52900.0,Audi,A4,177.0,Manualna,4X4,4.7,6.3,Kombi,Szary,Polska,Tak,Używane
+2018,84000.0,Benzyna,88500.0,Audi,Q2,150.0,Automatyczna,Front,4.0,6.0,SUV,Szary,Niemcy,Nie,Używane
+2009,270000.0,Diesel,34900.0,Audi,A3,170.0,Automatyczna,Front,4.0,7.0,Kompakt,Czarny,Niemcy,Tak,Używane
+2009,239000.0,Diesel,38500.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,5.0,Kombi,Granatowy,Niemcy,Tak,Używane
+2015,105000.0,Diesel,60800.0,Audi,A3,150.0,Manualna,Front,3.0,4.0,Kompakt,Czarny,Polska,Nie,Używane
+2023,10.0,Benzyna,653433.0,Audi,S8,571.0,Automatyczna,4X4,8.0,15.0,Sedan,Czarny,Polska,Tak,Nowe
+2007,256928.0,Benzyna,19999.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Czarny,Niemcy,Nie,Używane
+2019,75000.0,Diesel,155999.0,Audi,A6,204.0,Automatyczna,Front,4.0,5.0,Kombi,Inny kolor,Polska,Nie,Używane
+2018,97355.0,Diesel,149000.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Tak,Używane
+2018,97355.0,Diesel,149000.0,Audi,A6,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Polska,Tak,Używane
+2014,156255.0,Diesel,69900.0,Audi,A5,177.0,Automatyczna,Front,4.0,5.0,Coupe,Brązowy,Polska,Tak,Używane
+2020,46000.0,Benzyna,117900.0,Audi,Q3,149.0,Automatyczna,Front,5.1,7.0,SUV,Zielony,Niemcy,Tak,Używane
+2017,149690.0,Diesel,94900.0,Audi,A6,190.0,Automatyczna,Front,3.0,5.0,Sedan,Czarny,Polska,Nie,Używane
+2021,46585.0,Benzyna,259900.0,Audi,A6,340.0,Automatyczna,4X4,5.0,7.0,Kombi,Czarny,Niemcy,Tak,Używane
+2020,57900.0,Benzyna,596900.0,Audi,RS Q8,600.0,Automatyczna,4X4,9.0,17.0,SUV,Szary,Polska,Tak,Używane
+2022,48400.0,Diesel,129900.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Sedan,Czarny,Polska,Tak,Używane
+2009,156800.0,Benzyna,15500.0,Audi,A5,180.0,Manualna,Front,4.947841306884481,9.0,Coupe,Czarny,Polska,Nie,Używane
+2021,48500.0,Benzyna,319900.0,Audi,A8,340.0,Automatyczna,4X4,6.0,11.0,Sedan,Szary,Polska,Tak,Używane
+2012,264700.0,Diesel,58800.0,Audi,A5,177.0,Manualna,Front,4.1,5.5,Coupe,Czarny,Dania,Tak,Używane
+2010,128203.0,Benzyna,29800.0,Audi,A3,160.0,Manualna,Front,5.0,9.0,Auta miejskie,Czarny,Niemcy,Nie,Używane
+2015,235400.0,Diesel,61900.0,Audi,A4,136.0,Manualna,Front,3.0,4.0,Kombi,Czarny,Dania,Tak,Używane
+2017,66000.0,Diesel,119000.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Sedan,Biały,Polska,Tak,Używane
+2015,196000.0,Diesel,64900.0,Audi,A4,190.0,Manualna,4X4,4.947841306884481,6.0,Kombi,Czarny,Szwecja,Tak,Używane
+2018,140000.0,Diesel,198700.0,Audi,A6,286.0,Automatyczna,4X4,4.0,7.0,Sedan,Szary,Polska,Tak,Używane
+2018,65000.0,Benzyna,135000.0,Audi,A5,252.0,Automatyczna,4X4,5.5,7.9,Coupe,Biały,Polska,Nie,Używane
+2013,175000.0,Diesel,67900.0,Audi,Q5,177.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Biały,Szwecja,Tak,Używane
+2019,92106.0,Benzyna,109000.0,Audi,A5,252.0,Automatyczna,4X4,5.5,7.9,Auta miejskie,Niebieski,Stany Zjednoczone,Nie,Używane
+2018,71000.0,Benzyna,134900.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Granatowy,Polska,Nie,Używane
+2019,227000.0,Diesel,209900.0,Audi,Q8,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Niebieski,Polska,Nie,Używane
+2009,118000.0,Benzyna,44900.0,Audi,A5,211.0,Automatyczna,Front,4.947841306884481,7.0,Coupe,Czarny,Polska,Tak,Używane
+2017,195000.0,Diesel,104900.0,Audi,A6,320.0,Automatyczna,4X4,5.0,7.0,Sedan,Czarny,Polska,Tak,Używane
+2021,86977.0,Diesel,235800.0,Audi,Q7,231.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Polska,Tak,Używane
+2013,164000.0,Diesel,67900.0,Audi,Q3,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Biały,Polska,Nie,Używane
+2010,199990.0,Diesel,30300.0,Audi,A3,140.0,Manualna,Front,3.8,5.5,Auta miejskie,Inny kolor,Polska,Nie,Używane
+2010,319000.0,Diesel,32499.0,Audi,A4,233.0,Manualna,Front,7.0,8.1,Kombi,Błękitny,Niemcy,Nie,Używane
+2017,187450.0,Diesel,159900.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Brązowy,Polska,Nie,Używane
+2009,239000.0,Diesel,29999.0,Audi,A3,140.0,Manualna,Front,4.0,7.0,Kompakt,Brązowy,Niemcy,Tak,Używane
+2023,22540.0,Diesel,379900.0,Audi,Q7,286.0,Automatyczna,4X4,4.947841306884481,8.0,Kombi,Biały,Polska,Tak,Używane
+2013,349090.0,Diesel,33000.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Biały,Niemcy,Tak,Używane
+2021,35000.0,Diesel,190999.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Sedan,Granatowy,Polska,Nie,Używane
+2016,159000.0,Diesel,93900.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Austria,Nie,Używane
+2014,175000.0,Diesel,62000.0,Audi,A5,177.0,Automatyczna,Front,4.0,5.0,Coupe,Czarny,Polska,Tak,Używane
+2020,52300.0,Diesel,139900.0,Audi,A4,163.0,Automatyczna,Front,4.947841306884481,9.0,Kombi,Szary,Polska,Tak,Używane
+2010,227462.0,Diesel,36600.0,Audi,A6,190.0,Automatyczna,Front,5.0,8.0,Kombi,Czarny,Polska,Tak,Używane
+2010,244000.0,Diesel,27000.0,Audi,A3,140.0,Manualna,Front,3.8,5.5,Kompakt,Czarny,Polska,Tak,Używane
+2020,46000.0,Benzyna,159999.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Srebrny,Polska,Nie,Używane
+2014,230000.0,Diesel,93900.0,Audi,A6 Allroad,313.0,Automatyczna,4X4,5.0,8.0,Kombi,Biały,Niemcy,Tak,Używane
+2012,204500.0,Diesel,68000.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Nie,Używane
+2017,117972.0,Diesel,55900.0,Audi,A6 Allroad,217.0,Automatyczna,4X4,5.6,6.5,Kombi,Szary,Polska,Nie,Używane
+2015,195000.0,Diesel,81000.0,Audi,Q5,190.0,Automatyczna,4X4,5.0,6.0,SUV,Czarny,Polska,Tak,Używane
+2016,94000.0,Benzyna,79000.0,Audi,A6,252.0,Automatyczna,Front,5.0,7.0,Sedan,Biały,Stany Zjednoczone,Nie,Używane
+2018,95500.0,Diesel,144900.0,Audi,Q5,163.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Szary,Polska,Tak,Używane
+2012,310852.0,Diesel,33900.0,Audi,A4,136.0,Manualna,4X4,4.947841306884481,5.3,Kombi,Czarny,Polska,Nie,Używane
+2020,93000.0,Hybryda Plug-in,201720.0,Audi,A6,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Szary,Polska,Tak,Używane
+2020,85000.0,Benzyna,89000.0,Audi,A3,150.0,Automatyczna,Front,4.0,6.0,Kompakt,Biały,Polska,Tak,Używane
+2021,179000.0,Diesel,95900.0,Audi,A4,190.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2020,155000.0,Diesel,159800.0,Audi,A6,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Szary,Niemcy,Tak,Używane
+2015,220000.0,Diesel,55000.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,5.4,Kombi,Biały,Szwecja,Tak,Używane
+2015,130000.0,Diesel,70900.0,Audi,A7,272.0,Automatyczna,4X4,4.0,6.0,Sedan,Szary,Polska,Nie,Używane
+2020,57195.0,Benzyna,429000.0,Audi,S8,571.0,Automatyczna,4X4,8.0,15.0,Sedan,Czarny,Polska,Tak,Używane
+2011,291200.0,Diesel,47500.0,Audi,Q5,170.0,Manualna,4X4,5.0,7.0,SUV,Srebrny,Polska,Nie,Używane
+2020,79000.0,Benzyna,143900.0,Audi,A4,204.0,Automatyczna,Front,4.0,7.0,Kombi,Biały,Polska,Tak,Używane
+2007,248500.0,Diesel,16900.0,Audi,A4,140.0,Manualna,Front,4.0,7.0,Kombi,Srebrny,Polska,Nie,Używane
+2019,111545.0,Diesel,138900.0,Audi,A4,190.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Szary,Polska,Tak,Używane
+2013,229000.0,Diesel,68900.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Biały,Polska,Nie,Używane
+2015,166000.0,Diesel,56000.0,Audi,A4,149.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Biały,Polska,Tak,Używane
+2015,245000.0,Diesel,95000.0,Audi,A6 Allroad,272.0,Automatyczna,4X4,4.947841306884481,6.0,Kombi,Szary,Niemcy,Tak,Używane
+2023,11086.0,Benzyna,157900.0,Audi,A1,207.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Auta miejskie,Srebrny,Niemcy,Tak,Używane
+2006,243500.0,Benzyna,20500.0,Audi,A4,130.0,Automatyczna,Front,6.0,11.0,Kombi,Szary,Polska,Nie,Używane
+2008,279000.0,Diesel,34800.0,Audi,A4,143.0,Manualna,Front,4.947841306884481,6.4,Sedan,Biały,Niemcy,Tak,Używane
+2005,290000.0,Diesel,9700.0,Audi,A4,140.0,Manualna,Front,4.947841306884481,7.0,Kombi,Czarny,Polska,Nie,Używane
+2011,81000.0,Benzyna,49000.0,Audi,A4,211.0,Automatyczna,Front,5.0,7.0,Sedan,Czarny,Stany Zjednoczone,Tak,Używane
+2020,21900.0,Benzyna,319600.0,Audi,A8,340.0,Automatyczna,4X4,6.0,11.0,Sedan,Bordowy,Polska,Nie,Używane
+2016,92401.0,Diesel,74900.0,Audi,A4,150.0,Manualna,Front,3.0,5.0,Sedan,Szary,Polska,Tak,Używane
+2010,258000.0,Diesel,29900.0,Audi,A3,140.0,Manualna,4X4,4.947841306884481,7.473995451099318,Auta miejskie,Granatowy,Polska,Nie,Używane
+2021,158500.0,Diesel,145900.0,Audi,Q5,190.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2007,262000.0,Diesel,21900.0,Audi,A4,115.0,Manualna,Front,4.947841306884481,7.0,Kombi,Szary,Polska,Nie,Używane
+2019,35250.0,Benzyna,129999.0,Audi,Q3,150.0,Manualna,Front,4.947841306884481,7.473995451099318,SUV,Czarny,Niemcy,Tak,Używane
+2019,100500.0,Diesel,119700.0,Audi,A4,190.0,Automatyczna,4X4,4.0,5.0,Kombi,Szary,Niemcy,Tak,Używane
+2022,37800.0,Diesel,270000.0,Audi,A6,204.0,Automatyczna,4X4,4.0,5.0,Kombi,Czarny,Polska,Tak,Używane
+2015,204000.0,Diesel,67900.0,Audi,A5,190.0,Automatyczna,Front,4.947841306884481,5.3,Coupe,Czarny,Polska,Nie,Używane
+2014,137000.0,Benzyna,68900.0,Audi,Q5,224.0,Automatyczna,4X4,6.0,9.0,SUV,Biały,Polska,Tak,Używane
+2021,37900.0,Diesel,307377.0,Audi,Q7,231.0,Automatyczna,4X4,5.0,8.0,SUV,Szary,Polska,Tak,Używane
+2014,141214.0,Benzyna,61999.0,Audi,A3,140.0,Manualna,Front,4.947841306884481,7.473995451099318,Kabriolet,Czarny,Polska,Nie,Używane
+2019,85920.0,Benzyna,150000.0,Audi,Q3,190.0,Automatyczna,4X4,6.0,7.0,SUV,Szary,Polska,Tak,Używane
+2014,163000.0,Benzyna,69900.0,Audi,A5,224.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Bordowy,Polska,Tak,Używane
+2021,37000.0,Benzyna,206900.0,Audi,Q7,340.0,Automatyczna,4X4,7.0,11.0,SUV,Biały,Polska,Nie,Używane
+2012,224000.0,Diesel,37500.0,Audi,A4,143.0,Manualna,4X4,4.947841306884481,5.0,Kombi,Czarny,Polska,Nie,Używane
+2015,231600.0,Diesel,52900.0,Audi,A4,150.0,Manualna,Front,3.0,4.0,Kombi,Srebrny,Polska,Tak,Używane
+2011,263000.0,Diesel,90800.0,Audi,A8,350.0,Automatyczna,4X4,4.947841306884481,9.5,Sedan,Czarny,Polska,Nie,Używane
+2015,187000.0,Benzyna,50000.0,Audi,A3,110.0,Automatyczna,Front,4.0,5.0,Kompakt,Biały,Polska,Nie,Używane
+2009,173500.0,Benzyna,20970.0,Audi,A3,160.0,Manualna,Front,4.947841306884481,9.0,Coupe,Niebieski,Niemcy,Tak,Używane
+2022,30200.0,Diesel,399900.0,Audi,S6,344.0,Automatyczna,4X4,4.947841306884481,7.0,Kombi,Szary,Polska,Tak,Używane
+2012,186662.0,Diesel,26900.0,Audi,A3,90.0,Manualna,Front,4.947841306884481,5.3,Kompakt,Czarny,Belgia,Tak,Używane
+2009,296000.0,Diesel,39999.0,Audi,A8,326.0,Automatyczna,4X4,7.0,13.0,Sedan,Czarny,Polska,Nie,Używane
+2015,217000.0,Diesel,59500.0,Audi,A4,190.0,Manualna,4X4,4.947841306884481,6.0,Kombi,Inny kolor,Niemcy,Tak,Używane
+2019,32000.0,Benzyna,166050.0,Audi,TT,197.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Coupe,Biały,Belgia,Nie,Używane
+2014,184600.0,Diesel,69999.0,Audi,A5,177.0,Automatyczna,4X4,4.947841306884481,6.4,Coupe,Biały,Polska,Nie,Używane
+2011,163000.0,Benzyna,41990.0,Audi,A1,122.0,Manualna,4X4,4.947841306884481,6.8,Sedan,Czerwony,Polska,Tak,Używane
+2008,212000.0,Diesel,37000.0,Audi,TT,170.0,Manualna,4X4,4.0,7.0,Coupe,Biały,Niemcy,Tak,Używane
+2005,180000.0,Benzyna,17900.0,Audi,A4,130.0,Manualna,Front,6.0,11.0,Kombi,Inny kolor,Polska,Nie,Używane
+2000,195000.0,Benzyna,8500.0,Audi,A2,75.0,Manualna,Front,4.0,8.0,Kompakt,Srebrny,Polska,Nie,Używane
+2021,117000.0,Benzyna,360000.0,Audi,SQ7,507.0,Automatyczna,Front,4.947841306884481,16.0,SUV,Czarny,Polska,Nie,Używane
+2012,133333.0,Benzyna,64900.0,Audi,A5,211.0,Automatyczna,4X4,5.8,8.8,Coupe,Czarny,Niemcy,Nie,Używane
+2016,118300.0,Diesel,84900.0,Audi,A4,150.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Polska,Nie,Używane
+2012,319120.0,Diesel,49999.0,Audi,A6,177.0,Automatyczna,Front,4.0,6.0,Sedan,Czarny,Polska,Tak,Używane
+2014,194000.0,Diesel,73800.0,Audi,Q5,177.0,Automatyczna,4X4,5.0,6.0,SUV,Beżowy,Polska,Tak,Używane
+2022,24696.0,Benzyna,239900.0,Audi,Q5,265.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Zielony,Polska,Tak,Używane
+2020,52800.0,Diesel,151500.0,Audi,A6,163.0,Automatyczna,Front,4.947841306884481,5.0,Sedan,Czarny,Polska,Tak,Używane
+2018,130995.0,Diesel,167900.0,Audi,Q5,190.0,Automatyczna,4X4,4.947841306884481,6.0,SUV,Czarny,Polska,Nie,Używane
+2003,312462.0,Diesel,14500.0,Audi,A4,163.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kabriolet,Czarny,Polska,Nie,Używane
+2015,69877.0,Benzyna,98900.0,Audi,A8,435.0,Automatyczna,4X4,7.0,12.5,Sedan,Granatowy,Stany Zjednoczone,Nie,Używane
+2013,114000.0,Benzyna,68900.0,Audi,A6,211.0,Automatyczna,Front,6.0,6.0,Sedan,Biały,Polska,Nie,Używane
+2009,230000.0,Benzyna,32900.0,Audi,A3,160.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kompakt,Czarny,Polska,Nie,Używane
+2016,183000.0,Diesel,109900.0,Audi,A6,272.0,Automatyczna,4X4,4.0,5.0,Sedan,Inny kolor,Niemcy,Tak,Używane
+2023,10.0,Elektryczny,386900.0,Audi,Q8,408.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,SUV,Brązowy,Polska,Tak,Nowe
+2010,218679.0,Diesel,59700.0,Audi,Q5,170.0,Automatyczna,4X4,5.0,8.0,SUV,Czarny,Polska,Nie,Używane
+2012,282400.0,Diesel,48900.0,Audi,Q5,170.0,Manualna,Front,4.947841306884481,7.0,SUV,Czarny,Polska,Nie,Używane
+2008,249000.0,Diesel,33900.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,6.0,Kombi,Czarny,Polska,Nie,Używane
+2019,155500.0,Diesel,129900.0,Audi,Q5,190.0,Automatyczna,4X4,4.947841306884481,5.0,SUV,Czarny,Niemcy,Tak,Używane
+2012,229000.0,Diesel,55800.0,Audi,A4,177.0,Manualna,4X4,4.2,5.6,Kombi,Inny kolor,Polska,Tak,Używane
+2016,174000.0,Diesel,239850.0,Audi,Q7,272.0,Automatyczna,4X4,5.0,6.0,SUV,Czarny,Polska,Tak,Używane
+2014,187500.0,Diesel,64900.0,Audi,A5,177.0,Manualna,4X4,4.947841306884481,6.1,Sedan,Brązowy,Niemcy,Tak,Używane
+2003,269500.0,Benzyna,15400.0,Audi,A4,163.0,Automatyczna,Front,6.0,11.0,Sedan,Szary,Niemcy,Tak,Używane
+2017,124800.0,Diesel,114550.0,Audi,A5,190.0,Automatyczna,Front,4.0,5.0,Coupe,Szary,Polska,Tak,Używane
+2005,198052.0,Benzyna,19000.0,Audi,A3,102.0,Manualna,Front,4.947841306884481,9.5,Auta miejskie,Inny kolor,Polska,Nie,Używane
+2015,90000.0,Benzyna,84900.0,Audi,Q3,150.0,Manualna,Front,4.947841306884481,6.0,SUV,Szary,Niemcy,Tak,Używane
+2020,82500.0,Diesel,182500.0,Audi,A6,286.0,Automatyczna,4X4,4.0,7.0,Kombi,Srebrny,Polska,Tak,Używane
+2021,55729.0,Diesel,199000.0,Audi,A6,245.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Sedan,Niebieski,Niemcy,Tak,Używane
+2012,177000.0,Benzyna,33700.0,Audi,A3,160.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Tak,Używane
+2011,265000.0,Diesel,42700.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Biały,Polska,Tak,Używane
+2020,180000.0,Diesel,104400.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Szary,Niemcy,Tak,Używane
+2018,102205.0,Diesel,179900.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Szary,Polska,Tak,Używane
+2019,35000.0,Benzyna,149000.0,Audi,Q5,252.0,Automatyczna,4X4,6.1,8.4,SUV,Niebieski,Polska,Nie,Używane
+2014,167000.0,Diesel,64900.0,Audi,A4,177.0,Automatyczna,4X4,4.947841306884481,6.5,Kombi,Czarny,Niemcy,Nie,Używane
+2012,177000.0,Benzyna,33700.0,Audi,A3,160.0,Manualna,Front,4.947841306884481,7.473995451099318,Kompakt,Srebrny,Polska,Tak,Używane
+2011,265000.0,Diesel,42700.0,Audi,A4,170.0,Manualna,4X4,4.947841306884481,7.473995451099318,Kombi,Biały,Polska,Tak,Używane
+2020,180000.0,Diesel,104400.0,Audi,A4,163.0,Automatyczna,Front,4.0,4.0,Kombi,Szary,Niemcy,Tak,Używane
+2018,102205.0,Diesel,179900.0,Audi,A7,286.0,Automatyczna,4X4,4.947841306884481,7.0,Sedan,Szary,Polska,Tak,Używane
+2019,35000.0,Benzyna,149000.0,Audi,Q5,252.0,Automatyczna,4X4,6.1,8.4,SUV,Niebieski,Polska,Nie,Używane
+2014,167000.0,Diesel,64900.0,Audi,A4,177.0,Automatyczna,4X4,4.947841306884481,6.5,Kombi,Czarny,Niemcy,Nie,Używane
+2021,100853.0,Diesel,184900.0,Audi,A6,204.0,Automatyczna,4X4,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2020,34353.0,Diesel,369900.0,Audi,A8,286.0,Automatyczna,4X4,4.947841306884481,8.0,Sedan,Czarny,Niemcy,Tak,Używane
+2017,95000.0,Diesel,100900.0,Audi,A6,190.0,Automatyczna,Front,4.0,5.0,Kombi,Czarny,Belgia,Tak,Używane
+2009,128000.0,Benzyna,41900.0,Audi,S5,354.0,Automatyczna,4X4,8.0,15.0,Coupe,Czarny,Polska,Nie,Używane
+2013,126000.0,Benzyna,87500.0,Audi,S4,333.0,Automatyczna,4X4,6.0,10.0,Sedan,Biały,Polska,Tak,Używane
+2015,196000.0,Diesel,65900.0,Audi,A3,150.0,Automatyczna,4X4,4.947841306884481,5.1,Kompakt,Czarny,Polska,Nie,Używane
+2015,121000.0,Diesel,94900.0,Audi,Q5,190.0,Manualna,4X4,5.0,6.0,SUV,Czarny,Polska,Tak,Używane
+2020,163000.0,Diesel,99900.0,Audi,A4,150.0,Manualna,Front,4.947841306884481,4.5,Kombi,Czarny,Polska,Tak,Używane
+2011,268635.0,Diesel,42000.0,Audi,A4,170.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Inny kolor,Niemcy,Nie,Używane
+2017,188000.0,Diesel,143900.0,Audi,A6,272.0,Automatyczna,4X4,4.947841306884481,6.0,Sedan,Biały,Polska,Tak,Używane
+2008,237437.0,Benzyna,30000.0,Audi,A4,160.0,Manualna,Front,4.947841306884481,7.473995451099318,Kombi,Srebrny,Polska,Nie,Używane
+2019,33000.0,Benzyna,129900.0,Audi,Q5,252.0,Automatyczna,4X4,5.0,8.0,SUV,Srebrny,Polska,Nie,Używane
+2014,179000.0,Diesel,64900.0,Audi,Q3,177.0,Automatyczna,4X4,4.947841306884481,7.0,SUV,Biały,Szwecja,Tak,Używane
+2020,140000.0,Diesel,119900.0,Audi,A6,204.0,Automatyczna,Front,4.947841306884481,7.473995451099318,Kombi,Czarny,Belgia,Tak,Używane
+2010,220000.0,Benzyna,52900.0,Audi,Q5,270.0,Automatyczna,4X4,7.0,12.0,SUV,Bordowy,Polska,Nie,Używane
+2013,164000.0,Benzyna,71900.0,Audi,Q5,272.0,Automatyczna,4X4,6.0,11.0,SUV,Szary,Polska,Nie,Używane
+2014,137576.0,Benzyna,55000.0,Audi,A3,125.0,Manualna,Front,4.947841306884481,7.473995451099318,Sedan,Czerwony,Polska,Tak,Używane
+2009,229000.0,Benzyna,26900.0,Audi,A3,102.0,Manualna,4X4,4.0,6.0,Kompakt,Biały,Polska,Nie,Używane
+2004,420000.0,Diesel,17900.0,Audi,A6,224.0,Automatyczna,4X4,6.0,11.0,Sedan,Błękitny,Polska,Nie,Używane
+2019,210000.0,Diesel,218940.0,Audi,Q8,286.0,Automatyczna,4X4,4.947841306884481,8.0,SUV,Inny kolor,Polska,Nie,Używane
+2010,112000.0,Benzyna,179000.0,Audi,RS6,580.0,Automatyczna,4X4,10.0,20.0,Kombi,Czarny,Japonia,Tak,Używane
+2014,169897.0,Diesel,54999.0,Audi,A3,150.0,Manualna,Front,3.7,5.0,Sedan,Czarny,Niemcy,Tak,Używane
+2012,238000.0,Diesel,51900.0,Audi,A4,136.0,Manualna,Front,4.947841306884481,5.3,Sedan,Czarny,Polska,Tak,Używane
+2021,56062.0,Diesel,204900.0,Audi,Q5 Sportback,204.0,Automatyczna,4X4,4.0,6.0,SUV,Inny kolor,Polska,Tak,Używane
+2015,250000.0,Diesel,75700.0,Audi,A6,190.0,Automatyczna,Front,4.947841306884481,5.0,Kombi,Czarny,Polska,Tak,Używane
+2020,141100.0,Diesel,219900.0,Audi,A6 Allroad,286.0,Automatyczna,4X4,4.947841306884481,7.473995451099318,Kombi,Czarny,Niemcy,Tak,Używane
