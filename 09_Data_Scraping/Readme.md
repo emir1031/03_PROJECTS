@@ -18,6 +18,7 @@ Data Scrape, also known as Web Scraping, is an automated method for collecting l
 
 ### Which language and libraries can we use for Data Scrape?
 ![Alternatif Metin](https://github.com/emir1031/03_PROJECTS/blob/main/09_Data_Scraping/pics/pic1.jpg)
+
 If you are currently working or researching in the field of data scraping, you will see that Python Programming Language is very successful in this field.
 
 We will scrape data very successfully with these two Python libraries, Beautiful Soup and Selenium (by adding some Python skills). If you have any suggestions or different approaches, please do not hesitate to contact me or mention in the comments.
